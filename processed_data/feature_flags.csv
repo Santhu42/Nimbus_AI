@@ -1,0 +1,121 @@
+flag_id,plan_id,feature_key,feature_name,is_enabled,enabled_at
+1,1,project_boards,Core project management boards,TRUE,2023-01-25 18:02:58
+2,1,ai_task_suggest,AI-powered task suggestions,FALSE,
+3,1,gantt_charts,Gantt chart visualization,FALSE,
+4,1,time_tracking,Built-in time tracking,FALSE,
+5,1,resource_mgmt,Resource management & allocation,FALSE,
+6,1,custom_workflows,Custom workflow automation,FALSE,
+7,1,advanced_reports,Advanced analytics & reports,FALSE,
+8,1,api_access,REST API access,FALSE,
+9,1,sso_integration,SSO / SAML integration,FALSE,
+10,1,audit_logs,Detailed audit logs,FALSE,
+11,1,white_label,White-label branding,FALSE,
+12,1,priority_support,Priority support channel,FALSE,
+13,1,bulk_import,Bulk data import tools,TRUE,2023-03-13 08:18:23
+14,1,mobile_app,Mobile app access,TRUE,2023-02-08 08:41:26
+15,1,guest_access,Guest / external collaborator access,FALSE,
+16,2,project_boards,Core project management boards,TRUE,2023-03-15 14:18:17
+17,2,ai_task_suggest,AI-powered task suggestions,TRUE,2023-01-08 22:14:54
+18,2,gantt_charts,Gantt chart visualization,TRUE,2023-02-21 11:39:03
+19,2,time_tracking,Built-in time tracking,TRUE,2023-02-02 18:40:43
+20,2,resource_mgmt,Resource management & allocation,FALSE,
+21,2,custom_workflows,Custom workflow automation,TRUE,2023-03-20 13:16:49
+22,2,advanced_reports,Advanced analytics & reports,TRUE,2023-03-08 10:19:02
+23,2,api_access,REST API access,TRUE,2023-03-09 07:40:09
+24,2,sso_integration,SSO / SAML integration,FALSE,
+25,2,audit_logs,Detailed audit logs,FALSE,
+26,2,white_label,White-label branding,FALSE,
+27,2,priority_support,Priority support channel,TRUE,2023-01-03 16:11:50
+28,2,bulk_import,Bulk data import tools,TRUE,2023-03-26 11:02:45
+29,2,mobile_app,Mobile app access,TRUE,2023-01-03 07:11:22
+30,2,guest_access,Guest / external collaborator access,TRUE,2023-02-12 03:37:25
+31,3,project_boards,Core project management boards,TRUE,2023-01-08 10:22:42
+32,3,ai_task_suggest,AI-powered task suggestions,TRUE,2023-01-11 11:42:02
+33,3,gantt_charts,Gantt chart visualization,TRUE,2023-01-10 00:48:13
+34,3,time_tracking,Built-in time tracking,TRUE,2023-01-27 07:21:15
+35,3,resource_mgmt,Resource management & allocation,FALSE,
+36,3,custom_workflows,Custom workflow automation,TRUE,2023-01-14 21:48:06
+37,3,advanced_reports,Advanced analytics & reports,TRUE,2023-03-22 05:53:00
+38,3,api_access,REST API access,TRUE,2023-02-13 08:21:24
+39,3,sso_integration,SSO / SAML integration,FALSE,
+40,3,audit_logs,Detailed audit logs,FALSE,
+41,3,white_label,White-label branding,FALSE,
+42,3,priority_support,Priority support channel,TRUE,2023-01-07 05:45:53
+43,3,bulk_import,Bulk data import tools,TRUE,2023-01-08 08:46:49
+44,3,mobile_app,Mobile app access,TRUE,2023-02-20 04:44:39
+45,3,guest_access,Guest / external collaborator access,TRUE,2023-01-17 21:27:01
+46,4,project_boards,Core project management boards,TRUE,2023-02-17 09:07:18
+47,4,ai_task_suggest,AI-powered task suggestions,TRUE,2023-03-21 14:24:37
+48,4,gantt_charts,Gantt chart visualization,TRUE,2023-02-08 10:39:53
+49,4,time_tracking,Built-in time tracking,TRUE,2023-01-08 20:44:10
+50,4,resource_mgmt,Resource management & allocation,TRUE,2023-01-25 22:52:13
+51,4,custom_workflows,Custom workflow automation,TRUE,2023-01-11 00:00:14
+52,4,advanced_reports,Advanced analytics & reports,TRUE,2023-02-17 10:16:56
+53,4,api_access,REST API access,TRUE,2023-02-11 03:55:35
+54,4,sso_integration,SSO / SAML integration,TRUE,2023-02-04 09:42:36
+55,4,audit_logs,Detailed audit logs,TRUE,2023-03-11 04:28:31
+56,4,white_label,White-label branding,FALSE,
+57,4,priority_support,Priority support channel,TRUE,2023-01-01 19:18:27
+58,4,bulk_import,Bulk data import tools,TRUE,2023-02-02 17:10:24
+59,4,mobile_app,Mobile app access,TRUE,2023-03-03 21:10:29
+60,4,guest_access,Guest / external collaborator access,TRUE,2023-01-13 20:19:05
+61,5,project_boards,Core project management boards,TRUE,2023-03-07 04:30:22
+62,5,ai_task_suggest,AI-powered task suggestions,TRUE,2023-03-20 06:43:06
+63,5,gantt_charts,Gantt chart visualization,TRUE,2023-02-16 04:45:49
+64,5,time_tracking,Built-in time tracking,TRUE,2023-01-30 21:03:09
+65,5,resource_mgmt,Resource management & allocation,TRUE,2023-01-26 15:45:30
+66,5,custom_workflows,Custom workflow automation,TRUE,2023-03-25 10:13:18
+67,5,advanced_reports,Advanced analytics & reports,TRUE,2023-03-27 14:35:16
+68,5,api_access,REST API access,TRUE,2023-03-03 09:53:45
+69,5,sso_integration,SSO / SAML integration,TRUE,2023-01-14 19:06:15
+70,5,audit_logs,Detailed audit logs,TRUE,2023-02-11 22:08:24
+71,5,white_label,White-label branding,FALSE,
+72,5,priority_support,Priority support channel,TRUE,2023-02-03 02:07:16
+73,5,bulk_import,Bulk data import tools,TRUE,2023-01-04 21:19:04
+74,5,mobile_app,Mobile app access,TRUE,2023-02-18 12:29:02
+75,5,guest_access,Guest / external collaborator access,TRUE,2023-03-21 17:06:08
+76,6,project_boards,Core project management boards,TRUE,2023-02-05 14:11:49
+77,6,ai_task_suggest,AI-powered task suggestions,TRUE,2023-03-10 01:40:09
+78,6,gantt_charts,Gantt chart visualization,TRUE,2023-03-04 16:55:17
+79,6,time_tracking,Built-in time tracking,TRUE,2023-03-24 18:39:15
+80,6,resource_mgmt,Resource management & allocation,TRUE,2023-03-28 13:07:26
+81,6,custom_workflows,Custom workflow automation,TRUE,2023-03-03 16:26:46
+82,6,advanced_reports,Advanced analytics & reports,TRUE,2023-02-05 04:44:20
+83,6,api_access,REST API access,TRUE,2023-02-28 05:16:11
+84,6,sso_integration,SSO / SAML integration,TRUE,2023-03-24 19:39:29
+85,6,audit_logs,Detailed audit logs,TRUE,2023-02-23 08:16:09
+86,6,white_label,White-label branding,TRUE,2023-03-13 03:52:34
+87,6,priority_support,Priority support channel,TRUE,2023-01-19 16:54:33
+88,6,bulk_import,Bulk data import tools,TRUE,2023-03-25 07:38:58
+89,6,mobile_app,Mobile app access,TRUE,2023-02-24 12:00:33
+90,6,guest_access,Guest / external collaborator access,TRUE,2023-01-31 18:19:29
+91,7,project_boards,Core project management boards,TRUE,2023-02-18 17:58:11
+92,7,ai_task_suggest,AI-powered task suggestions,TRUE,2023-01-23 20:17:21
+93,7,gantt_charts,Gantt chart visualization,TRUE,2023-01-05 21:16:38
+94,7,time_tracking,Built-in time tracking,TRUE,2023-01-06 23:09:56
+95,7,resource_mgmt,Resource management & allocation,TRUE,2023-03-14 21:04:06
+96,7,custom_workflows,Custom workflow automation,TRUE,2023-01-15 17:30:31
+97,7,advanced_reports,Advanced analytics & reports,TRUE,2023-01-11 08:12:53
+98,7,api_access,REST API access,TRUE,2023-01-06 12:14:14
+99,7,sso_integration,SSO / SAML integration,TRUE,2023-01-14 13:25:24
+100,7,audit_logs,Detailed audit logs,TRUE,2023-03-01 14:24:26
+101,7,white_label,White-label branding,TRUE,2023-02-07 06:19:23
+102,7,priority_support,Priority support channel,TRUE,2023-03-24 02:19:04
+103,7,bulk_import,Bulk data import tools,TRUE,2023-02-18 10:28:17
+104,7,mobile_app,Mobile app access,TRUE,2023-01-21 05:17:06
+105,7,guest_access,Guest / external collaborator access,TRUE,2023-03-04 05:51:25
+106,8,project_boards,Core project management boards,TRUE,2023-01-31 01:13:29
+107,8,ai_task_suggest,AI-powered task suggestions,TRUE,2023-01-03 03:57:48
+108,8,gantt_charts,Gantt chart visualization,TRUE,2023-01-12 20:27:08
+109,8,time_tracking,Built-in time tracking,TRUE,2023-01-26 22:28:29
+110,8,resource_mgmt,Resource management & allocation,FALSE,
+111,8,custom_workflows,Custom workflow automation,TRUE,2023-03-10 20:19:39
+112,8,advanced_reports,Advanced analytics & reports,TRUE,2023-02-24 15:21:44
+113,8,api_access,REST API access,TRUE,2023-03-27 05:38:17
+114,8,sso_integration,SSO / SAML integration,FALSE,
+115,8,audit_logs,Detailed audit logs,FALSE,
+116,8,white_label,White-label branding,FALSE,
+117,8,priority_support,Priority support channel,TRUE,2023-03-29 05:53:15
+118,8,bulk_import,Bulk data import tools,TRUE,2023-01-23 15:01:33
+119,8,mobile_app,Mobile app access,TRUE,2023-01-31 08:42:36
+120,8,guest_access,Guest / external collaborator access,TRUE,2023-01-17 01:16:14

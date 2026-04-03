@@ -1,0 +1,9 @@
+plan_id,plan_name,plan_tier,monthly_price_usd,annual_price_usd,max_users,max_projects,storage_gb,is_active
+1,Free,free,0,0,5.0,3.0,1,TRUE
+2,Starter,starter,12,120,15.0,10.0,5,TRUE
+3,Starter Plus,starter,19,190,25.0,20.0,10,TRUE
+4,Professional,professional,39,390,50.0,50.0,25,TRUE
+5,Professional Plus,professional,59,590,100.0,100.0,50,TRUE
+6,Enterprise,enterprise,99,990,500.0,,100,TRUE
+7,Enterprise Custom,enterprise,199,1990,,,500,TRUE
+8,Legacy Basic,starter,15,150,10.0,5.0,3,FALSE

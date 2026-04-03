@@ -1,0 +1,8 @@
+ticket_id,customer_id,member_id,category,priority,status,subject,created_at,first_response_at,resolved_at,satisfaction_score,escalated,tags
+1,518,6603.0,data_export,high,open,Account merge request,2025-05-19 03:43:53,,,,TRUE,
+2,810,,technical,medium,closed,Custom workflow automation broken,2025-09-22 07:22:01,2025-09-25 00:22:01,2025-09-27 07:22:01,4.0,FALSE,"training,onboarding,gdpr"
+3,1080,,onboarding,high,in_progress,Need help with API authentication,2025-10-29 11:11:29,2025-10-29 21:11:29,,,FALSE,integration
+4,1009,,technical,medium,open,Time tracking sync issues,2025-02-03 09:09:03,,,,FALSE,"onboarding,bug,security,integration"
+5,840,,technical,medium,waiting_on_customer,SSO configuration help needed,2024-04-03 13:09:04,2024-04-03 20:09:04,,,FALSE,
+6,1186,,feature_request,medium,resolved,Slow loading on project boards,2025-01-10 21:00:19,2025-01-13 08:00:19,2025-01-17 07:00:19,,FALSE,performance
+7,490,6234.0,technical,low,open,API rate limiting issues,2025-08-31 23:38:34,,,,FALSE,"integration, gdpr, documentation"

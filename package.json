@@ -1,0 +1,15 @@
+{
+  "name": "roado",
+  "version": "1.0.0",
+  "description": "This project provides a comprehensive data-driven investigation into customer churn at NimbusAI. It processes raw PostgreSQL and MongoDB datasets into actionable insights for the VP of Product and Head of Customer Success.",
+  "main": "nimbus_events.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^9.3.3"
+  }
+}

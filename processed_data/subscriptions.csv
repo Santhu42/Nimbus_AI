@@ -1,0 +1,1841 @@
+subscription_id,customer_id,plan_id,status,billing_cycle,start_date,end_date,mrr_usd,discount_pct,trial_end_date,cancellation_reason
+1,1,1,cancelled,annual,2023-01-31,2023-04-20,0.0,15,,Missing features
+2,1,5,cancelled,annual,2023-04-20,,44.25,10,,Switched competitor
+3,2,1,paused,monthly,2023-06-09,,0.0,0,,
+4,3,1,active,annual,2023-10-28,,0.0,20,,
+5,4,1,expired,annual,2024-04-09,2024-08-10,0.0,15,,Budget cuts
+6,4,6,active,annual,2024-08-10,,82.5,0,,
+7,5,1,cancelled,monthly,2023-10-04,2024-10-01,0.0,10,,Missing features
+8,5,3,active,annual,2024-10-01,,15.83,0,,
+9,6,1,paused,monthly,2025-08-23,,0.0,0,,
+10,7,1,active,annual,2024-08-21,,0.0,0,,
+11,8,1,active,monthly,2024-04-24,,0.0,0,,
+12,9,1,active,annual,2025-06-15,,0.0,0,,
+13,10,5,active,monthly,2025-03-08,,59.0,0,2025-03-22 00:00:00,
+14,11,2,active,annual,2024-06-29,,7.5,25,2024-07-13 00:00:00,
+15,12,6,active,monthly,2024-10-27,,99.0,0,2024-11-10 00:00:00,
+16,13,1,cancelled,monthly,2025-07-16,,0.0,0,,Switched competitor
+17,14,1,cancelled,annual,2024-02-25,2025-01-03,0.0,0,,Too expensive
+18,14,5,cancelled,monthly,2025-01-03,2025-05-17,59.0,0,,Missing features
+19,14,6,active,annual,2025-05-17,,74.25,10,,
+20,15,2,active,monthly,2024-04-18,,12.0,0,2024-05-02 00:00:00,
+21,16,2,active,annual,2023-06-18,,10.0,0,2023-07-02 00:00:00,
+22,17,2,cancelled,monthly,2024-08-16,2024-12-16,10.2,15,2024-08-30 00:00:00,Missing features
+23,17,5,cancelled,annual,2024-12-16,2025-04-02,49.17,0,,Not using it
+24,17,2,active,monthly,2025-04-02,,9.6,20,,
+25,18,4,active,monthly,2025-06-01,,39.0,0,2025-06-15 00:00:00,
+26,19,3,expired,annual,2024-02-10,2025-01-26,15.83,0,2024-02-24 00:00:00,Missing features
+27,19,4,cancelled,annual,2025-01-26,,32.5,0,,
+28,20,6,active,annual,2025-06-19,,82.5,0,2025-07-03 00:00:00,
+29,21,4,active,monthly,2023-04-20,,39.0,0,2023-05-04 00:00:00,
+30,22,5,active,annual,2023-12-08,,49.17,0,2023-12-22 00:00:00,
+31,23,6,cancelled,annual,2025-05-04,2025-09-11,82.5,0,2025-05-18 00:00:00,Not using it
+32,23,1,cancelled,monthly,2025-09-11,2025-11-10,0.0,0,,Not using it
+33,23,3,active,annual,2025-11-10,,15.83,0,,
+34,24,3,active,annual,2025-06-24,,15.83,0,2025-07-08 00:00:00,
+35,25,1,active,monthly,2025-06-03,,0.0,25,,
+36,26,4,cancelled,monthly,2023-07-17,2023-12-01,33.15,15,2023-07-31 00:00:00,Too expensive
+37,26,6,active,monthly,2023-12-01,,99.0,0,,
+38,27,1,cancelled,monthly,2023-09-29,2024-04-14,0.0,0,,Switched competitor
+39,27,3,expired,monthly,2024-04-14,2024-09-22,19.0,0,,Not using it
+40,27,4,cancelled,annual,2024-09-22,,32.5,0,,Switched competitor
+41,28,3,cancelled,monthly,2023-03-13,2024-01-12,14.25,25,2023-03-27 00:00:00,
+42,28,3,active,monthly,2024-01-12,,19.0,0,,
+43,29,2,expired,annual,2024-03-06,2024-12-20,10.0,0,2024-03-20 00:00:00,Missing features
+44,29,3,expired,monthly,2024-12-20,2025-06-05,19.0,0,,Company reorganization
+45,29,5,active,annual,2025-06-05,,49.17,0,,
+46,30,2,active,monthly,2024-04-21,,12.0,0,2024-05-05 00:00:00,
+47,31,4,active,monthly,2023-08-19,,39.0,0,2023-09-02 00:00:00,
+48,32,3,active,annual,2025-05-31,,15.83,0,2025-06-14 00:00:00,
+49,33,5,active,monthly,2025-08-30,,59.0,0,2025-09-13 00:00:00,
+50,34,3,cancelled,monthly,2024-06-17,2025-02-04,19.0,0,2024-07-01 00:00:00,Missing features
+51,34,4,active,monthly,2025-02-04,,33.15,15,,
+52,35,2,active,annual,2024-02-22,,10.0,0,2024-03-07 00:00:00,
+53,36,5,active,monthly,2025-09-03,,59.0,0,2025-09-17 00:00:00,
+54,37,3,cancelled,annual,2025-10-01,2025-12-01,15.83,0,2025-10-15 00:00:00,Switched competitor
+55,37,4,active,monthly,2025-12-01,,39.0,0,,
+56,38,2,expired,monthly,2025-06-19,2025-09-16,12.0,0,2025-07-03 00:00:00,Company reorganization
+57,38,6,active,annual,2025-09-16,,82.5,0,,
+58,39,1,active,monthly,2025-08-30,,0.0,0,,
+59,40,2,active,annual,2025-02-04,,10.0,0,2025-02-18 00:00:00,
+60,41,2,active,monthly,2025-04-30,,12.0,0,2025-05-14 00:00:00,
+61,42,5,active,annual,2025-09-10,,49.17,0,2025-09-24 00:00:00,
+62,43,5,cancelled,annual,2025-04-25,2025-07-29,49.17,0,2025-05-09 00:00:00,Company reorganization
+63,43,4,expired,monthly,2025-07-29,2025-10-28,33.15,15,,Missing features
+64,43,1,active,monthly,2025-10-28,,0.0,0,,
+65,44,6,expired,annual,2025-03-27,2025-10-06,82.5,0,2025-04-10 00:00:00,Too expensive
+66,44,1,active,monthly,2025-10-06,,0.0,25,,
+67,45,1,active,monthly,2024-05-17,,0.0,0,,
+68,46,1,active,annual,2024-12-20,,0.0,0,,
+69,47,4,expired,annual,2024-06-21,2025-02-18,32.5,0,2024-07-05 00:00:00,Budget cuts
+70,47,3,active,monthly,2025-02-18,,19.0,0,,
+71,48,3,expired,monthly,2025-08-24,2025-10-28,19.0,0,2025-09-07 00:00:00,
+72,48,2,cancelled,monthly,2025-10-28,2025-12-28,12.0,0,,Missing features
+73,48,6,cancelled,annual,2025-12-28,,70.12,15,,Missing features
+74,49,1,active,monthly,2024-10-06,,0.0,0,,
+75,50,1,expired,monthly,2024-08-25,2024-11-07,0.0,0,,Not using it
+76,50,2,expired,monthly,2024-11-07,2025-04-03,12.0,0,,Budget cuts
+77,50,1,active,annual,2025-04-03,,0.0,0,,
+78,51,3,active,annual,2024-12-06,,15.83,0,2024-12-20 00:00:00,
+79,52,1,cancelled,annual,2024-10-25,,0.0,25,,Missing features
+80,53,3,expired,annual,2024-05-20,2024-12-20,15.83,0,2024-06-03 00:00:00,
+81,53,1,active,annual,2024-12-20,,0.0,0,,
+82,54,1,active,monthly,2025-02-20,,0.0,0,,
+83,55,2,cancelled,monthly,2023-12-04,2024-05-31,10.8,10,2023-12-18 00:00:00,Too expensive
+84,55,4,active,monthly,2024-05-31,,31.2,20,,
+85,56,2,expired,annual,2024-07-09,2025-03-08,10.0,0,2024-07-23 00:00:00,Switched competitor
+86,56,5,active,monthly,2025-03-08,,59.0,0,,
+87,57,4,active,annual,2024-10-07,,32.5,0,2024-10-21 00:00:00,
+88,58,3,active,monthly,2025-09-30,,19.0,0,2025-10-14 00:00:00,
+89,59,2,active,monthly,2023-01-03,,12.0,0,2023-01-17 00:00:00,
+90,60,1,cancelled,annual,2023-09-02,2024-08-08,0.0,0,,Switched competitor
+91,60,5,active,monthly,2024-08-08,,59.0,0,,
+92,61,1,cancelled,monthly,2023-02-07,,0.0,0,,Switched competitor
+93,62,3,cancelled,monthly,2024-12-10,2025-08-24,19.0,0,2024-12-24 00:00:00,Company reorganization
+94,62,3,active,monthly,2025-08-24,,16.15,15,,
+95,63,1,cancelled,annual,2025-02-03,2025-06-29,0.0,0,,
+96,63,4,cancelled,monthly,2025-06-29,,39.0,0,,Switched competitor
+97,64,2,active,annual,2024-06-27,,10.0,0,2024-07-11 00:00:00,
+98,65,1,active,annual,2023-01-10,,0.0,15,,
+99,66,1,active,monthly,2025-05-23,,0.0,0,,
+100,67,1,active,monthly,2025-05-02,,0.0,0,,
+101,68,6,cancelled,annual,2024-03-27,,82.5,0,2024-04-10 00:00:00,Budget cuts
+102,69,1,active,annual,2023-10-30,,0.0,0,,
+103,70,1,expired,monthly,2024-02-09,2024-12-20,0.0,0,,Switched competitor
+104,70,4,cancelled,monthly,2024-12-20,,39.0,0,,Company reorganization
+105,71,5,cancelled,monthly,2024-09-16,2025-08-02,59.0,0,2024-09-30 00:00:00,Budget cuts
+106,71,7,active,monthly,2025-08-02,,199.0,0,,
+107,72,1,expired,monthly,2025-08-30,2025-10-30,0.0,0,,
+108,72,2,active,monthly,2025-10-30,,12.0,0,,
+109,73,2,active,monthly,2024-01-15,,9.6,20,2024-01-29 00:00:00,
+110,74,3,active,annual,2023-08-06,,15.83,0,2023-08-20 00:00:00,
+111,75,1,cancelled,monthly,2024-09-02,,0.0,0,,Missing features
+112,76,3,expired,annual,2023-03-07,2023-10-21,15.83,0,2023-03-21 00:00:00,Switched competitor
+113,76,2,active,annual,2023-10-21,,10.0,0,,
+114,77,4,cancelled,monthly,2025-05-17,2025-08-02,39.0,0,2025-05-31 00:00:00,Too expensive
+115,77,4,active,monthly,2025-08-02,,39.0,0,,
+116,78,5,active,monthly,2024-09-11,,59.0,0,2024-09-25 00:00:00,
+117,79,4,cancelled,annual,2025-01-17,,32.5,0,2025-01-31 00:00:00,Company reorganization
+118,80,5,active,monthly,2024-08-23,,59.0,0,2024-09-06 00:00:00,
+119,81,4,expired,annual,2023-06-08,2023-12-15,27.62,15,2023-06-22 00:00:00,Budget cuts
+120,81,5,active,monthly,2023-12-15,,47.2,20,,
+121,82,4,active,monthly,2023-10-07,,39.0,0,2023-10-21 00:00:00,
+122,83,1,active,monthly,2024-03-05,,0.0,0,,
+123,84,1,active,monthly,2024-03-10,,0.0,0,,
+124,85,1,active,monthly,2023-07-29,,0.0,0,,
+125,86,4,active,monthly,2025-06-01,,35.1,10,2025-06-15 00:00:00,
+126,87,4,cancelled,monthly,2024-09-24,2025-08-02,39.0,0,2024-10-08 00:00:00,Missing features
+127,87,2,active,monthly,2025-08-02,,12.0,0,,
+128,88,1,cancelled,annual,2025-03-08,,0.0,0,,Not using it
+129,89,6,active,annual,2025-02-16,,61.88,25,2025-03-02 00:00:00,
+130,90,3,active,monthly,2023-03-11,,19.0,0,2023-03-25 00:00:00,
+131,91,4,expired,monthly,2025-09-27,2025-11-27,39.0,0,2025-10-11 00:00:00,Budget cuts
+132,91,3,active,monthly,2025-11-27,,19.0,0,,
+133,92,5,cancelled,annual,2023-06-04,2023-09-26,49.17,0,2023-06-18 00:00:00,Too expensive
+134,92,1,active,annual,2023-09-26,,0.0,0,,
+135,93,4,active,monthly,2024-01-17,,39.0,0,2024-01-31 00:00:00,
+136,94,1,cancelled,monthly,2023-12-08,,0.0,0,,
+137,95,4,expired,annual,2024-11-17,2025-06-29,32.5,0,2024-12-01 00:00:00,Company reorganization
+138,95,3,cancelled,monthly,2025-06-29,2025-10-20,19.0,0,,Switched competitor
+139,95,5,active,annual,2025-10-20,,49.17,0,,
+140,96,2,expired,monthly,2023-05-21,2024-05-12,12.0,0,2023-06-04 00:00:00,Too expensive
+141,96,6,cancelled,monthly,2024-05-12,,99.0,0,,Switched competitor
+142,97,2,active,monthly,2023-06-19,,10.8,10,2023-07-03 00:00:00,
+143,98,2,expired,annual,2025-08-27,2025-10-30,10.0,0,2025-09-10 00:00:00,Company reorganization
+144,98,3,active,annual,2025-10-30,,15.83,0,,
+145,99,1,expired,monthly,2024-07-21,2025-03-17,0.0,0,,Budget cuts
+146,99,3,active,monthly,2025-03-17,,19.0,0,,
+147,100,2,active,monthly,2025-06-24,,12.0,0,2025-07-08 00:00:00,
+148,101,1,active,annual,2023-10-21,,0.0,0,,
+149,102,2,cancelled,annual,2023-05-05,,10.0,0,2023-05-19 00:00:00,Too expensive
+150,103,2,active,monthly,2023-01-02,,10.8,10,2023-01-16 00:00:00,
+151,104,2,expired,monthly,2023-09-17,2024-06-28,10.8,10,2023-10-01 00:00:00,Budget cuts
+152,104,4,active,monthly,2024-06-28,,39.0,0,,
+153,105,1,cancelled,annual,2023-06-29,2024-04-02,0.0,0,,Budget cuts
+154,105,5,cancelled,monthly,2024-04-02,2025-02-10,59.0,0,,Switched competitor
+155,105,3,active,monthly,2025-02-10,,19.0,0,,
+156,106,2,expired,annual,2023-11-14,2024-08-30,10.0,0,2023-11-28 00:00:00,Missing features
+157,106,3,expired,monthly,2024-08-30,2024-11-30,19.0,0,,Not using it
+158,106,1,active,annual,2024-11-30,,0.0,0,,
+159,107,1,cancelled,annual,2024-01-12,2024-08-20,0.0,0,,Too expensive
+160,107,3,active,monthly,2024-08-20,,19.0,0,,
+161,108,2,cancelled,monthly,2025-04-22,,12.0,0,2025-05-06 00:00:00,Missing features
+162,109,3,active,annual,2024-03-21,,15.83,0,2024-04-04 00:00:00,
+163,110,2,cancelled,annual,2024-03-24,,10.0,0,2024-04-07 00:00:00,Not using it
+164,111,5,active,annual,2024-06-26,,49.17,0,2024-07-10 00:00:00,
+165,112,6,active,monthly,2025-07-27,,99.0,0,2025-08-10 00:00:00,
+166,113,2,cancelled,monthly,2024-12-29,2025-04-09,12.0,0,2025-01-12 00:00:00,Budget cuts
+167,113,4,active,monthly,2025-04-09,,39.0,0,,
+168,114,6,cancelled,monthly,2025-06-24,,99.0,0,2025-07-08 00:00:00,Not using it
+169,115,3,cancelled,monthly,2025-06-18,2025-10-24,19.0,0,2025-07-02 00:00:00,Not using it
+170,115,4,cancelled,monthly,2025-10-24,2025-12-23,39.0,0,,Missing features
+171,115,3,active,annual,2025-12-23,,15.83,0,,
+172,116,1,expired,monthly,2025-08-21,2025-10-22,0.0,0,,Not using it
+173,116,2,expired,monthly,2025-10-22,2025-12-21,12.0,0,,Budget cuts
+174,116,3,active,annual,2025-12-21,,15.83,0,,
+175,117,3,expired,monthly,2024-10-01,2024-12-17,19.0,0,2024-10-15 00:00:00,Too expensive
+176,117,1,active,monthly,2024-12-17,,0.0,0,,
+177,118,2,active,monthly,2024-10-04,,12.0,0,2024-10-18 00:00:00,
+178,119,2,cancelled,monthly,2023-07-28,2024-05-03,9.6,20,2023-08-11 00:00:00,Too expensive
+179,119,4,active,monthly,2024-05-03,,39.0,0,,
+180,120,1,cancelled,monthly,2023-09-11,,0.0,0,,Not using it
+181,121,5,active,annual,2024-02-07,,49.17,0,2024-02-21 00:00:00,
+182,122,1,cancelled,monthly,2023-09-28,2024-02-20,0.0,0,,Too expensive
+183,122,2,active,annual,2024-02-20,,10.0,0,,
+184,123,2,active,annual,2024-09-30,,10.0,0,2024-10-14 00:00:00,
+185,124,4,active,monthly,2024-12-31,,39.0,0,2025-01-14 00:00:00,
+186,125,3,cancelled,annual,2024-12-26,2025-04-29,13.46,15,2025-01-09 00:00:00,Switched competitor
+187,125,4,active,annual,2025-04-29,,29.25,10,,
+188,126,4,expired,monthly,2025-03-12,2025-10-29,39.0,0,2025-03-26 00:00:00,Budget cuts
+189,126,6,active,monthly,2025-10-29,,99.0,0,,
+190,127,4,cancelled,monthly,2024-03-27,2024-07-22,39.0,0,2024-04-10 00:00:00,Not using it
+191,127,5,active,annual,2024-07-22,,49.17,0,,
+192,128,2,active,annual,2024-11-09,,8.5,15,2024-11-23 00:00:00,
+193,129,4,active,annual,2023-09-10,,32.5,0,2023-09-24 00:00:00,
+194,130,3,expired,monthly,2024-08-10,2025-02-18,19.0,0,2024-08-24 00:00:00,Missing features
+195,130,3,active,monthly,2025-02-18,,19.0,0,,
+196,131,4,expired,annual,2024-07-29,2025-07-29,32.5,0,2024-08-12 00:00:00,Budget cuts
+197,131,6,active,annual,2025-07-29,,82.5,0,,
+198,132,2,cancelled,monthly,2025-02-28,,12.0,0,2025-03-14 00:00:00,Not using it
+199,133,2,active,monthly,2023-06-29,,9.6,20,2023-07-13 00:00:00,
+200,134,4,active,monthly,2024-10-18,,39.0,0,2024-11-01 00:00:00,
+201,135,1,active,monthly,2024-08-04,,0.0,25,,
+202,136,2,active,monthly,2025-01-10,,12.0,0,2025-01-24 00:00:00,
+203,137,4,active,monthly,2023-08-15,,39.0,0,2023-08-29 00:00:00,
+204,138,1,expired,monthly,2023-03-25,2023-06-18,0.0,0,,Not using it
+205,138,3,active,monthly,2023-06-18,,19.0,0,,
+206,139,1,cancelled,monthly,2025-01-04,2025-04-13,0.0,0,,
+207,139,5,cancelled,annual,2025-04-13,2025-07-22,49.17,0,,Company reorganization
+208,139,5,active,annual,2025-07-22,,44.25,10,,
+209,140,2,expired,annual,2025-04-16,2025-08-16,10.0,0,2025-04-30 00:00:00,Company reorganization
+210,140,4,cancelled,monthly,2025-08-16,,39.0,0,,Budget cuts
+211,141,5,active,monthly,2025-07-01,,59.0,0,2025-07-15 00:00:00,
+212,142,5,cancelled,monthly,2023-05-11,2023-08-27,59.0,0,2023-05-25 00:00:00,Too expensive
+213,142,2,expired,monthly,2023-08-27,2024-05-16,12.0,0,,Not using it
+214,142,5,active,annual,2024-05-16,,49.17,0,,
+215,143,2,cancelled,annual,2024-11-07,2025-10-15,9.0,10,2024-11-21 00:00:00,Too expensive
+216,143,2,active,monthly,2025-10-15,,10.8,10,,
+217,144,6,active,annual,2023-08-11,,82.5,0,2023-08-25 00:00:00,
+218,145,4,active,monthly,2024-06-17,,39.0,0,2024-07-01 00:00:00,
+219,146,4,active,monthly,2023-11-04,,39.0,0,2023-11-18 00:00:00,
+220,147,3,expired,annual,2023-09-06,2024-02-09,15.83,0,2023-09-20 00:00:00,Too expensive
+221,147,2,active,annual,2024-02-09,,10.0,0,,
+222,148,1,cancelled,monthly,2025-02-18,2025-07-14,0.0,0,,Too expensive
+223,148,5,active,monthly,2025-07-14,,53.1,10,,
+224,149,1,active,annual,2024-12-13,,0.0,0,,
+225,150,3,active,monthly,2023-11-24,,14.25,25,2023-12-08 00:00:00,
+226,151,1,cancelled,annual,2024-05-26,2024-12-11,0.0,0,,Budget cuts
+227,151,2,active,monthly,2024-12-11,,12.0,0,,
+228,152,2,active,monthly,2024-07-13,,10.8,10,2024-07-27 00:00:00,
+229,153,2,cancelled,annual,2023-06-04,,9.0,10,2023-06-18 00:00:00,Company reorganization
+230,154,2,active,annual,2024-12-15,,10.0,0,2024-12-29 00:00:00,
+231,155,1,active,annual,2025-09-09,,0.0,0,,
+232,156,1,cancelled,monthly,2024-10-14,,0.0,0,,Missing features
+233,157,1,active,annual,2024-12-01,,0.0,0,,
+234,158,2,cancelled,annual,2025-05-04,2025-10-27,10.0,0,2025-05-18 00:00:00,Company reorganization
+235,158,3,active,annual,2025-10-27,,12.67,20,,
+236,159,3,expired,annual,2024-02-11,2024-08-16,15.83,0,2024-02-25 00:00:00,Missing features
+237,159,6,active,monthly,2024-08-16,,89.1,10,,
+238,160,1,paused,monthly,2023-09-10,,0.0,0,,
+239,161,2,active,annual,2024-03-17,,7.5,25,2024-03-31 00:00:00,
+240,162,5,expired,annual,2024-07-26,2025-07-08,49.17,0,2024-08-09 00:00:00,Company reorganization
+241,162,2,active,annual,2025-07-08,,10.0,0,,
+242,163,1,active,monthly,2024-01-05,,0.0,0,,
+243,164,5,active,annual,2025-05-30,,36.88,25,2025-06-13 00:00:00,
+244,165,1,active,monthly,2025-04-16,,0.0,0,,
+245,166,1,active,monthly,2025-03-25,,0.0,0,,
+246,167,1,active,monthly,2025-08-03,,0.0,0,,
+247,168,5,cancelled,annual,2024-09-19,,44.25,10,2024-10-03 00:00:00,
+248,169,1,active,annual,2025-03-01,,0.0,0,,
+249,170,1,active,monthly,2025-03-14,,0.0,0,,
+250,171,2,active,annual,2023-06-18,,10.0,0,2023-07-02 00:00:00,
+251,172,1,active,annual,2025-01-25,,0.0,0,,
+252,173,1,cancelled,annual,2024-04-13,,0.0,0,,Not using it
+253,174,5,cancelled,monthly,2024-08-27,,59.0,0,2024-09-10 00:00:00,
+254,175,1,cancelled,monthly,2024-05-16,2024-07-31,0.0,0,,Missing features
+255,175,1,active,annual,2024-07-31,,0.0,0,,
+256,176,6,active,monthly,2023-03-26,,74.25,25,2023-04-09 00:00:00,
+257,177,2,cancelled,annual,2023-04-27,2024-02-21,10.0,0,2023-05-11 00:00:00,Company reorganization
+258,177,3,active,monthly,2024-02-21,,19.0,0,,
+259,178,1,active,annual,2023-12-23,,0.0,0,,
+260,179,4,cancelled,annual,2025-04-04,,32.5,0,2025-04-18 00:00:00,
+261,180,4,expired,annual,2023-05-10,2023-08-09,27.62,15,2023-05-24 00:00:00,Not using it
+262,180,6,active,monthly,2023-08-09,,99.0,0,,
+263,181,5,expired,monthly,2025-03-24,2025-07-17,59.0,0,2025-04-07 00:00:00,Budget cuts
+264,181,5,active,monthly,2025-07-17,,59.0,0,,
+265,182,3,active,monthly,2024-12-15,,19.0,0,2024-12-29 00:00:00,
+266,183,3,active,annual,2025-07-04,,14.25,10,2025-07-18 00:00:00,
+267,184,1,cancelled,monthly,2023-11-06,2024-02-24,0.0,0,,Too expensive
+268,184,5,cancelled,annual,2024-02-24,,49.17,0,,
+269,185,1,cancelled,monthly,2024-12-21,,0.0,0,,Not using it
+270,186,2,cancelled,monthly,2023-04-15,,12.0,0,2023-04-29 00:00:00,Not using it
+271,187,1,expired,monthly,2024-09-22,2025-03-08,0.0,0,,Not using it
+272,187,3,active,monthly,2025-03-08,,19.0,0,,
+273,188,2,active,monthly,2023-09-12,,12.0,0,2023-09-26 00:00:00,
+274,189,2,active,annual,2025-03-23,,10.0,0,2025-04-06 00:00:00,
+275,190,2,active,annual,2025-09-04,,10.0,0,2025-09-18 00:00:00,
+276,191,4,cancelled,annual,2024-07-03,2025-01-02,26.0,20,2024-07-17 00:00:00,Too expensive
+277,191,7,cancelled,monthly,2025-01-02,2025-07-01,149.25,25,,Not using it
+278,191,2,active,monthly,2025-07-01,,10.2,15,,
+279,192,2,active,monthly,2024-03-23,,12.0,0,2024-04-06 00:00:00,
+280,193,1,cancelled,monthly,2024-12-25,,0.0,0,,
+281,194,2,active,monthly,2024-08-13,,12.0,0,2024-08-27 00:00:00,
+282,195,1,expired,monthly,2025-06-02,2025-09-10,0.0,0,,Too expensive
+283,195,3,expired,annual,2025-09-10,2025-11-09,15.83,0,,Switched competitor
+284,195,6,cancelled,monthly,2025-11-09,,99.0,0,,Missing features
+285,196,2,cancelled,annual,2023-03-21,2024-03-07,10.0,0,2023-04-04 00:00:00,Company reorganization
+286,196,4,active,monthly,2024-03-07,,39.0,0,,
+287,197,5,active,annual,2023-01-09,,49.17,0,2023-01-23 00:00:00,
+288,198,1,expired,monthly,2023-01-25,2023-04-14,0.0,0,,Switched competitor
+289,198,5,expired,annual,2023-04-14,2024-01-07,49.17,0,,Missing features
+290,198,3,active,annual,2024-01-07,,15.83,0,,
+291,199,1,cancelled,monthly,2025-09-11,,0.0,0,,
+292,200,5,active,annual,2024-03-21,,49.17,0,2024-04-04 00:00:00,
+293,201,2,cancelled,monthly,2023-04-19,2024-01-26,12.0,0,2023-05-03 00:00:00,Company reorganization
+294,201,5,cancelled,annual,2024-01-26,,41.79,15,,Switched competitor
+295,202,2,expired,annual,2025-05-05,2025-10-31,10.0,0,2025-05-19 00:00:00,Budget cuts
+296,202,6,active,monthly,2025-10-31,,99.0,0,,
+297,203,2,active,annual,2025-04-03,,10.0,0,2025-04-17 00:00:00,
+298,204,5,expired,monthly,2023-03-08,2024-01-17,44.25,25,2023-03-22 00:00:00,Missing features
+299,204,1,cancelled,annual,2024-01-17,,0.0,0,,Company reorganization
+300,205,5,active,annual,2023-06-26,,49.17,0,2023-07-10 00:00:00,
+301,206,1,expired,annual,2023-03-31,2023-07-26,0.0,0,,Not using it
+302,206,6,active,monthly,2023-07-26,,74.25,25,,
+303,207,1,active,monthly,2024-02-02,,0.0,0,,
+304,208,2,active,annual,2025-03-21,,10.0,0,2025-04-04 00:00:00,
+305,209,2,expired,monthly,2023-01-29,2023-11-30,12.0,0,2023-02-12 00:00:00,Company reorganization
+306,209,6,active,annual,2023-11-30,,82.5,0,,
+307,210,2,expired,annual,2024-09-20,2025-01-13,10.0,0,2024-10-04 00:00:00,Missing features
+308,210,5,active,monthly,2025-01-13,,59.0,0,,
+309,211,2,active,monthly,2023-12-11,,12.0,0,2023-12-25 00:00:00,
+310,212,1,active,annual,2024-01-23,,0.0,0,,
+311,213,2,cancelled,monthly,2024-08-02,,9.0,25,2024-08-16 00:00:00,Switched competitor
+312,214,5,cancelled,monthly,2023-09-13,2024-01-27,59.0,0,2023-09-27 00:00:00,Switched competitor
+313,214,6,active,monthly,2024-01-27,,99.0,0,,
+314,215,3,active,annual,2024-12-04,,15.83,0,2024-12-18 00:00:00,
+315,216,3,cancelled,annual,2024-09-20,2025-09-10,15.83,0,2024-10-04 00:00:00,
+316,216,5,cancelled,monthly,2025-09-10,2025-11-10,59.0,0,,Not using it
+317,216,3,active,monthly,2025-11-10,,19.0,0,,
+318,217,1,expired,monthly,2025-01-17,2025-08-23,0.0,0,,Not using it
+319,217,1,active,annual,2025-08-23,,0.0,0,,
+320,218,2,cancelled,monthly,2023-04-10,,10.8,10,2023-04-24 00:00:00,Budget cuts
+321,219,5,cancelled,monthly,2024-04-01,,59.0,0,2024-04-15 00:00:00,Switched competitor
+322,220,4,cancelled,monthly,2024-03-04,2024-12-09,33.15,15,2024-03-18 00:00:00,Missing features
+323,220,6,active,annual,2024-12-09,,82.5,0,,
+324,221,5,cancelled,monthly,2024-09-27,,59.0,0,2024-10-11 00:00:00,
+325,222,2,cancelled,annual,2025-07-25,2025-10-16,10.0,0,2025-08-08 00:00:00,
+326,222,7,active,monthly,2025-10-16,,179.1,10,,
+327,223,3,active,annual,2024-08-03,,15.83,0,2024-08-17 00:00:00,
+328,224,1,cancelled,annual,2023-02-08,,0.0,15,,Budget cuts
+329,225,3,active,monthly,2025-04-17,,19.0,0,2025-05-01 00:00:00,
+330,226,1,active,annual,2025-07-24,,0.0,0,,
+331,227,5,expired,monthly,2023-07-17,2023-11-22,59.0,0,2023-07-31 00:00:00,Company reorganization
+332,227,2,active,monthly,2023-11-22,,10.8,10,,
+333,228,5,active,monthly,2023-09-05,,59.0,0,2023-09-19 00:00:00,
+334,229,6,cancelled,annual,2025-05-24,2025-10-10,61.88,25,2025-06-07 00:00:00,Company reorganization
+335,229,5,active,annual,2025-10-10,,49.17,0,,
+336,230,3,active,monthly,2023-05-16,,19.0,0,2023-05-30 00:00:00,
+337,231,3,active,monthly,2023-08-12,,19.0,0,2023-08-26 00:00:00,
+338,232,4,active,annual,2023-10-11,,32.5,0,2023-10-25 00:00:00,
+339,233,2,active,monthly,2023-10-30,,12.0,0,2023-11-13 00:00:00,
+340,234,5,cancelled,monthly,2024-11-18,2025-06-15,53.1,10,2024-12-02 00:00:00,Not using it
+341,234,4,active,monthly,2025-06-15,,39.0,0,,
+342,235,1,active,annual,2023-08-16,,0.0,0,,
+343,236,3,expired,annual,2024-09-27,2025-02-04,15.83,0,2024-10-11 00:00:00,Missing features
+344,236,4,cancelled,annual,2025-02-04,,29.25,10,,Not using it
+345,237,1,expired,monthly,2025-06-02,2025-10-16,0.0,0,,Company reorganization
+346,237,5,cancelled,annual,2025-10-16,2025-12-16,49.17,0,,Not using it
+347,237,3,active,monthly,2025-12-16,,15.2,20,,
+348,238,4,expired,monthly,2023-06-12,2023-12-25,39.0,0,2023-06-26 00:00:00,Budget cuts
+349,238,4,active,monthly,2023-12-25,,35.1,10,,
+350,239,4,cancelled,annual,2025-07-02,2025-09-20,32.5,0,2025-07-16 00:00:00,Not using it
+351,239,5,cancelled,annual,2025-09-20,2025-11-20,49.17,0,,Not using it
+352,239,5,active,monthly,2025-11-20,,59.0,0,,
+353,240,1,cancelled,monthly,2025-04-23,2025-10-18,0.0,0,,Missing features
+354,240,4,cancelled,monthly,2025-10-18,,39.0,0,,Budget cuts
+355,241,2,cancelled,monthly,2023-08-18,2024-08-15,12.0,0,2023-09-01 00:00:00,
+356,241,3,active,annual,2024-08-15,,15.83,0,,
+357,242,3,cancelled,annual,2024-11-08,2025-10-05,15.83,0,2024-11-22 00:00:00,
+358,242,4,cancelled,monthly,2025-10-05,,39.0,0,,Not using it
+359,243,1,active,monthly,2023-10-04,,0.0,0,,
+360,244,2,cancelled,monthly,2023-10-30,2024-09-07,12.0,0,2023-11-13 00:00:00,Missing features
+361,244,3,cancelled,monthly,2024-09-07,,19.0,0,,
+362,245,2,cancelled,monthly,2025-01-10,,12.0,0,2025-01-24 00:00:00,Switched competitor
+363,246,2,cancelled,monthly,2025-06-30,,12.0,0,2025-07-14 00:00:00,Too expensive
+364,247,1,expired,monthly,2024-04-12,2025-03-05,0.0,0,,Too expensive
+365,247,6,expired,annual,2025-03-05,2025-06-08,82.5,0,,Not using it
+366,247,3,active,annual,2025-06-08,,15.83,0,,
+367,248,1,cancelled,monthly,2023-07-05,2024-05-26,0.0,0,,Budget cuts
+368,248,5,active,annual,2024-05-26,,49.17,0,,
+369,249,4,active,monthly,2025-06-08,,39.0,0,2025-06-22 00:00:00,
+370,250,2,cancelled,annual,2025-04-26,2025-09-07,10.0,0,2025-05-10 00:00:00,Company reorganization
+371,250,4,active,monthly,2025-09-07,,39.0,0,,
+372,251,1,active,monthly,2023-12-05,,0.0,0,,
+373,252,1,cancelled,monthly,2024-02-27,,0.0,0,,Not using it
+374,253,6,active,annual,2025-01-03,,82.5,0,2025-01-17 00:00:00,
+375,254,2,cancelled,annual,2023-04-19,,10.0,0,2023-05-03 00:00:00,
+376,255,2,cancelled,monthly,2024-02-29,2024-08-02,12.0,0,2024-03-14 00:00:00,Switched competitor
+377,255,2,cancelled,annual,2024-08-02,,10.0,0,,
+378,256,1,expired,monthly,2024-05-09,2025-05-03,0.0,0,,Budget cuts
+379,256,5,active,monthly,2025-05-03,,59.0,0,,
+380,257,3,active,annual,2025-02-19,,15.83,0,2025-03-05 00:00:00,
+381,258,4,active,monthly,2023-07-25,,31.2,20,2023-08-08 00:00:00,
+382,259,2,expired,monthly,2024-08-19,2024-12-27,12.0,0,2024-09-02 00:00:00,Not using it
+383,259,5,active,monthly,2024-12-27,,50.15,15,,
+384,260,1,active,monthly,2025-02-07,,0.0,0,,
+385,261,1,active,monthly,2025-01-30,,0.0,0,,
+386,262,4,cancelled,annual,2025-03-10,2025-07-18,32.5,0,2025-03-24 00:00:00,Too expensive
+387,262,4,active,monthly,2025-07-18,,39.0,0,,
+388,263,2,expired,monthly,2023-06-27,2023-09-14,12.0,0,2023-07-11 00:00:00,Not using it
+389,263,5,active,monthly,2023-09-14,,59.0,0,,
+390,264,1,active,monthly,2025-08-12,,0.0,0,,
+391,265,2,cancelled,monthly,2023-06-13,2024-04-25,12.0,0,2023-06-27 00:00:00,Switched competitor
+392,265,5,active,annual,2024-04-25,,49.17,0,,
+393,266,1,active,monthly,2023-12-21,,0.0,0,,
+394,267,2,active,monthly,2024-01-19,,10.2,15,2024-02-02 00:00:00,
+395,268,1,active,monthly,2025-03-03,,0.0,0,,
+396,269,1,active,monthly,2025-01-04,,0.0,0,,
+397,270,1,cancelled,annual,2023-05-02,2023-07-20,0.0,25,,Too expensive
+398,270,5,active,annual,2023-07-20,,49.17,0,,
+399,271,1,active,annual,2025-04-21,,0.0,0,,
+400,272,1,active,annual,2023-01-06,,0.0,0,,
+401,273,2,active,monthly,2023-08-15,,12.0,0,2023-08-29 00:00:00,
+402,274,1,cancelled,annual,2023-12-05,2024-05-02,0.0,0,,Budget cuts
+403,274,3,cancelled,annual,2024-05-02,2025-01-17,14.25,10,,
+404,274,5,active,monthly,2025-01-17,,59.0,0,,
+405,275,3,expired,annual,2024-08-03,2025-01-08,15.83,0,2024-08-17 00:00:00,Missing features
+406,275,6,active,monthly,2025-01-08,,99.0,0,,
+407,276,1,expired,monthly,2024-04-18,2025-02-18,0.0,15,,Company reorganization
+408,276,2,cancelled,annual,2025-02-18,2025-05-31,10.0,0,,Not using it
+409,276,4,active,annual,2025-05-31,,32.5,0,,
+410,277,1,cancelled,monthly,2025-07-02,,0.0,15,,Switched competitor
+411,278,3,cancelled,monthly,2024-08-26,2025-05-25,19.0,0,2024-09-09 00:00:00,Switched competitor
+412,278,1,expired,monthly,2025-05-25,2025-10-21,0.0,0,,Not using it
+413,278,7,active,annual,2025-10-21,,149.25,10,,
+414,279,4,active,monthly,2025-08-29,,39.0,0,2025-09-12 00:00:00,
+415,280,2,active,monthly,2023-07-31,,12.0,0,2023-08-14 00:00:00,
+416,281,1,active,monthly,2023-09-27,,0.0,0,,
+417,282,1,active,monthly,2025-06-07,,0.0,0,,
+418,283,1,expired,monthly,2025-04-16,2025-09-23,0.0,20,,Company reorganization
+419,283,4,cancelled,annual,2025-09-23,,32.5,0,,Budget cuts
+420,284,3,expired,monthly,2023-06-14,2024-04-06,19.0,0,2023-06-28 00:00:00,Switched competitor
+421,284,1,cancelled,annual,2024-04-06,,0.0,20,,Budget cuts
+422,285,6,active,monthly,2023-08-10,,99.0,0,2023-08-24 00:00:00,
+423,286,1,cancelled,monthly,2024-12-03,2025-07-30,0.0,10,,Switched competitor
+424,286,3,expired,annual,2025-07-30,2025-10-05,15.83,0,,Company reorganization
+425,286,5,active,monthly,2025-10-05,,59.0,0,,
+426,287,2,expired,monthly,2024-09-21,2025-01-06,12.0,0,2024-10-05 00:00:00,Too expensive
+427,287,3,active,monthly,2025-01-06,,19.0,0,,
+428,288,1,active,monthly,2024-01-15,,0.0,0,,
+429,289,1,expired,monthly,2023-05-18,2024-04-09,0.0,0,,Too expensive
+430,289,6,expired,annual,2024-04-09,2025-03-06,61.88,25,,
+431,289,3,active,annual,2025-03-06,,15.83,0,,
+432,290,3,expired,annual,2024-01-20,2024-05-19,15.83,0,2024-02-03 00:00:00,Too expensive
+433,290,5,active,monthly,2024-05-19,,59.0,0,,
+434,291,4,expired,monthly,2024-02-11,2024-08-05,39.0,0,2024-02-25 00:00:00,Company reorganization
+435,291,4,active,annual,2024-08-05,,32.5,0,,
+436,292,1,cancelled,annual,2024-11-06,,0.0,0,,Not using it
+437,293,3,expired,monthly,2023-01-06,2023-08-21,19.0,0,2023-01-20 00:00:00,Budget cuts
+438,293,4,active,monthly,2023-08-21,,39.0,0,,
+439,294,5,expired,annual,2024-03-25,2024-09-06,49.17,0,2024-04-08 00:00:00,Budget cuts
+440,294,5,cancelled,annual,2024-09-06,,49.17,0,,Not using it
+441,295,5,active,annual,2024-02-09,,49.17,0,2024-02-23 00:00:00,
+442,296,1,expired,monthly,2024-06-02,2025-01-30,0.0,0,,Switched competitor
+443,296,2,cancelled,monthly,2025-01-30,,12.0,0,,Budget cuts
+444,297,6,expired,monthly,2025-06-01,2025-10-22,99.0,0,2025-06-15 00:00:00,Not using it
+445,297,6,cancelled,monthly,2025-10-22,,99.0,0,,Company reorganization
+446,298,1,cancelled,annual,2025-02-05,2025-09-22,0.0,0,,Budget cuts
+447,298,2,active,monthly,2025-09-22,,12.0,0,,
+448,299,5,active,monthly,2023-07-31,,59.0,0,2023-08-14 00:00:00,
+449,300,5,active,monthly,2023-11-19,,59.0,0,2023-12-03 00:00:00,
+450,301,3,expired,annual,2024-05-04,2024-12-04,15.83,0,2024-05-18 00:00:00,
+451,301,5,active,annual,2024-12-04,,41.79,15,,
+452,302,2,active,annual,2024-09-19,,10.0,0,2024-10-03 00:00:00,
+453,303,3,active,annual,2023-07-04,,15.83,0,2023-07-18 00:00:00,
+454,304,3,active,annual,2023-06-30,,15.83,0,2023-07-14 00:00:00,
+455,305,6,active,monthly,2023-12-09,,99.0,0,2023-12-23 00:00:00,
+456,306,6,expired,monthly,2024-04-02,2024-09-26,99.0,0,2024-04-16 00:00:00,Not using it
+457,306,2,expired,monthly,2024-09-26,2025-08-20,12.0,0,,Switched competitor
+458,306,2,active,annual,2025-08-20,,9.0,10,,
+459,307,1,expired,monthly,2023-08-22,2024-06-13,0.0,0,,Switched competitor
+460,307,2,active,monthly,2024-06-13,,12.0,0,,
+461,308,1,cancelled,monthly,2023-01-24,,0.0,0,,Company reorganization
+462,309,4,cancelled,annual,2024-09-24,,32.5,0,2024-10-08 00:00:00,Budget cuts
+463,310,2,active,monthly,2024-07-15,,12.0,0,2024-07-29 00:00:00,
+464,311,1,cancelled,annual,2023-08-21,2024-06-28,0.0,0,,Budget cuts
+465,311,5,cancelled,annual,2024-06-28,2025-01-07,44.25,10,,Missing features
+466,311,6,active,annual,2025-01-07,,82.5,0,,
+467,312,6,active,annual,2023-07-13,,82.5,0,2023-07-27 00:00:00,
+468,313,1,active,monthly,2024-12-02,,0.0,0,,
+469,314,3,cancelled,annual,2023-11-25,2024-02-08,15.83,0,2023-12-09 00:00:00,Too expensive
+470,314,4,cancelled,annual,2024-02-08,,32.5,0,,Missing features
+471,315,1,active,monthly,2025-03-29,,0.0,25,,
+472,316,2,active,annual,2023-09-14,,10.0,0,2023-09-28 00:00:00,
+473,317,3,active,monthly,2024-11-28,,19.0,0,2024-12-12 00:00:00,
+474,318,4,cancelled,annual,2023-08-30,2024-04-27,32.5,0,2023-09-13 00:00:00,Switched competitor
+475,318,6,active,monthly,2024-04-27,,99.0,0,,
+476,319,2,active,monthly,2023-04-02,,12.0,0,2023-04-16 00:00:00,
+477,320,1,active,monthly,2025-02-13,,0.0,0,,
+478,321,1,active,monthly,2023-07-14,,0.0,0,,
+479,322,4,expired,monthly,2023-01-01,2023-07-25,39.0,0,2023-01-15 00:00:00,Company reorganization
+480,322,4,active,annual,2023-07-25,,29.25,10,,
+481,323,3,active,monthly,2024-05-24,,19.0,0,2024-06-07 00:00:00,
+482,324,1,expired,annual,2024-10-19,2025-09-02,0.0,0,,Company reorganization
+483,324,3,cancelled,monthly,2025-09-02,2025-11-01,19.0,0,,Too expensive
+484,324,7,active,annual,2025-11-01,,165.83,0,,
+485,325,4,active,monthly,2025-01-31,,39.0,0,2025-02-14 00:00:00,
+486,326,2,expired,annual,2023-07-14,2024-01-12,10.0,0,2023-07-28 00:00:00,
+487,326,4,cancelled,monthly,2024-01-12,2024-11-30,39.0,0,,Not using it
+488,326,3,cancelled,annual,2024-11-30,,15.83,0,,Missing features
+489,327,2,expired,monthly,2023-06-20,2024-03-23,12.0,0,2023-07-04 00:00:00,Company reorganization
+490,327,5,paused,monthly,2024-03-23,,59.0,0,,
+491,328,3,active,monthly,2024-07-30,,19.0,0,2024-08-13 00:00:00,
+492,329,1,active,monthly,2023-08-08,,0.0,0,,
+493,330,1,active,monthly,2024-08-19,,0.0,0,,
+494,331,4,active,monthly,2025-04-07,,39.0,0,2025-04-21 00:00:00,
+495,332,1,cancelled,monthly,2024-06-20,,0.0,0,,Not using it
+496,333,2,cancelled,monthly,2024-05-02,2025-02-24,10.8,10,2024-05-16 00:00:00,Not using it
+497,333,1,active,monthly,2025-02-24,,0.0,10,,
+498,334,4,cancelled,annual,2024-09-22,2025-07-29,32.5,0,2024-10-06 00:00:00,Too expensive
+499,334,4,active,annual,2025-07-29,,32.5,0,,
+500,335,5,cancelled,monthly,2024-08-31,2024-12-26,53.1,10,2024-09-14 00:00:00,Company reorganization
+501,335,5,active,annual,2024-12-26,,49.17,0,,
+502,336,6,active,monthly,2023-06-09,,99.0,0,2023-06-23 00:00:00,
+503,337,3,active,annual,2023-12-06,,15.83,0,2023-12-20 00:00:00,
+504,338,6,cancelled,annual,2023-06-24,,70.12,15,2023-07-08 00:00:00,Switched competitor
+505,339,2,expired,annual,2023-01-20,2023-08-05,10.0,0,2023-02-03 00:00:00,
+506,339,3,active,monthly,2023-08-05,,16.15,15,,
+507,340,1,active,monthly,2024-07-28,,0.0,0,,
+508,341,2,active,annual,2023-03-05,,10.0,0,2023-03-19 00:00:00,
+509,342,2,expired,monthly,2024-08-09,2025-01-06,10.8,10,2024-08-23 00:00:00,
+510,342,2,cancelled,annual,2025-01-06,,10.0,0,,Budget cuts
+511,343,1,active,annual,2024-03-16,,0.0,0,,
+512,344,1,paused,monthly,2025-02-22,,0.0,10,,
+513,345,4,active,monthly,2023-08-25,,39.0,0,2023-09-08 00:00:00,
+514,346,1,cancelled,annual,2023-05-21,,0.0,0,,Company reorganization
+515,347,4,active,monthly,2023-11-29,,39.0,0,2023-12-13 00:00:00,
+516,348,1,active,annual,2024-04-07,,0.0,0,,
+517,349,4,expired,monthly,2024-02-12,2024-12-23,39.0,0,2024-02-26 00:00:00,Switched competitor
+518,349,6,active,monthly,2024-12-23,,99.0,0,,
+519,350,1,cancelled,annual,2023-04-26,2024-04-07,0.0,0,,Missing features
+520,350,4,cancelled,monthly,2024-04-07,,39.0,0,,Switched competitor
+521,351,1,expired,monthly,2023-05-07,2023-09-04,0.0,0,,Budget cuts
+522,351,2,cancelled,annual,2023-09-04,,10.0,0,,Not using it
+523,352,1,cancelled,monthly,2025-06-02,,0.0,0,,Missing features
+524,353,1,active,annual,2025-02-22,,0.0,0,,
+525,354,3,active,monthly,2024-07-24,,19.0,0,2024-08-07 00:00:00,
+526,355,3,active,monthly,2023-06-15,,19.0,0,2023-06-29 00:00:00,
+527,356,5,active,monthly,2025-05-13,,59.0,0,2025-05-27 00:00:00,
+528,357,1,active,monthly,2024-05-10,,0.0,10,,
+529,358,4,active,monthly,2024-10-09,,39.0,0,2024-10-23 00:00:00,
+530,359,2,active,annual,2024-02-29,,10.0,0,2024-03-14 00:00:00,
+531,360,4,expired,annual,2023-12-16,2024-02-22,32.5,0,2023-12-30 00:00:00,Switched competitor
+532,360,6,active,annual,2024-02-22,,82.5,0,,
+533,361,4,active,annual,2025-07-02,,32.5,0,2025-07-16 00:00:00,
+534,362,3,active,annual,2025-06-28,,15.83,0,2025-07-12 00:00:00,
+535,363,2,active,monthly,2023-11-19,,12.0,0,2023-12-03 00:00:00,
+536,364,4,expired,annual,2023-12-15,2024-04-30,32.5,0,2023-12-29 00:00:00,Switched competitor
+537,364,2,expired,monthly,2024-04-30,2024-12-24,12.0,0,,Budget cuts
+538,364,4,active,monthly,2024-12-24,,39.0,0,,
+539,365,2,active,annual,2023-11-15,,10.0,0,2023-11-29 00:00:00,
+540,366,1,cancelled,annual,2023-07-17,2024-05-03,0.0,0,,Switched competitor
+541,366,5,cancelled,monthly,2024-05-03,2025-02-08,59.0,0,,Missing features
+542,366,2,active,monthly,2025-02-08,,12.0,0,,
+543,367,4,cancelled,monthly,2024-12-22,2025-07-26,35.1,10,2025-01-05 00:00:00,Not using it
+544,367,1,active,annual,2025-07-26,,0.0,0,,
+545,368,3,active,monthly,2023-07-03,,19.0,0,2023-07-17 00:00:00,
+546,369,2,active,monthly,2023-11-14,,12.0,0,2023-11-28 00:00:00,
+547,370,2,cancelled,monthly,2024-05-01,,12.0,0,2024-05-15 00:00:00,Missing features
+548,371,1,active,annual,2025-03-22,,0.0,0,,
+549,372,4,active,annual,2023-12-17,,32.5,0,2023-12-31 00:00:00,
+550,373,6,active,monthly,2025-09-05,,99.0,0,2025-09-19 00:00:00,
+551,374,1,cancelled,monthly,2024-11-07,,0.0,10,,Missing features
+552,375,1,expired,monthly,2024-02-18,2025-01-22,0.0,0,,Not using it
+553,375,6,cancelled,monthly,2025-01-22,2025-06-17,99.0,0,,Switched competitor
+554,375,5,active,annual,2025-06-17,,44.25,10,,
+555,376,1,active,monthly,2024-12-20,,0.0,0,,
+556,377,2,active,monthly,2023-06-07,,10.8,10,2023-06-21 00:00:00,
+557,378,3,cancelled,monthly,2025-07-04,2025-09-16,19.0,0,2025-07-18 00:00:00,Budget cuts
+558,378,5,active,annual,2025-09-16,,49.17,0,,
+559,379,6,active,monthly,2023-10-03,,84.15,15,2023-10-17 00:00:00,
+560,380,1,cancelled,monthly,2023-03-22,2023-09-08,0.0,0,,Switched competitor
+561,380,5,expired,monthly,2023-09-08,2024-01-01,59.0,0,,Switched competitor
+562,380,3,active,monthly,2024-01-01,,19.0,0,,
+563,381,1,active,annual,2024-07-01,,0.0,0,,
+564,382,1,cancelled,annual,2024-08-09,2025-06-13,0.0,20,,Not using it
+565,382,1,cancelled,monthly,2025-06-13,2025-10-30,0.0,0,,Too expensive
+566,382,5,cancelled,monthly,2025-10-30,,53.1,10,,Company reorganization
+567,383,3,active,annual,2023-04-25,,12.67,20,2023-05-09 00:00:00,
+568,384,5,cancelled,monthly,2023-03-28,2023-09-19,59.0,0,2023-04-11 00:00:00,Not using it
+569,384,7,active,annual,2023-09-19,,165.83,0,,
+570,385,5,expired,annual,2023-09-28,2024-05-18,49.17,0,2023-10-12 00:00:00,Missing features
+571,385,2,cancelled,annual,2024-05-18,2024-10-29,10.0,0,,Switched competitor
+572,385,6,active,monthly,2024-10-29,,99.0,0,,
+573,386,3,cancelled,monthly,2024-03-21,,19.0,0,2024-04-04 00:00:00,Missing features
+574,387,1,expired,monthly,2024-08-21,2025-06-11,0.0,0,,Too expensive
+575,387,6,active,monthly,2025-06-11,,99.0,0,,
+576,388,1,cancelled,monthly,2024-06-21,,0.0,0,,Budget cuts
+577,389,1,cancelled,monthly,2024-09-11,,0.0,0,,Too expensive
+578,390,2,expired,annual,2025-03-10,2025-07-17,10.0,0,2025-03-24 00:00:00,Too expensive
+579,390,2,cancelled,monthly,2025-07-17,2025-10-18,12.0,0,,Switched competitor
+580,390,4,cancelled,annual,2025-10-18,,32.5,0,,Missing features
+581,391,6,expired,monthly,2023-08-12,2024-01-28,99.0,0,2023-08-26 00:00:00,
+582,391,5,active,monthly,2024-01-28,,59.0,0,,
+583,392,1,expired,annual,2023-09-30,2024-06-10,0.0,0,,
+584,392,4,cancelled,monthly,2024-06-10,,39.0,0,,
+585,393,1,active,annual,2024-07-02,,0.0,0,,
+586,394,1,expired,annual,2023-06-30,2023-11-29,0.0,0,,
+587,394,4,active,monthly,2023-11-29,,39.0,0,,
+588,395,1,expired,monthly,2023-07-17,2023-10-27,0.0,0,,Budget cuts
+589,395,1,cancelled,annual,2023-10-27,2024-01-08,0.0,0,,Too expensive
+590,395,6,cancelled,monthly,2024-01-08,,89.1,10,,Missing features
+591,396,4,active,annual,2024-11-25,,32.5,0,2024-12-09 00:00:00,
+592,397,1,cancelled,annual,2024-10-09,2025-07-26,0.0,0,,Too expensive
+593,397,5,expired,annual,2025-07-26,2025-10-06,44.25,10,,Not using it
+594,397,4,cancelled,annual,2025-10-06,,32.5,0,,Missing features
+595,398,2,active,annual,2023-11-26,,10.0,0,2023-12-10 00:00:00,
+596,399,1,active,monthly,2025-08-05,,0.0,0,,
+597,400,5,active,monthly,2025-03-22,,59.0,0,2025-04-05 00:00:00,
+598,401,3,active,annual,2024-10-04,,15.83,0,2024-10-18 00:00:00,
+599,402,3,active,annual,2024-11-06,,15.83,0,2024-11-20 00:00:00,
+600,403,6,cancelled,annual,2025-04-04,2025-07-01,82.5,0,2025-04-18 00:00:00,
+601,403,6,expired,annual,2025-07-01,2025-09-26,82.5,0,,Budget cuts
+602,403,4,active,monthly,2025-09-26,,39.0,0,,
+603,404,3,cancelled,monthly,2024-11-24,2025-04-11,19.0,0,2024-12-08 00:00:00,Budget cuts
+604,404,2,active,annual,2025-04-11,,10.0,0,,
+605,405,1,paused,monthly,2025-08-08,,0.0,25,,
+606,406,5,cancelled,monthly,2024-04-21,2024-08-07,59.0,0,2024-05-05 00:00:00,Not using it
+607,406,5,active,monthly,2024-08-07,,59.0,0,,
+608,407,3,active,monthly,2023-08-10,,17.1,10,2023-08-24 00:00:00,
+609,408,3,active,monthly,2025-07-24,,19.0,0,2025-08-07 00:00:00,
+610,409,1,cancelled,annual,2023-09-04,,0.0,0,,Too expensive
+611,410,2,active,annual,2025-02-04,,9.0,10,2025-02-18 00:00:00,
+612,411,2,cancelled,annual,2024-12-08,2025-02-26,10.0,0,2024-12-22 00:00:00,
+613,411,3,active,monthly,2025-02-26,,19.0,0,,
+614,412,4,active,monthly,2025-07-20,,39.0,0,2025-08-03 00:00:00,
+615,413,1,cancelled,monthly,2023-12-09,2024-03-12,0.0,0,,
+616,413,5,active,monthly,2024-03-12,,59.0,0,,
+617,414,2,cancelled,annual,2025-04-29,,10.0,0,2025-05-13 00:00:00,Too expensive
+618,415,4,cancelled,monthly,2025-09-06,,39.0,0,2025-09-20 00:00:00,Not using it
+619,416,6,expired,monthly,2024-10-22,2025-10-11,99.0,0,2024-11-05 00:00:00,Company reorganization
+620,416,4,expired,annual,2025-10-11,2025-12-11,32.5,0,,Not using it
+621,416,4,cancelled,annual,2025-12-11,,32.5,0,,Switched competitor
+622,417,2,cancelled,monthly,2023-11-08,2024-05-11,12.0,0,2023-11-22 00:00:00,Company reorganization
+623,417,3,expired,monthly,2024-05-11,2025-03-06,19.0,0,,Not using it
+624,417,4,active,monthly,2025-03-06,,39.0,0,,
+625,418,3,cancelled,annual,2023-04-30,,12.67,20,2023-05-14 00:00:00,Too expensive
+626,419,1,active,monthly,2025-08-08,,0.0,0,,
+627,420,1,active,annual,2025-01-19,,0.0,0,,
+628,421,3,active,monthly,2023-08-16,,19.0,0,2023-08-30 00:00:00,
+629,422,1,cancelled,annual,2025-08-24,,0.0,20,,Not using it
+630,423,3,expired,annual,2023-10-23,2024-01-13,15.83,0,2023-11-06 00:00:00,Budget cuts
+631,423,2,expired,annual,2024-01-13,2024-05-02,10.0,0,,Company reorganization
+632,423,7,cancelled,annual,2024-05-02,,165.83,0,,Too expensive
+633,424,4,expired,annual,2023-04-01,2023-09-23,32.5,0,2023-04-15 00:00:00,Not using it
+634,424,5,cancelled,annual,2023-09-23,,44.25,10,,Missing features
+635,425,6,active,monthly,2025-01-27,,99.0,0,2025-02-10 00:00:00,
+636,426,2,active,annual,2025-02-22,,10.0,0,2025-03-08 00:00:00,
+637,427,3,cancelled,annual,2023-09-23,,15.83,0,2023-10-07 00:00:00,Missing features
+638,428,2,cancelled,monthly,2024-10-05,2025-06-18,10.2,15,2024-10-19 00:00:00,Company reorganization
+639,428,6,cancelled,annual,2025-06-18,,82.5,0,,Too expensive
+640,429,2,active,annual,2024-06-14,,10.0,0,2024-06-28 00:00:00,
+641,430,2,active,monthly,2024-12-30,,12.0,0,2025-01-13 00:00:00,
+642,431,3,active,annual,2025-06-30,,15.83,0,2025-07-14 00:00:00,
+643,432,2,active,annual,2024-03-11,,9.0,10,2024-03-25 00:00:00,
+644,433,1,expired,annual,2025-07-19,2025-09-23,0.0,0,,
+645,433,3,cancelled,monthly,2025-09-23,2025-11-22,19.0,0,,
+646,433,5,active,monthly,2025-11-22,,59.0,0,,
+647,434,6,active,annual,2023-06-14,,82.5,0,2023-06-28 00:00:00,
+648,435,3,cancelled,monthly,2025-01-12,,19.0,0,2025-01-26 00:00:00,Not using it
+649,436,1,cancelled,annual,2023-11-18,,0.0,0,,Missing features
+650,437,1,active,monthly,2024-02-22,,0.0,0,,
+651,438,1,expired,annual,2023-03-29,2023-10-28,0.0,0,,Budget cuts
+652,438,2,cancelled,monthly,2023-10-28,,9.0,25,,
+653,439,3,expired,annual,2025-02-23,2025-08-23,15.83,0,2025-03-09 00:00:00,Budget cuts
+654,439,4,active,monthly,2025-08-23,,39.0,0,,
+655,440,6,expired,annual,2023-08-25,2024-08-16,82.5,0,2023-09-08 00:00:00,Too expensive
+656,440,5,cancelled,annual,2024-08-16,2025-05-06,49.17,0,,Budget cuts
+657,440,7,active,monthly,2025-05-06,,199.0,0,,
+658,441,1,active,monthly,2025-03-22,,0.0,10,,
+659,442,4,active,monthly,2024-07-24,,39.0,0,2024-08-07 00:00:00,
+660,443,2,active,annual,2024-05-02,,8.5,15,2024-05-16 00:00:00,
+661,444,4,expired,annual,2024-08-20,2025-06-10,32.5,0,2024-09-03 00:00:00,Switched competitor
+662,444,1,cancelled,monthly,2025-06-10,,0.0,0,,Company reorganization
+663,445,1,cancelled,monthly,2023-06-23,2023-11-12,0.0,0,,Too expensive
+664,445,7,cancelled,monthly,2023-11-12,,199.0,0,,Too expensive
+665,446,2,cancelled,monthly,2024-11-22,2025-06-27,10.2,15,2024-12-06 00:00:00,
+666,446,1,active,monthly,2025-06-27,,0.0,0,,
+667,447,2,active,monthly,2024-02-16,,12.0,0,2024-03-01 00:00:00,
+668,448,2,active,annual,2023-11-04,,10.0,0,2023-11-18 00:00:00,
+669,449,2,cancelled,annual,2023-08-07,2023-12-17,10.0,0,2023-08-21 00:00:00,Too expensive
+670,449,1,active,annual,2023-12-17,,0.0,0,,
+671,450,2,cancelled,annual,2023-09-04,,8.5,15,2023-09-18 00:00:00,Not using it
+672,451,1,cancelled,monthly,2023-07-16,,0.0,0,,Too expensive
+673,452,3,expired,monthly,2023-02-26,2023-12-12,15.2,20,2023-03-12 00:00:00,Budget cuts
+674,452,4,cancelled,monthly,2023-12-12,2024-03-28,31.2,20,,Budget cuts
+675,452,1,active,monthly,2024-03-28,,0.0,20,,
+676,453,3,expired,monthly,2025-08-13,2025-10-23,19.0,0,2025-08-27 00:00:00,Budget cuts
+677,453,6,cancelled,annual,2025-10-23,2025-12-23,82.5,0,,Switched competitor
+678,453,5,cancelled,monthly,2025-12-23,,59.0,0,,Company reorganization
+679,454,6,cancelled,monthly,2023-04-20,2024-03-04,99.0,0,2023-05-04 00:00:00,Company reorganization
+680,454,1,cancelled,monthly,2024-03-04,,0.0,0,,Budget cuts
+681,455,4,active,annual,2023-01-22,,32.5,0,2023-02-05 00:00:00,
+682,456,1,cancelled,monthly,2024-12-02,,0.0,0,,Too expensive
+683,457,1,active,annual,2023-10-08,,0.0,0,,
+684,458,2,active,monthly,2025-01-16,,12.0,0,2025-01-30 00:00:00,
+685,459,6,active,annual,2023-11-09,,82.5,0,2023-11-23 00:00:00,
+686,460,2,expired,monthly,2025-03-29,2025-10-20,12.0,0,2025-04-12 00:00:00,Too expensive
+687,460,4,active,annual,2025-10-20,,32.5,0,,
+688,461,5,active,monthly,2024-09-24,,59.0,0,2024-10-08 00:00:00,
+689,462,3,active,annual,2025-06-01,,15.83,0,2025-06-15 00:00:00,
+690,463,2,active,annual,2025-09-26,,10.0,0,2025-10-10 00:00:00,
+691,464,4,active,monthly,2023-04-08,,39.0,0,2023-04-22 00:00:00,
+692,465,3,expired,annual,2025-07-02,2025-10-24,11.88,25,2025-07-16 00:00:00,
+693,465,6,active,monthly,2025-10-24,,99.0,0,,
+694,466,3,active,monthly,2025-05-04,,19.0,0,2025-05-18 00:00:00,
+695,467,2,active,monthly,2025-08-03,,12.0,0,2025-08-17 00:00:00,
+696,468,4,active,monthly,2025-05-16,,39.0,0,2025-05-30 00:00:00,
+697,469,2,cancelled,monthly,2024-08-07,2024-11-15,12.0,0,2024-08-21 00:00:00,Company reorganization
+698,469,5,cancelled,annual,2024-11-15,,49.17,0,,Budget cuts
+699,470,1,active,annual,2025-09-05,,0.0,0,,
+700,471,2,active,monthly,2023-10-17,,12.0,0,2023-10-31 00:00:00,
+701,472,4,active,annual,2025-09-04,,26.0,20,2025-09-18 00:00:00,
+702,473,3,active,monthly,2024-02-02,,19.0,0,2024-02-16 00:00:00,
+703,474,2,active,annual,2024-06-23,,10.0,0,2024-07-07 00:00:00,
+704,475,1,cancelled,monthly,2024-06-06,2025-01-19,0.0,10,,Budget cuts
+705,475,5,paused,annual,2025-01-19,,49.17,0,,
+706,476,2,cancelled,monthly,2023-02-16,,12.0,0,2023-03-02 00:00:00,Budget cuts
+707,477,2,active,monthly,2024-05-03,,12.0,0,2024-05-17 00:00:00,
+708,478,2,cancelled,monthly,2023-01-15,,12.0,0,2023-01-29 00:00:00,Not using it
+709,479,5,expired,annual,2024-04-19,2024-12-02,49.17,0,2024-05-03 00:00:00,Budget cuts
+710,479,7,cancelled,monthly,2024-12-02,,199.0,0,,Switched competitor
+711,480,6,active,monthly,2024-09-02,,99.0,0,2024-09-16 00:00:00,
+712,481,5,cancelled,monthly,2024-03-08,2024-09-30,59.0,0,2024-03-22 00:00:00,Company reorganization
+713,481,4,cancelled,monthly,2024-09-30,2025-02-07,33.15,15,,Budget cuts
+714,481,6,active,monthly,2025-02-07,,99.0,0,,
+715,482,1,cancelled,monthly,2024-03-24,2024-08-15,0.0,0,,Not using it
+716,482,4,active,monthly,2024-08-15,,39.0,0,,
+717,483,1,cancelled,monthly,2023-10-17,2024-05-03,0.0,0,,Too expensive
+718,483,5,expired,monthly,2024-05-03,2025-05-03,59.0,0,,Missing features
+719,483,5,active,monthly,2025-05-03,,59.0,0,,
+720,484,1,expired,monthly,2023-06-28,2023-10-21,0.0,0,,Company reorganization
+721,484,6,cancelled,monthly,2023-10-21,2024-03-24,89.1,10,,Company reorganization
+722,484,3,active,annual,2024-03-24,,15.83,0,,
+723,485,3,expired,monthly,2025-02-27,2025-10-12,19.0,0,2025-03-13 00:00:00,Too expensive
+724,485,5,active,annual,2025-10-12,,49.17,0,,
+725,486,6,cancelled,annual,2025-05-28,2025-08-08,82.5,0,2025-06-11 00:00:00,
+726,486,6,active,monthly,2025-08-08,,99.0,0,,
+727,487,3,cancelled,annual,2023-04-12,,15.83,0,2023-04-26 00:00:00,Company reorganization
+728,488,1,active,monthly,2023-09-30,,0.0,0,,
+729,489,1,active,annual,2024-06-12,,0.0,15,,
+730,490,1,cancelled,monthly,2025-02-16,2025-05-12,0.0,0,,Company reorganization
+731,490,7,cancelled,monthly,2025-05-12,,199.0,0,,Missing features
+732,491,2,cancelled,monthly,2024-09-17,2025-09-03,12.0,0,2024-10-01 00:00:00,Missing features
+733,491,1,paused,annual,2025-09-03,,0.0,0,,
+734,492,2,expired,annual,2024-02-04,2024-07-22,10.0,0,2024-02-18 00:00:00,Not using it
+735,492,2,active,monthly,2024-07-22,,10.8,10,,
+736,493,4,cancelled,monthly,2025-05-02,2025-08-09,39.0,0,2025-05-16 00:00:00,Switched competitor
+737,493,4,active,monthly,2025-08-09,,39.0,0,,
+738,494,2,expired,annual,2024-08-09,2024-11-29,10.0,0,2024-08-23 00:00:00,Missing features
+739,494,1,active,monthly,2024-11-29,,0.0,0,,
+740,495,4,active,monthly,2025-04-22,,39.0,0,2025-05-06 00:00:00,
+741,496,3,active,monthly,2024-02-09,,19.0,0,2024-02-23 00:00:00,
+742,497,1,cancelled,annual,2024-02-23,,0.0,0,,Budget cuts
+743,498,2,cancelled,annual,2025-07-04,2025-09-04,10.0,0,2025-07-18 00:00:00,Switched competitor
+744,498,7,expired,annual,2025-09-04,2025-11-03,165.83,0,,Too expensive
+745,498,4,active,monthly,2025-11-03,,39.0,0,,
+746,499,2,active,monthly,2024-05-01,,12.0,0,2024-05-15 00:00:00,
+747,500,5,active,annual,2024-11-11,,49.17,0,2024-11-25 00:00:00,
+748,501,1,cancelled,monthly,2023-03-29,,0.0,10,,Not using it
+749,502,1,active,annual,2024-12-23,,0.0,20,,
+750,503,2,expired,annual,2024-07-08,2025-06-24,10.0,0,2024-07-22 00:00:00,Budget cuts
+751,503,2,expired,monthly,2025-06-24,2025-09-24,9.6,20,,Too expensive
+752,503,4,cancelled,monthly,2025-09-24,,39.0,0,,Not using it
+753,504,3,expired,annual,2023-09-22,2024-06-26,15.83,0,2023-10-06 00:00:00,Switched competitor
+754,504,6,active,monthly,2024-06-26,,89.1,10,,
+755,505,1,paused,monthly,2024-07-20,,0.0,0,,
+756,506,2,cancelled,monthly,2024-04-01,,12.0,0,2024-04-15 00:00:00,Switched competitor
+757,507,3,cancelled,annual,2025-09-22,,14.25,10,2025-10-06 00:00:00,
+758,508,5,active,monthly,2025-01-12,,50.15,15,2025-01-26 00:00:00,
+759,509,4,expired,monthly,2023-05-17,2024-03-25,39.0,0,2023-05-31 00:00:00,Budget cuts
+760,509,5,cancelled,annual,2024-03-25,2024-08-20,49.17,0,,Switched competitor
+761,509,5,active,monthly,2024-08-20,,59.0,0,,
+762,510,2,active,annual,2025-07-02,,10.0,0,2025-07-16 00:00:00,
+763,511,1,cancelled,monthly,2025-08-16,,0.0,0,,
+764,512,2,active,annual,2023-02-07,,8.5,15,2023-02-21 00:00:00,
+765,513,1,active,annual,2025-01-26,,0.0,0,,
+766,514,4,active,monthly,2024-12-10,,39.0,0,2024-12-24 00:00:00,
+767,515,1,cancelled,annual,2024-06-13,2025-03-13,0.0,0,,Company reorganization
+768,515,6,expired,monthly,2025-03-13,2025-05-13,99.0,0,,Switched competitor
+769,515,4,active,annual,2025-05-13,,32.5,0,,
+770,516,1,cancelled,monthly,2025-01-25,2025-06-06,0.0,0,,Not using it
+771,516,5,active,annual,2025-06-06,,41.79,15,,
+772,517,2,expired,monthly,2023-09-11,2024-09-07,12.0,0,2023-09-25 00:00:00,Company reorganization
+773,517,4,cancelled,monthly,2024-09-07,2025-02-18,39.0,0,,Not using it
+774,517,6,cancelled,monthly,2025-02-18,,99.0,0,,Not using it
+775,518,2,cancelled,annual,2023-03-04,2024-01-04,10.0,0,2023-03-18 00:00:00,Budget cuts
+776,518,3,active,monthly,2024-01-04,,19.0,0,,
+777,519,2,active,monthly,2023-10-29,,12.0,0,2023-11-12 00:00:00,
+778,520,4,active,annual,2024-10-28,,32.5,0,2024-11-11 00:00:00,
+779,521,4,expired,monthly,2023-05-10,2023-10-04,39.0,0,2023-05-24 00:00:00,Budget cuts
+780,521,2,active,annual,2023-10-04,,10.0,0,,
+781,522,5,expired,annual,2025-09-20,2025-11-20,49.17,0,2025-10-04 00:00:00,Company reorganization
+782,522,4,cancelled,monthly,2025-11-20,,35.1,10,,Budget cuts
+783,523,2,cancelled,monthly,2023-12-16,,12.0,0,2023-12-30 00:00:00,Missing features
+784,524,1,cancelled,monthly,2025-07-31,,0.0,0,,Too expensive
+785,525,4,expired,annual,2024-03-26,2025-02-27,32.5,0,2024-04-09 00:00:00,Missing features
+786,525,2,expired,monthly,2025-02-27,2025-05-10,12.0,0,,Company reorganization
+787,525,6,cancelled,annual,2025-05-10,,82.5,0,,Switched competitor
+788,526,1,active,monthly,2023-01-22,,0.0,10,,
+789,527,5,active,annual,2025-06-18,,49.17,0,2025-07-02 00:00:00,
+790,528,1,cancelled,annual,2024-08-24,,0.0,0,,Company reorganization
+791,529,1,cancelled,annual,2024-06-04,2024-09-11,0.0,0,,Missing features
+792,529,2,active,annual,2024-09-11,,10.0,0,,
+793,530,2,active,monthly,2024-02-15,,9.0,25,2024-02-29 00:00:00,
+794,531,1,active,monthly,2025-05-12,,0.0,0,,
+795,532,2,active,annual,2024-01-12,,10.0,0,2024-01-26 00:00:00,
+796,533,2,cancelled,annual,2023-04-11,,8.0,20,2023-04-25 00:00:00,Too expensive
+797,534,3,expired,annual,2023-01-09,2023-04-20,15.83,0,2023-01-23 00:00:00,Company reorganization
+798,534,5,active,monthly,2023-04-20,,59.0,0,,
+799,535,5,cancelled,monthly,2025-02-06,2025-04-13,59.0,0,2025-02-20 00:00:00,Company reorganization
+800,535,5,active,annual,2025-04-13,,49.17,0,,
+801,536,6,cancelled,monthly,2024-07-25,,99.0,0,2024-08-08 00:00:00,Missing features
+802,537,2,active,monthly,2024-12-08,,12.0,0,2024-12-22 00:00:00,
+803,538,1,cancelled,annual,2023-07-29,2024-03-12,0.0,20,,Switched competitor
+804,538,4,active,monthly,2024-03-12,,39.0,0,,
+805,539,6,active,annual,2024-09-09,,82.5,0,2024-09-23 00:00:00,
+806,540,1,cancelled,annual,2023-04-24,,0.0,10,,
+807,541,3,cancelled,monthly,2024-04-14,2024-11-15,16.15,15,2024-04-28 00:00:00,Missing features
+808,541,7,active,monthly,2024-11-15,,199.0,0,,
+809,542,1,active,monthly,2025-06-21,,0.0,0,,
+810,543,2,cancelled,monthly,2025-06-10,2025-10-04,12.0,0,2025-06-24 00:00:00,Company reorganization
+811,543,5,cancelled,annual,2025-10-04,,49.17,0,,Budget cuts
+812,544,2,cancelled,monthly,2025-03-09,2025-06-29,12.0,0,2025-03-23 00:00:00,Not using it
+813,544,3,cancelled,annual,2025-06-29,2025-09-04,15.83,0,,Budget cuts
+814,544,6,active,monthly,2025-09-04,,89.1,10,,
+815,545,6,active,monthly,2023-04-28,,99.0,0,2023-05-12 00:00:00,
+816,546,1,expired,monthly,2024-09-13,2025-07-26,0.0,0,,Not using it
+817,546,6,cancelled,monthly,2025-07-26,2025-09-24,99.0,0,,Too expensive
+818,546,6,cancelled,annual,2025-09-24,,82.5,0,,Budget cuts
+819,547,1,expired,monthly,2025-01-03,2025-04-21,0.0,15,,Budget cuts
+820,547,4,active,monthly,2025-04-21,,39.0,0,,
+821,548,2,cancelled,monthly,2023-07-16,2024-02-12,12.0,0,2023-07-30 00:00:00,Switched competitor
+822,548,3,active,annual,2024-02-12,,15.83,0,,
+823,549,2,cancelled,monthly,2025-08-14,2025-10-13,12.0,0,2025-08-28 00:00:00,Company reorganization
+824,549,4,expired,annual,2025-10-13,2025-12-12,32.5,0,,Budget cuts
+825,549,4,active,annual,2025-12-12,,32.5,0,,
+826,550,2,active,monthly,2023-10-13,,12.0,0,2023-10-27 00:00:00,
+827,551,1,expired,monthly,2025-09-22,2025-11-22,0.0,0,,Switched competitor
+828,551,1,cancelled,monthly,2025-11-22,2026-01-21,0.0,15,,Budget cuts
+829,551,3,active,annual,2026-01-21,,15.83,0,,
+830,552,2,active,annual,2023-01-14,,10.0,0,2023-01-28 00:00:00,
+831,553,2,expired,monthly,2023-07-29,2023-12-06,9.0,25,2023-08-12 00:00:00,Not using it
+832,553,2,active,monthly,2023-12-06,,12.0,0,,
+833,554,5,active,annual,2023-08-23,,44.25,10,2023-09-06 00:00:00,
+834,555,2,expired,annual,2024-05-18,2025-03-27,10.0,0,2024-06-01 00:00:00,Switched competitor
+835,555,6,cancelled,annual,2025-03-27,,74.25,10,,
+836,556,2,expired,monthly,2023-07-22,2023-12-18,9.0,25,2023-08-05 00:00:00,Switched competitor
+837,556,3,active,monthly,2023-12-18,,19.0,0,,
+838,557,6,cancelled,annual,2024-09-16,2025-07-23,82.5,0,2024-09-30 00:00:00,Not using it
+839,557,5,cancelled,annual,2025-07-23,2025-09-30,49.17,0,,
+840,557,1,active,monthly,2025-09-30,,0.0,15,,
+841,558,4,active,annual,2023-10-18,,29.25,10,2023-11-01 00:00:00,
+842,559,1,cancelled,annual,2025-08-05,2025-10-10,0.0,0,,Company reorganization
+843,559,5,active,monthly,2025-10-10,,59.0,0,,
+844,560,3,active,annual,2025-09-07,,15.83,0,2025-09-21 00:00:00,
+845,561,1,cancelled,monthly,2023-02-05,2023-04-15,0.0,0,,Missing features
+846,561,2,active,monthly,2023-04-15,,12.0,0,,
+847,562,2,cancelled,monthly,2025-02-28,,9.0,25,2025-03-14 00:00:00,Not using it
+848,563,2,active,annual,2025-01-21,,10.0,0,2025-02-04 00:00:00,
+849,564,1,cancelled,monthly,2023-06-22,2023-10-03,0.0,0,,Budget cuts
+850,564,5,expired,monthly,2023-10-03,2024-03-18,59.0,0,,Budget cuts
+851,564,5,active,annual,2024-03-18,,49.17,0,,
+852,565,2,active,annual,2023-07-10,,10.0,0,2023-07-24 00:00:00,
+853,566,5,cancelled,monthly,2023-03-07,2023-05-25,53.1,10,2023-03-21 00:00:00,Too expensive
+854,566,4,active,monthly,2023-05-25,,39.0,0,,
+855,567,3,active,monthly,2025-02-18,,19.0,0,2025-03-04 00:00:00,
+856,568,4,cancelled,annual,2023-01-04,2023-10-28,32.5,0,2023-01-18 00:00:00,
+857,568,1,active,annual,2023-10-28,,0.0,0,,
+858,569,2,cancelled,monthly,2024-11-07,2025-02-03,10.2,15,2024-11-21 00:00:00,Budget cuts
+859,569,2,cancelled,monthly,2025-02-03,,10.2,15,,
+860,570,4,active,annual,2025-08-22,,32.5,0,2025-09-05 00:00:00,
+861,571,4,active,annual,2023-03-31,,27.62,15,2023-04-14 00:00:00,
+862,572,1,cancelled,monthly,2025-01-02,2025-03-27,0.0,0,,Budget cuts
+863,572,6,cancelled,annual,2025-03-27,,74.25,10,,Company reorganization
+864,573,5,active,annual,2024-12-09,,49.17,0,2024-12-23 00:00:00,
+865,574,1,active,monthly,2023-08-17,,0.0,0,,
+866,575,1,expired,monthly,2023-11-15,2024-04-26,0.0,0,,Not using it
+867,575,6,cancelled,annual,2024-04-26,,82.5,0,,Not using it
+868,576,1,cancelled,monthly,2025-05-22,2025-10-13,0.0,0,,Company reorganization
+869,576,4,active,annual,2025-10-13,,32.5,0,,
+870,577,2,cancelled,annual,2023-11-13,2024-05-30,10.0,0,2023-11-27 00:00:00,Not using it
+871,577,7,active,annual,2024-05-30,,165.83,0,,
+872,578,2,expired,annual,2025-01-03,2025-05-19,10.0,0,2025-01-17 00:00:00,Missing features
+873,578,2,active,annual,2025-05-19,,10.0,0,,
+874,579,1,expired,monthly,2024-07-15,2024-10-20,0.0,25,,Budget cuts
+875,579,4,active,annual,2024-10-20,,32.5,0,,
+876,580,1,expired,monthly,2023-05-15,2024-02-21,0.0,0,,Too expensive
+877,580,6,active,annual,2024-02-21,,82.5,0,,
+878,581,1,active,annual,2025-05-26,,0.0,0,,
+879,582,1,active,annual,2024-08-30,,0.0,20,,
+880,583,1,active,annual,2025-06-04,,0.0,0,,
+881,584,2,cancelled,monthly,2024-12-11,2025-06-03,12.0,0,2024-12-25 00:00:00,Switched competitor
+882,584,4,active,annual,2025-06-03,,32.5,0,,
+883,585,4,expired,annual,2025-04-12,2025-06-11,32.5,0,2025-04-26 00:00:00,
+884,585,2,active,annual,2025-06-11,,10.0,0,,
+885,586,4,active,monthly,2024-09-05,,39.0,0,2024-09-19 00:00:00,
+886,587,1,expired,monthly,2025-09-16,2025-11-15,0.0,0,,Company reorganization
+887,587,4,paused,monthly,2025-11-15,,39.0,0,,
+888,588,5,cancelled,annual,2023-08-03,2024-06-12,44.25,10,2023-08-17 00:00:00,
+889,588,2,expired,monthly,2024-06-12,2025-04-29,12.0,0,,Switched competitor
+890,588,6,active,annual,2025-04-29,,82.5,0,,
+891,589,1,cancelled,annual,2024-07-17,2025-02-13,0.0,0,,Missing features
+892,589,6,cancelled,monthly,2025-02-13,2025-09-12,99.0,0,,Switched competitor
+893,589,5,active,annual,2025-09-12,,49.17,0,,
+894,590,2,cancelled,annual,2024-12-14,2025-10-23,10.0,0,2024-12-28 00:00:00,
+895,590,3,active,annual,2025-10-23,,15.83,0,,
+896,591,4,cancelled,annual,2024-07-15,2025-03-04,32.5,0,2024-07-29 00:00:00,Switched competitor
+897,591,5,cancelled,monthly,2025-03-04,2025-08-17,59.0,0,,Missing features
+898,591,2,active,annual,2025-08-17,,10.0,0,,
+899,592,1,active,monthly,2024-07-18,,0.0,0,,
+900,593,3,expired,monthly,2024-12-31,2025-04-06,19.0,0,2025-01-14 00:00:00,Missing features
+901,593,1,cancelled,monthly,2025-04-06,,0.0,10,,Not using it
+902,594,1,cancelled,annual,2025-03-28,2025-06-29,0.0,0,,Budget cuts
+903,594,4,expired,annual,2025-06-29,2025-10-04,32.5,0,,
+904,594,6,active,annual,2025-10-04,,74.25,10,,
+905,595,1,active,annual,2023-05-20,,0.0,10,,
+906,596,1,active,monthly,2024-11-21,,0.0,0,,
+907,597,5,active,annual,2024-11-26,,49.17,0,2024-12-10 00:00:00,
+908,598,3,expired,annual,2025-09-09,2025-11-08,14.25,10,2025-09-23 00:00:00,
+909,598,1,cancelled,monthly,2025-11-08,2026-01-08,0.0,0,,Too expensive
+910,598,6,active,monthly,2026-01-08,,99.0,0,,
+911,599,4,cancelled,monthly,2025-01-09,,39.0,0,2025-01-23 00:00:00,Switched competitor
+912,600,2,active,annual,2023-11-03,,10.0,0,2023-11-17 00:00:00,
+913,601,1,cancelled,annual,2023-10-19,,0.0,0,,Missing features
+914,602,3,cancelled,monthly,2025-02-21,2025-06-06,19.0,0,2025-03-07 00:00:00,Missing features
+915,602,4,cancelled,monthly,2025-06-06,2025-10-13,39.0,0,,Too expensive
+916,602,2,active,annual,2025-10-13,,10.0,0,,
+917,603,3,expired,annual,2025-04-29,2025-09-08,15.83,0,2025-05-13 00:00:00,
+918,603,2,active,annual,2025-09-08,,10.0,0,,
+919,604,4,expired,monthly,2024-03-15,2024-11-12,35.1,10,2024-03-29 00:00:00,Company reorganization
+920,604,6,cancelled,monthly,2024-11-12,,99.0,0,,Company reorganization
+921,605,1,active,monthly,2024-03-12,,0.0,0,,
+922,606,5,active,monthly,2025-02-01,,59.0,0,2025-02-15 00:00:00,
+923,607,5,cancelled,monthly,2025-01-29,2025-07-18,59.0,0,2025-02-12 00:00:00,Budget cuts
+924,607,2,active,monthly,2025-07-18,,12.0,0,,
+925,608,1,active,monthly,2024-04-01,,0.0,10,,
+926,609,1,active,monthly,2025-07-01,,0.0,0,,
+927,610,2,cancelled,monthly,2024-08-02,2025-06-19,12.0,0,2024-08-16 00:00:00,Too expensive
+928,610,6,cancelled,monthly,2025-06-19,,99.0,0,,
+929,611,1,cancelled,monthly,2023-07-31,,0.0,0,,
+930,612,1,cancelled,monthly,2023-10-04,2024-07-28,0.0,0,,Too expensive
+931,612,2,active,monthly,2024-07-28,,12.0,0,,
+932,613,6,cancelled,annual,2024-10-02,2025-09-10,82.5,0,2024-10-16 00:00:00,Budget cuts
+933,613,3,expired,monthly,2025-09-10,2025-11-09,19.0,0,,Not using it
+934,613,4,active,monthly,2025-11-09,,39.0,0,,
+935,614,2,active,monthly,2025-04-16,,9.6,20,2025-04-30 00:00:00,
+936,615,2,active,monthly,2024-05-17,,12.0,0,2024-05-31 00:00:00,
+937,616,6,expired,annual,2024-06-23,2025-02-10,82.5,0,2024-07-07 00:00:00,Switched competitor
+938,616,7,cancelled,annual,2025-02-10,,165.83,0,,Not using it
+939,617,2,cancelled,monthly,2025-09-16,2025-11-15,12.0,0,2025-09-30 00:00:00,Too expensive
+940,617,1,cancelled,monthly,2025-11-15,,0.0,0,,Too expensive
+941,618,3,active,monthly,2024-10-04,,19.0,0,2024-10-18 00:00:00,
+942,619,1,cancelled,annual,2025-01-02,2025-03-03,0.0,0,,Too expensive
+943,619,3,active,monthly,2025-03-03,,15.2,20,,
+944,620,1,cancelled,annual,2024-09-11,2025-01-02,0.0,0,,Company reorganization
+945,620,3,cancelled,annual,2025-01-02,,15.83,0,,Switched competitor
+946,621,1,cancelled,monthly,2025-06-01,2025-10-03,0.0,0,,
+947,621,2,active,monthly,2025-10-03,,12.0,0,,
+948,622,1,active,monthly,2023-11-27,,0.0,0,,
+949,623,6,expired,annual,2024-07-16,2025-05-16,74.25,10,2024-07-30 00:00:00,Company reorganization
+950,623,2,expired,monthly,2025-05-16,2025-08-13,12.0,0,,Budget cuts
+951,623,4,active,annual,2025-08-13,,32.5,0,,
+952,624,1,active,monthly,2023-01-18,,0.0,0,,
+953,625,6,active,monthly,2025-04-27,,89.1,10,2025-05-11 00:00:00,
+954,626,2,cancelled,monthly,2025-06-10,,12.0,0,2025-06-24 00:00:00,Company reorganization
+955,627,5,cancelled,monthly,2024-10-22,2025-01-13,59.0,0,2024-11-05 00:00:00,Budget cuts
+956,627,2,active,monthly,2025-01-13,,12.0,0,,
+957,628,3,active,annual,2024-12-27,,14.25,10,2025-01-10 00:00:00,
+958,629,2,cancelled,annual,2023-03-21,2023-06-05,7.5,25,2023-04-04 00:00:00,Company reorganization
+959,629,2,cancelled,annual,2023-06-05,2023-10-01,10.0,0,,Budget cuts
+960,629,6,active,annual,2023-10-01,,82.5,0,,
+961,630,1,expired,monthly,2023-10-16,2024-05-25,0.0,0,,Missing features
+962,630,4,expired,monthly,2024-05-25,2024-10-02,39.0,0,,Missing features
+963,630,4,cancelled,monthly,2024-10-02,,39.0,0,,Company reorganization
+964,631,3,expired,monthly,2023-04-06,2023-06-17,19.0,0,2023-04-20 00:00:00,Missing features
+965,631,1,active,monthly,2023-06-17,,0.0,0,,
+966,632,2,active,monthly,2025-04-06,,12.0,0,2025-04-20 00:00:00,
+967,633,5,cancelled,monthly,2023-06-14,2023-09-24,59.0,0,2023-06-28 00:00:00,
+968,633,2,active,annual,2023-09-24,,8.0,20,,
+969,634,4,cancelled,monthly,2024-09-13,,39.0,0,2024-09-27 00:00:00,
+970,635,1,active,annual,2023-10-14,,0.0,0,,
+971,636,2,active,monthly,2024-02-15,,12.0,0,2024-02-29 00:00:00,
+972,637,1,cancelled,monthly,2024-10-21,,0.0,0,,Switched competitor
+973,638,1,active,annual,2024-10-19,,0.0,20,,
+974,639,1,cancelled,monthly,2024-04-10,,0.0,0,,Company reorganization
+975,640,1,expired,annual,2025-09-02,2025-11-01,0.0,0,,Company reorganization
+976,640,1,active,monthly,2025-11-01,,0.0,0,,
+977,641,1,cancelled,monthly,2023-02-25,2023-07-24,0.0,0,,Not using it
+978,641,3,cancelled,monthly,2023-07-24,2024-01-09,19.0,0,,Too expensive
+979,641,1,cancelled,annual,2024-01-09,,0.0,0,,Missing features
+980,642,5,active,monthly,2024-12-10,,59.0,0,2024-12-24 00:00:00,
+981,643,5,cancelled,annual,2025-07-07,2025-10-15,49.17,0,2025-07-21 00:00:00,Company reorganization
+982,643,6,cancelled,monthly,2025-10-15,2025-12-14,84.15,15,,Missing features
+983,643,5,active,monthly,2025-12-14,,59.0,0,,
+984,644,2,active,monthly,2023-07-15,,12.0,0,2023-07-29 00:00:00,
+985,645,1,cancelled,annual,2025-04-28,2025-10-24,0.0,25,,Too expensive
+986,645,2,active,monthly,2025-10-24,,12.0,0,,
+987,646,2,cancelled,monthly,2025-08-18,2025-10-24,12.0,0,2025-09-01 00:00:00,Budget cuts
+988,646,3,active,annual,2025-10-24,,15.83,0,,
+989,647,2,expired,annual,2023-08-05,2024-05-01,10.0,0,2023-08-19 00:00:00,Too expensive
+990,647,2,expired,annual,2024-05-01,2024-12-19,10.0,0,,Budget cuts
+991,647,5,active,monthly,2024-12-19,,59.0,0,,
+992,648,2,active,monthly,2025-06-19,,12.0,0,2025-07-03 00:00:00,
+993,649,5,active,monthly,2023-06-24,,59.0,0,2023-07-08 00:00:00,
+994,650,3,active,annual,2023-11-22,,15.83,0,2023-12-06 00:00:00,
+995,651,2,cancelled,annual,2024-07-10,2025-05-21,10.0,0,2024-07-24 00:00:00,Missing features
+996,651,3,active,annual,2025-05-21,,15.83,0,,
+997,652,3,expired,annual,2025-04-06,2025-06-11,15.83,0,2025-04-20 00:00:00,Not using it
+998,652,3,active,annual,2025-06-11,,15.83,0,,
+999,653,1,active,annual,2023-10-17,,0.0,0,,
+1000,654,3,expired,monthly,2024-04-06,2025-03-24,14.25,25,2024-04-20 00:00:00,Budget cuts
+1001,654,6,expired,monthly,2025-03-24,2025-08-25,99.0,0,,Company reorganization
+1002,654,4,active,monthly,2025-08-25,,39.0,0,,
+1003,655,3,expired,monthly,2024-06-18,2025-01-29,19.0,0,2024-07-02 00:00:00,Missing features
+1004,655,7,active,monthly,2025-01-29,,199.0,0,,
+1005,656,1,active,annual,2023-03-27,,0.0,0,,
+1006,657,2,cancelled,annual,2025-08-02,2025-10-21,8.5,15,2025-08-16 00:00:00,Switched competitor
+1007,657,4,cancelled,annual,2025-10-21,,29.25,10,,Too expensive
+1008,658,1,expired,monthly,2024-03-09,2024-09-18,0.0,0,,Switched competitor
+1009,658,5,active,monthly,2024-09-18,,59.0,0,,
+1010,659,3,expired,monthly,2023-09-17,2024-04-05,19.0,0,2023-10-01 00:00:00,
+1011,659,5,active,monthly,2024-04-05,,59.0,0,,
+1012,660,2,active,monthly,2023-08-07,,12.0,0,2023-08-21 00:00:00,
+1013,661,4,expired,annual,2024-10-23,2025-05-23,29.25,10,2024-11-06 00:00:00,Too expensive
+1014,661,7,active,monthly,2025-05-23,,179.1,10,,
+1015,662,1,cancelled,monthly,2024-08-13,,0.0,0,,Company reorganization
+1016,663,5,cancelled,annual,2024-02-14,,49.17,0,2024-02-28 00:00:00,Not using it
+1017,664,3,active,monthly,2023-11-27,,19.0,0,2023-12-11 00:00:00,
+1018,665,2,cancelled,monthly,2023-12-04,2024-11-24,12.0,0,2023-12-18 00:00:00,Missing features
+1019,665,6,active,monthly,2024-11-24,,99.0,0,,
+1020,666,4,expired,annual,2024-11-15,2025-02-14,32.5,0,2024-11-29 00:00:00,
+1021,666,5,cancelled,monthly,2025-02-14,,59.0,0,,Missing features
+1022,667,2,cancelled,monthly,2024-04-24,2024-07-18,12.0,0,2024-05-08 00:00:00,Missing features
+1023,667,1,active,annual,2024-07-18,,0.0,0,,
+1024,668,2,expired,monthly,2023-08-13,2024-06-10,10.2,15,2023-08-27 00:00:00,Missing features
+1025,668,5,expired,annual,2024-06-10,2024-11-19,49.17,0,,
+1026,668,4,active,annual,2024-11-19,,32.5,0,,
+1027,669,1,cancelled,monthly,2023-09-04,,0.0,0,,Not using it
+1028,670,1,cancelled,monthly,2024-01-14,,0.0,0,,Not using it
+1029,671,2,expired,monthly,2023-08-13,2023-11-16,12.0,0,2023-08-27 00:00:00,Budget cuts
+1030,671,1,expired,monthly,2023-11-16,2024-10-06,0.0,0,,Not using it
+1031,671,2,cancelled,monthly,2024-10-06,,12.0,0,,Too expensive
+1032,672,2,active,monthly,2023-06-25,,12.0,0,2023-07-09 00:00:00,
+1033,673,5,active,monthly,2023-12-07,,53.1,10,2023-12-21 00:00:00,
+1034,674,2,cancelled,monthly,2024-04-28,,12.0,0,2024-05-12 00:00:00,Missing features
+1035,675,2,active,annual,2024-07-12,,10.0,0,2024-07-26 00:00:00,
+1036,676,1,cancelled,annual,2023-01-22,,0.0,0,,Company reorganization
+1037,677,5,active,monthly,2024-04-05,,59.0,0,2024-04-19 00:00:00,
+1038,678,3,active,annual,2025-05-04,,13.46,15,2025-05-18 00:00:00,
+1039,679,2,expired,monthly,2023-01-16,2023-07-05,12.0,0,2023-01-30 00:00:00,Switched competitor
+1040,679,2,cancelled,monthly,2023-07-05,2024-05-19,12.0,0,,Switched competitor
+1041,679,4,active,monthly,2024-05-19,,39.0,0,,
+1042,680,2,active,monthly,2024-05-29,,12.0,0,2024-06-12 00:00:00,
+1043,681,1,active,annual,2024-10-14,,0.0,0,,
+1044,682,3,cancelled,monthly,2023-11-05,2024-05-26,16.15,15,2023-11-19 00:00:00,Missing features
+1045,682,6,active,monthly,2024-05-26,,99.0,0,,
+1046,683,1,expired,annual,2024-04-17,2025-02-27,0.0,25,,Budget cuts
+1047,683,5,cancelled,annual,2025-02-27,,44.25,10,,Missing features
+1048,684,2,active,monthly,2025-05-15,,12.0,0,2025-05-29 00:00:00,
+1049,685,3,active,annual,2024-08-21,,15.83,0,2024-09-04 00:00:00,
+1050,686,1,active,annual,2023-11-15,,0.0,10,,
+1051,687,1,expired,monthly,2024-03-30,2024-09-02,0.0,0,,Too expensive
+1052,687,3,cancelled,monthly,2024-09-02,2025-05-09,17.1,10,,Missing features
+1053,687,6,active,annual,2025-05-09,,82.5,0,,
+1054,688,1,active,monthly,2023-05-30,,0.0,0,,
+1055,689,1,expired,monthly,2024-11-14,2025-06-27,0.0,10,,Missing features
+1056,689,1,active,monthly,2025-06-27,,0.0,0,,
+1057,690,4,expired,monthly,2023-12-30,2024-06-01,39.0,0,2024-01-13 00:00:00,Company reorganization
+1058,690,3,active,annual,2024-06-01,,12.67,20,,
+1059,691,4,expired,annual,2024-11-02,2025-02-15,32.5,0,2024-11-16 00:00:00,Not using it
+1060,691,5,cancelled,annual,2025-02-15,,49.17,0,,Budget cuts
+1061,692,6,cancelled,annual,2024-08-12,2025-07-31,82.5,0,2024-08-26 00:00:00,Company reorganization
+1062,692,1,active,monthly,2025-07-31,,0.0,0,,
+1063,693,1,cancelled,monthly,2024-11-12,,0.0,0,,Too expensive
+1064,694,1,active,monthly,2024-01-19,,0.0,0,,
+1065,695,6,expired,annual,2023-06-15,2023-12-27,82.5,0,2023-06-29 00:00:00,Company reorganization
+1066,695,4,active,monthly,2023-12-27,,31.2,20,,
+1067,696,4,cancelled,monthly,2023-03-15,2023-06-19,39.0,0,2023-03-29 00:00:00,Company reorganization
+1068,696,2,cancelled,annual,2023-06-19,2023-09-28,10.0,0,,Missing features
+1069,696,4,active,annual,2023-09-28,,32.5,0,,
+1070,697,2,cancelled,annual,2023-05-11,2024-02-16,10.0,0,2023-05-25 00:00:00,Not using it
+1071,697,7,active,monthly,2024-02-16,,149.25,25,,
+1072,698,5,active,annual,2023-03-18,,49.17,0,2023-04-01 00:00:00,
+1073,699,1,cancelled,annual,2025-02-22,,0.0,0,,Company reorganization
+1074,700,5,active,annual,2023-03-14,,49.17,0,2023-03-28 00:00:00,
+1075,701,5,expired,monthly,2023-02-26,2023-07-14,59.0,0,2023-03-12 00:00:00,Switched competitor
+1076,701,5,cancelled,annual,2023-07-14,,49.17,0,,Switched competitor
+1077,702,1,active,monthly,2023-04-29,,0.0,0,,
+1078,703,1,cancelled,monthly,2025-04-01,,0.0,0,,Switched competitor
+1079,704,4,expired,monthly,2024-02-12,2024-04-19,39.0,0,2024-02-26 00:00:00,Too expensive
+1080,704,6,active,monthly,2024-04-19,,99.0,0,,
+1081,705,3,cancelled,monthly,2023-10-27,2024-02-17,15.2,20,2023-11-10 00:00:00,Not using it
+1082,705,5,active,monthly,2024-02-17,,59.0,0,,
+1083,706,1,paused,annual,2025-01-12,,0.0,20,,
+1084,707,3,expired,monthly,2023-03-28,2023-11-26,17.1,10,2023-04-11 00:00:00,Not using it
+1085,707,2,cancelled,annual,2023-11-26,,10.0,0,,Company reorganization
+1086,708,4,active,annual,2025-02-11,,29.25,10,2025-02-25 00:00:00,
+1087,709,3,expired,annual,2025-08-12,2025-10-14,15.83,0,2025-08-26 00:00:00,Missing features
+1088,709,3,active,monthly,2025-10-14,,19.0,0,,
+1089,710,3,paused,monthly,2023-01-16,,19.0,0,2023-01-30 00:00:00,
+1090,711,3,expired,monthly,2025-04-09,2025-10-17,14.25,25,2025-04-23 00:00:00,
+1091,711,4,active,monthly,2025-10-17,,39.0,0,,
+1092,712,6,active,monthly,2024-07-18,,99.0,0,2024-08-01 00:00:00,
+1093,713,4,expired,annual,2025-05-31,2025-10-03,32.5,0,2025-06-14 00:00:00,Budget cuts
+1094,713,4,active,monthly,2025-10-03,,39.0,0,,
+1095,714,2,active,monthly,2023-03-21,,10.2,15,2023-04-04 00:00:00,
+1096,715,2,expired,monthly,2025-09-23,2025-11-22,12.0,0,2025-10-07 00:00:00,Missing features
+1097,715,2,cancelled,monthly,2025-11-22,2026-01-21,12.0,0,,Not using it
+1098,715,5,active,annual,2026-01-21,,49.17,0,,
+1099,716,5,cancelled,annual,2024-01-23,2024-12-16,49.17,0,2024-02-06 00:00:00,Too expensive
+1100,716,4,active,monthly,2024-12-16,,39.0,0,,
+1101,717,5,active,monthly,2024-06-24,,59.0,0,2024-07-08 00:00:00,
+1102,718,4,cancelled,annual,2025-09-22,2025-11-22,32.5,0,2025-10-06 00:00:00,Switched competitor
+1103,718,6,cancelled,annual,2025-11-22,,82.5,0,,Missing features
+1104,719,2,active,monthly,2023-09-08,,12.0,0,2023-09-22 00:00:00,
+1105,720,1,active,monthly,2025-06-21,,0.0,0,,
+1106,721,2,expired,monthly,2023-06-20,2024-03-13,12.0,0,2023-07-04 00:00:00,Switched competitor
+1107,721,7,active,monthly,2024-03-13,,199.0,0,,
+1108,722,1,expired,monthly,2023-04-21,2023-10-04,0.0,20,,Company reorganization
+1109,722,4,active,annual,2023-10-04,,32.5,0,,
+1110,723,4,cancelled,annual,2024-08-26,2025-01-11,32.5,0,2024-09-09 00:00:00,Not using it
+1111,723,5,expired,annual,2025-01-11,2025-08-30,49.17,0,,Missing features
+1112,723,6,paused,monthly,2025-08-30,,99.0,0,,
+1113,724,2,expired,annual,2025-03-02,2025-09-03,8.5,15,2025-03-16 00:00:00,
+1114,724,5,cancelled,monthly,2025-09-03,,59.0,0,,Company reorganization
+1115,725,1,active,annual,2023-10-12,,0.0,20,,
+1116,726,2,expired,monthly,2024-07-19,2024-11-01,12.0,0,2024-08-02 00:00:00,Too expensive
+1117,726,5,active,monthly,2024-11-01,,59.0,0,,
+1118,727,1,active,annual,2024-08-07,,0.0,0,,
+1119,728,2,expired,monthly,2025-04-02,2025-09-18,10.2,15,2025-04-16 00:00:00,Company reorganization
+1120,728,6,cancelled,monthly,2025-09-18,2025-11-18,99.0,0,,Switched competitor
+1121,728,5,cancelled,annual,2025-11-18,,39.33,20,,Too expensive
+1122,729,3,active,monthly,2025-06-17,,19.0,0,2025-07-01 00:00:00,
+1123,730,5,expired,monthly,2025-05-27,2025-09-04,53.1,10,2025-06-10 00:00:00,Missing features
+1124,730,2,active,monthly,2025-09-04,,12.0,0,,
+1125,731,4,expired,annual,2025-06-15,2025-09-19,32.5,0,2025-06-29 00:00:00,
+1126,731,7,active,monthly,2025-09-19,,199.0,0,,
+1127,732,1,active,monthly,2024-02-12,,0.0,0,,
+1128,733,6,expired,monthly,2025-03-01,2025-09-24,84.15,15,2025-03-15 00:00:00,Too expensive
+1129,733,2,active,monthly,2025-09-24,,10.8,10,,
+1130,734,5,active,annual,2023-01-22,,36.88,25,2023-02-05 00:00:00,
+1131,735,2,active,annual,2025-01-05,,10.0,0,2025-01-19 00:00:00,
+1132,736,3,cancelled,monthly,2023-08-24,2023-12-19,15.2,20,2023-09-07 00:00:00,Missing features
+1133,736,2,expired,annual,2023-12-19,2024-10-09,10.0,0,,
+1134,736,5,active,monthly,2024-10-09,,59.0,0,,
+1135,737,1,cancelled,annual,2025-01-30,2025-05-22,0.0,0,,Switched competitor
+1136,737,7,paused,annual,2025-05-22,,165.83,0,,
+1137,738,2,active,monthly,2024-04-14,,12.0,0,2024-04-28 00:00:00,
+1138,739,2,active,annual,2023-01-18,,10.0,0,2023-02-01 00:00:00,
+1139,740,4,cancelled,monthly,2025-04-09,2025-08-17,39.0,0,2025-04-23 00:00:00,Too expensive
+1140,740,7,active,monthly,2025-08-17,,199.0,0,,
+1141,741,1,active,monthly,2023-09-16,,0.0,0,,
+1142,742,4,cancelled,monthly,2023-11-17,2024-09-27,29.25,25,2023-12-01 00:00:00,Missing features
+1143,742,4,active,monthly,2024-09-27,,39.0,0,,
+1144,743,2,cancelled,annual,2025-02-05,2025-04-28,7.5,25,2025-02-19 00:00:00,Too expensive
+1145,743,1,cancelled,monthly,2025-04-28,,0.0,0,,Not using it
+1146,744,1,expired,monthly,2023-05-01,2023-12-27,0.0,15,,Not using it
+1147,744,6,active,monthly,2023-12-27,,89.1,10,,
+1148,745,1,active,annual,2025-01-02,,0.0,0,,
+1149,746,3,active,monthly,2024-10-01,,19.0,0,2024-10-15 00:00:00,
+1150,747,4,cancelled,annual,2024-07-28,2025-04-02,32.5,0,2024-08-11 00:00:00,
+1151,747,4,active,monthly,2025-04-02,,33.15,15,,
+1152,748,2,expired,monthly,2025-03-01,2025-09-02,12.0,0,2025-03-15 00:00:00,
+1153,748,7,expired,annual,2025-09-02,2025-11-01,165.83,0,,Budget cuts
+1154,748,2,active,annual,2025-11-01,,10.0,0,,
+1155,749,3,cancelled,annual,2025-09-20,2025-11-19,15.83,0,2025-10-04 00:00:00,Not using it
+1156,749,5,cancelled,monthly,2025-11-19,2026-01-18,59.0,0,,Switched competitor
+1157,749,3,cancelled,monthly,2026-01-18,,19.0,0,,Budget cuts
+1158,750,1,active,annual,2023-11-21,,0.0,0,,
+1159,751,1,expired,annual,2023-07-03,2023-09-17,0.0,25,,Missing features
+1160,751,3,active,monthly,2023-09-17,,19.0,0,,
+1161,752,4,cancelled,monthly,2024-02-12,,39.0,0,2024-02-26 00:00:00,Not using it
+1162,753,2,active,monthly,2023-02-09,,12.0,0,2023-02-23 00:00:00,
+1163,754,1,active,monthly,2023-10-12,,0.0,0,,
+1164,755,5,cancelled,monthly,2024-11-14,2025-05-23,59.0,0,2024-11-28 00:00:00,Missing features
+1165,755,1,active,monthly,2025-05-23,,0.0,0,,
+1166,756,1,active,annual,2024-07-28,,0.0,25,,
+1167,757,3,expired,monthly,2025-08-23,2025-10-30,14.25,25,2025-09-06 00:00:00,Not using it
+1168,757,4,expired,monthly,2025-10-30,2025-12-30,39.0,0,,
+1169,757,5,active,annual,2025-12-30,,49.17,0,,
+1170,758,3,cancelled,monthly,2025-05-05,2025-09-20,19.0,0,2025-05-19 00:00:00,Not using it
+1171,758,6,expired,monthly,2025-09-20,2025-11-19,99.0,0,,Company reorganization
+1172,758,5,cancelled,annual,2025-11-19,,49.17,0,,Missing features
+1173,759,1,active,monthly,2024-07-04,,0.0,20,,
+1174,760,1,expired,annual,2023-09-25,2024-09-22,0.0,15,,Budget cuts
+1175,760,3,cancelled,monthly,2024-09-22,,19.0,0,,Switched competitor
+1176,761,1,expired,monthly,2025-06-09,2025-10-11,0.0,15,,Too expensive
+1177,761,2,active,monthly,2025-10-11,,12.0,0,,
+1178,762,3,active,monthly,2024-12-12,,19.0,0,2024-12-26 00:00:00,
+1179,763,4,expired,annual,2023-06-17,2024-04-10,32.5,0,2023-07-01 00:00:00,Company reorganization
+1180,763,6,active,monthly,2024-04-10,,99.0,0,,
+1181,764,5,cancelled,monthly,2024-04-16,,53.1,10,2024-04-30 00:00:00,Company reorganization
+1182,765,1,cancelled,monthly,2023-12-19,,0.0,20,,Missing features
+1183,766,5,active,monthly,2025-07-08,,59.0,0,2025-07-22 00:00:00,
+1184,767,4,expired,monthly,2024-10-23,2025-06-28,35.1,10,2024-11-06 00:00:00,Too expensive
+1185,767,7,active,monthly,2025-06-28,,199.0,0,,
+1186,768,4,expired,annual,2025-09-08,2025-11-08,24.38,25,2025-09-22 00:00:00,Switched competitor
+1187,768,3,active,annual,2025-11-08,,15.83,0,,
+1188,769,1,cancelled,monthly,2024-10-31,2025-08-31,0.0,0,,Company reorganization
+1189,769,6,active,monthly,2025-08-31,,89.1,10,,
+1190,770,4,active,monthly,2023-04-25,,39.0,0,2023-05-09 00:00:00,
+1191,771,2,expired,annual,2023-10-16,2024-04-12,10.0,0,2023-10-30 00:00:00,Missing features
+1192,771,5,cancelled,monthly,2024-04-12,,59.0,0,,Budget cuts
+1193,772,1,cancelled,annual,2024-09-02,,0.0,0,,Budget cuts
+1194,773,2,expired,monthly,2023-02-11,2024-02-02,12.0,0,2023-02-25 00:00:00,Budget cuts
+1195,773,2,cancelled,annual,2024-02-02,,10.0,0,,Company reorganization
+1196,774,1,active,annual,2025-01-30,,0.0,0,,
+1197,775,2,active,monthly,2023-08-09,,12.0,0,2023-08-23 00:00:00,
+1198,776,2,cancelled,monthly,2023-08-19,,12.0,0,2023-09-02 00:00:00,Switched competitor
+1199,777,2,active,monthly,2023-06-05,,12.0,0,2023-06-19 00:00:00,
+1200,778,3,cancelled,monthly,2023-03-27,2024-02-12,19.0,0,2023-04-10 00:00:00,Too expensive
+1201,778,2,cancelled,monthly,2024-02-12,2024-10-07,12.0,0,,Switched competitor
+1202,778,3,active,monthly,2024-10-07,,19.0,0,,
+1203,779,4,expired,monthly,2024-03-01,2025-02-15,39.0,0,2024-03-15 00:00:00,
+1204,779,6,active,monthly,2025-02-15,,89.1,10,,
+1205,780,3,expired,annual,2023-06-12,2024-02-07,15.83,0,2023-06-26 00:00:00,
+1206,780,2,active,monthly,2024-02-07,,10.8,10,,
+1207,781,2,expired,monthly,2024-06-29,2025-02-17,10.2,15,2024-07-13 00:00:00,
+1208,781,3,active,annual,2025-02-17,,15.83,0,,
+1209,782,1,active,annual,2024-11-30,,0.0,0,,
+1210,783,1,active,annual,2024-10-02,,0.0,0,,
+1211,784,6,cancelled,annual,2023-09-05,2024-04-18,82.5,0,2023-09-19 00:00:00,
+1212,784,5,cancelled,annual,2024-04-18,2025-03-21,49.17,0,,Switched competitor
+1213,784,3,active,monthly,2025-03-21,,16.15,15,,
+1214,785,4,active,monthly,2024-04-26,,39.0,0,2024-05-10 00:00:00,
+1215,786,4,expired,monthly,2025-04-28,2025-10-17,39.0,0,2025-05-12 00:00:00,Budget cuts
+1216,786,3,cancelled,annual,2025-10-17,2025-12-16,15.83,0,,Budget cuts
+1217,786,3,active,monthly,2025-12-16,,14.25,25,,
+1218,787,2,active,annual,2023-03-17,,10.0,0,2023-03-31 00:00:00,
+1219,788,1,cancelled,annual,2023-05-24,,0.0,0,,Not using it
+1220,789,4,active,monthly,2023-10-27,,39.0,0,2023-11-10 00:00:00,
+1221,790,2,cancelled,monthly,2024-10-21,,12.0,0,2024-11-04 00:00:00,Not using it
+1222,791,4,active,annual,2025-03-07,,32.5,0,2025-03-21 00:00:00,
+1223,792,4,active,annual,2025-09-20,,32.5,0,2025-10-04 00:00:00,
+1224,793,2,cancelled,monthly,2025-01-30,2025-10-25,12.0,0,2025-02-13 00:00:00,Budget cuts
+1225,793,2,cancelled,monthly,2025-10-25,2025-12-25,12.0,0,,Company reorganization
+1226,793,6,cancelled,annual,2025-12-25,,82.5,0,,
+1227,794,5,active,annual,2023-04-30,,49.17,0,2023-05-14 00:00:00,
+1228,795,5,active,annual,2023-01-01,,49.17,0,2023-01-15 00:00:00,
+1229,796,1,active,annual,2023-11-23,,0.0,0,,
+1230,797,2,active,monthly,2025-02-20,,12.0,0,2025-03-06 00:00:00,
+1231,798,2,cancelled,monthly,2023-06-10,2024-02-08,9.6,20,2023-06-24 00:00:00,Missing features
+1232,798,3,active,monthly,2024-02-08,,19.0,0,,
+1233,799,2,cancelled,monthly,2024-03-11,2025-01-16,12.0,0,2024-03-25 00:00:00,Budget cuts
+1234,799,5,active,annual,2025-01-16,,49.17,0,,
+1235,800,5,cancelled,annual,2025-01-03,2025-03-08,49.17,0,2025-01-17 00:00:00,Budget cuts
+1236,800,5,cancelled,monthly,2025-03-08,2025-10-26,59.0,0,,Not using it
+1237,800,5,active,monthly,2025-10-26,,59.0,0,,
+1238,801,5,cancelled,monthly,2023-04-20,,59.0,0,2023-05-04 00:00:00,Too expensive
+1239,802,4,active,annual,2024-10-16,,32.5,0,2024-10-30 00:00:00,
+1240,803,4,cancelled,annual,2024-07-29,,32.5,0,2024-08-12 00:00:00,Missing features
+1241,804,1,cancelled,monthly,2023-08-08,,0.0,10,,Company reorganization
+1242,805,2,cancelled,monthly,2024-08-02,2024-11-03,12.0,0,2024-08-16 00:00:00,Missing features
+1243,805,2,expired,annual,2024-11-03,2025-08-18,10.0,0,,Too expensive
+1244,805,4,active,annual,2025-08-18,,32.5,0,,
+1245,806,4,expired,annual,2024-06-09,2024-08-12,32.5,0,2024-06-23 00:00:00,Budget cuts
+1246,806,3,active,monthly,2024-08-12,,19.0,0,,
+1247,807,6,cancelled,monthly,2023-03-16,,84.15,15,2023-03-30 00:00:00,
+1248,808,1,cancelled,annual,2024-08-21,2025-06-24,0.0,15,,Company reorganization
+1249,808,3,active,annual,2025-06-24,,15.83,0,,
+1250,809,4,active,monthly,2024-07-07,,39.0,0,2024-07-21 00:00:00,
+1251,810,2,expired,annual,2025-08-28,2025-10-29,10.0,0,2025-09-11 00:00:00,Budget cuts
+1252,810,4,active,annual,2025-10-29,,32.5,0,,
+1253,811,1,cancelled,monthly,2023-08-03,,0.0,0,,Missing features
+1254,812,4,paused,monthly,2024-10-29,,33.15,15,2024-11-12 00:00:00,
+1255,813,1,expired,monthly,2024-06-15,2024-08-19,0.0,0,,Not using it
+1256,813,2,cancelled,monthly,2024-08-19,,12.0,0,,Switched competitor
+1257,814,1,cancelled,annual,2025-08-05,,0.0,0,,
+1258,815,2,cancelled,annual,2023-04-13,,9.0,10,2023-04-27 00:00:00,Missing features
+1259,816,4,active,monthly,2024-11-15,,39.0,0,2024-11-29 00:00:00,
+1260,817,2,active,monthly,2023-04-18,,12.0,0,2023-05-02 00:00:00,
+1261,818,2,active,monthly,2025-03-29,,9.0,25,2025-04-12 00:00:00,
+1262,819,4,active,monthly,2023-07-12,,39.0,0,2023-07-26 00:00:00,
+1263,820,4,cancelled,monthly,2025-07-02,,39.0,0,2025-07-16 00:00:00,Not using it
+1264,821,2,expired,annual,2024-04-13,2024-10-05,10.0,0,2024-04-27 00:00:00,Switched competitor
+1265,821,4,active,annual,2024-10-05,,32.5,0,,
+1266,822,2,active,annual,2023-12-29,,10.0,0,2024-01-12 00:00:00,
+1267,823,2,cancelled,monthly,2025-08-10,2025-10-19,12.0,0,2025-08-24 00:00:00,
+1268,823,5,active,annual,2025-10-19,,49.17,0,,
+1269,824,1,cancelled,monthly,2023-09-15,2024-06-30,0.0,0,,Switched competitor
+1270,824,3,expired,monthly,2024-06-30,2024-12-29,19.0,0,,
+1271,824,6,active,annual,2024-12-29,,82.5,0,,
+1272,825,6,active,annual,2025-09-13,,82.5,0,2025-09-27 00:00:00,
+1273,826,5,expired,monthly,2023-05-08,2024-01-24,59.0,0,2023-05-22 00:00:00,Budget cuts
+1274,826,5,cancelled,monthly,2024-01-24,2024-09-26,53.1,10,,Missing features
+1275,826,5,active,annual,2024-09-26,,49.17,0,,
+1276,827,4,expired,monthly,2023-08-19,2024-03-18,39.0,0,2023-09-02 00:00:00,Too expensive
+1277,827,3,expired,monthly,2024-03-18,2025-03-15,19.0,0,,Switched competitor
+1278,827,2,active,annual,2025-03-15,,10.0,0,,
+1279,828,1,active,monthly,2025-05-06,,0.0,0,,
+1280,829,1,expired,monthly,2024-11-19,2025-05-25,0.0,0,,Budget cuts
+1281,829,3,active,annual,2025-05-25,,15.83,0,,
+1282,830,1,active,monthly,2023-01-27,,0.0,10,,
+1283,831,1,expired,monthly,2025-03-13,2025-05-26,0.0,0,,Missing features
+1284,831,1,cancelled,monthly,2025-05-26,,0.0,0,,
+1285,832,1,cancelled,monthly,2023-11-10,2024-07-19,0.0,0,,Budget cuts
+1286,832,4,cancelled,monthly,2024-07-19,,39.0,0,,Company reorganization
+1287,833,6,cancelled,monthly,2025-02-11,2025-05-30,79.2,20,2025-02-25 00:00:00,Company reorganization
+1288,833,2,cancelled,annual,2025-05-30,,10.0,0,,Missing features
+1289,834,2,active,monthly,2025-08-01,,12.0,0,2025-08-15 00:00:00,
+1290,835,2,expired,monthly,2023-01-22,2023-10-16,12.0,0,2023-02-05 00:00:00,Switched competitor
+1291,835,5,cancelled,annual,2023-10-16,2024-10-02,49.17,0,,Missing features
+1292,835,4,active,monthly,2024-10-02,,39.0,0,,
+1293,836,1,cancelled,annual,2025-04-27,2025-10-12,0.0,0,,Too expensive
+1294,836,7,expired,monthly,2025-10-12,2025-12-11,199.0,0,,
+1295,836,5,active,annual,2025-12-11,,49.17,0,,
+1296,837,1,active,annual,2024-08-11,,0.0,20,,
+1297,838,3,cancelled,monthly,2023-10-10,2024-07-13,19.0,0,2023-10-24 00:00:00,Too expensive
+1298,838,4,active,annual,2024-07-13,,29.25,10,,
+1299,839,2,expired,annual,2025-03-28,2025-10-26,10.0,0,2025-04-11 00:00:00,Company reorganization
+1300,839,4,cancelled,monthly,2025-10-26,2025-12-25,39.0,0,,Not using it
+1301,839,3,active,monthly,2025-12-25,,19.0,0,,
+1302,840,3,active,annual,2023-03-14,,15.83,0,2023-03-28 00:00:00,
+1303,841,5,active,monthly,2025-08-26,,59.0,0,2025-09-09 00:00:00,
+1304,842,4,expired,monthly,2024-10-24,2025-09-01,39.0,0,2024-11-07 00:00:00,Switched competitor
+1305,842,4,active,monthly,2025-09-01,,39.0,0,,
+1306,843,4,cancelled,annual,2023-11-10,2024-03-27,32.5,0,2023-11-24 00:00:00,Company reorganization
+1307,843,4,cancelled,monthly,2024-03-27,,33.15,15,,Budget cuts
+1308,844,2,active,annual,2023-07-01,,10.0,0,2023-07-15 00:00:00,
+1309,845,3,active,monthly,2023-06-21,,19.0,0,2023-07-05 00:00:00,
+1310,846,4,cancelled,annual,2024-02-18,,32.5,0,2024-03-03 00:00:00,
+1311,847,2,cancelled,annual,2023-10-17,2024-03-25,10.0,0,2023-10-31 00:00:00,
+1312,847,2,active,monthly,2024-03-25,,12.0,0,,
+1313,848,2,active,monthly,2025-03-16,,12.0,0,2025-03-30 00:00:00,
+1314,849,6,active,monthly,2023-02-18,,99.0,0,2023-03-04 00:00:00,
+1315,850,3,cancelled,annual,2025-08-30,,15.83,0,2025-09-13 00:00:00,Too expensive
+1316,851,2,active,monthly,2025-07-26,,12.0,0,2025-08-09 00:00:00,
+1317,852,5,active,monthly,2024-12-28,,59.0,0,2025-01-11 00:00:00,
+1318,853,5,cancelled,annual,2024-05-14,2025-03-30,49.17,0,2024-05-28 00:00:00,Switched competitor
+1319,853,2,active,monthly,2025-03-30,,12.0,0,,
+1320,854,3,cancelled,monthly,2023-05-03,2024-03-03,19.0,0,2023-05-17 00:00:00,Switched competitor
+1321,854,5,active,monthly,2024-03-03,,59.0,0,,
+1322,855,3,expired,monthly,2023-07-08,2024-05-16,19.0,0,2023-07-22 00:00:00,
+1323,855,2,cancelled,monthly,2024-05-16,,12.0,0,,Budget cuts
+1324,856,1,active,annual,2023-09-14,,0.0,0,,
+1325,857,5,active,monthly,2023-03-13,,47.2,20,2023-03-27 00:00:00,
+1326,858,3,expired,monthly,2023-11-26,2024-07-13,19.0,0,2023-12-10 00:00:00,Company reorganization
+1327,858,4,expired,monthly,2024-07-13,2025-06-26,39.0,0,,Too expensive
+1328,858,2,active,annual,2025-06-26,,10.0,0,,
+1329,859,3,active,monthly,2024-10-22,,19.0,0,2024-11-05 00:00:00,
+1330,860,4,cancelled,annual,2023-08-18,,32.5,0,2023-09-01 00:00:00,Budget cuts
+1331,861,2,cancelled,annual,2024-02-16,,10.0,0,2024-03-01 00:00:00,Budget cuts
+1332,862,1,active,annual,2025-02-21,,0.0,10,,
+1333,863,4,cancelled,annual,2024-03-18,,32.5,0,2024-04-01 00:00:00,Too expensive
+1334,864,3,expired,monthly,2024-05-13,2025-01-31,19.0,0,2024-05-27 00:00:00,Switched competitor
+1335,864,2,active,annual,2025-01-31,,9.0,10,,
+1336,865,3,expired,monthly,2024-08-20,2025-02-27,16.15,15,2024-09-03 00:00:00,Company reorganization
+1337,865,3,active,annual,2025-02-27,,15.83,0,,
+1338,866,5,active,monthly,2024-10-05,,59.0,0,2024-10-19 00:00:00,
+1339,867,1,expired,annual,2025-02-24,2025-10-08,0.0,0,,Too expensive
+1340,867,4,cancelled,annual,2025-10-08,,24.38,25,,Too expensive
+1341,868,4,active,monthly,2025-08-29,,39.0,0,2025-09-12 00:00:00,
+1342,869,3,active,annual,2023-01-25,,15.83,0,2023-02-08 00:00:00,
+1343,870,4,active,monthly,2023-05-14,,39.0,0,2023-05-28 00:00:00,
+1344,871,2,cancelled,annual,2025-04-02,2025-07-16,10.0,0,2025-04-16 00:00:00,Company reorganization
+1345,871,2,active,monthly,2025-07-16,,9.0,25,,
+1346,872,6,cancelled,annual,2025-07-06,2025-10-02,82.5,0,2025-07-20 00:00:00,Too expensive
+1347,872,3,cancelled,monthly,2025-10-02,2025-12-01,19.0,0,,Too expensive
+1348,872,7,cancelled,annual,2025-12-01,,165.83,0,,Switched competitor
+1349,873,1,active,monthly,2023-12-05,,0.0,0,,
+1350,874,3,expired,annual,2023-03-23,2024-02-24,15.83,0,2023-04-06 00:00:00,Company reorganization
+1351,874,2,active,monthly,2024-02-24,,12.0,0,,
+1352,875,1,expired,monthly,2023-08-22,2023-10-24,0.0,0,,Too expensive
+1353,875,5,cancelled,monthly,2023-10-24,,59.0,0,,Too expensive
+1354,876,2,active,annual,2024-05-20,,8.0,20,2024-06-03 00:00:00,
+1355,877,6,active,annual,2024-09-12,,61.88,25,2024-09-26 00:00:00,
+1356,878,1,expired,monthly,2024-02-24,2024-05-29,0.0,20,,Not using it
+1357,878,2,active,monthly,2024-05-29,,12.0,0,,
+1358,879,2,cancelled,annual,2024-10-09,2025-02-03,10.0,0,2024-10-23 00:00:00,Too expensive
+1359,879,1,cancelled,monthly,2025-02-03,,0.0,0,,Company reorganization
+1360,880,4,expired,monthly,2023-06-12,2023-08-31,39.0,0,2023-06-26 00:00:00,Budget cuts
+1361,880,1,active,monthly,2023-08-31,,0.0,0,,
+1362,881,1,active,annual,2023-03-10,,0.0,0,,
+1363,882,2,expired,monthly,2023-11-15,2024-05-15,12.0,0,2023-11-29 00:00:00,Company reorganization
+1364,882,3,expired,annual,2024-05-15,2025-04-16,13.46,15,,Company reorganization
+1365,882,5,active,annual,2025-04-16,,49.17,0,,
+1366,883,2,cancelled,annual,2025-09-15,2025-11-15,10.0,0,2025-09-29 00:00:00,Budget cuts
+1367,883,7,active,monthly,2025-11-15,,199.0,0,,
+1368,884,1,active,annual,2024-05-17,,0.0,25,,
+1369,885,6,expired,annual,2023-05-30,2024-03-02,82.5,0,2023-06-13 00:00:00,Missing features
+1370,885,3,cancelled,annual,2024-03-02,2024-07-10,12.67,20,,
+1371,885,1,active,annual,2024-07-10,,0.0,0,,
+1372,886,1,expired,annual,2025-03-20,2025-08-02,0.0,0,,
+1373,886,3,active,annual,2025-08-02,,14.25,10,,
+1374,887,3,active,annual,2024-01-27,,15.83,0,2024-02-10 00:00:00,
+1375,888,5,cancelled,monthly,2024-02-10,,59.0,0,2024-02-24 00:00:00,
+1376,889,1,cancelled,monthly,2023-08-29,,0.0,0,,Company reorganization
+1377,890,4,active,monthly,2024-10-20,,35.1,10,2024-11-03 00:00:00,
+1378,891,3,expired,monthly,2025-02-22,2025-07-17,19.0,0,2025-03-08 00:00:00,Not using it
+1379,891,3,active,monthly,2025-07-17,,19.0,0,,
+1380,892,3,cancelled,annual,2025-04-28,,15.83,0,2025-05-12 00:00:00,Missing features
+1381,893,3,cancelled,annual,2024-10-28,2025-08-17,15.83,0,2024-11-11 00:00:00,
+1382,893,4,active,monthly,2025-08-17,,39.0,0,,
+1383,894,4,active,monthly,2025-04-17,,39.0,0,2025-05-01 00:00:00,
+1384,895,2,active,monthly,2024-04-13,,12.0,0,2024-04-27 00:00:00,
+1385,896,3,cancelled,monthly,2024-09-26,2025-04-09,19.0,0,2024-10-10 00:00:00,Switched competitor
+1386,896,6,cancelled,monthly,2025-04-09,,99.0,0,,Company reorganization
+1387,897,5,expired,annual,2024-03-03,2024-05-12,49.17,0,2024-03-17 00:00:00,Not using it
+1388,897,1,active,annual,2024-05-12,,0.0,0,,
+1389,898,4,cancelled,annual,2023-04-26,,32.5,0,2023-05-10 00:00:00,Budget cuts
+1390,899,1,active,monthly,2023-02-15,,0.0,0,,
+1391,900,2,active,annual,2024-03-21,,10.0,0,2024-04-04 00:00:00,
+1392,901,2,cancelled,monthly,2024-07-07,,12.0,0,2024-07-21 00:00:00,Too expensive
+1393,902,3,active,monthly,2023-05-21,,19.0,0,2023-06-04 00:00:00,
+1394,903,2,cancelled,annual,2024-02-10,,10.0,0,2024-02-24 00:00:00,Not using it
+1395,904,3,active,monthly,2025-03-27,,19.0,0,2025-04-10 00:00:00,
+1396,905,3,cancelled,annual,2025-07-03,2025-10-26,11.88,25,2025-07-17 00:00:00,Switched competitor
+1397,905,4,active,monthly,2025-10-26,,39.0,0,,
+1398,906,5,active,monthly,2023-02-01,,59.0,0,2023-02-15 00:00:00,
+1399,907,5,active,monthly,2023-08-02,,59.0,0,2023-08-16 00:00:00,
+1400,908,5,expired,monthly,2024-01-28,2024-12-06,44.25,25,2024-02-11 00:00:00,Budget cuts
+1401,908,4,active,monthly,2024-12-06,,39.0,0,,
+1402,909,4,cancelled,annual,2024-07-10,2024-10-31,32.5,0,2024-07-24 00:00:00,Too expensive
+1403,909,5,cancelled,monthly,2024-10-31,2025-06-30,44.25,25,,Budget cuts
+1404,909,7,cancelled,monthly,2025-06-30,,199.0,0,,Budget cuts
+1405,910,1,cancelled,annual,2024-02-25,,0.0,0,,Too expensive
+1406,911,4,active,monthly,2023-05-01,,39.0,0,2023-05-15 00:00:00,
+1407,912,1,active,monthly,2025-02-01,,0.0,15,,
+1408,913,3,cancelled,annual,2023-05-23,2023-12-31,15.83,0,2023-06-06 00:00:00,Too expensive
+1409,913,1,expired,monthly,2023-12-31,2024-03-05,0.0,0,,Too expensive
+1410,913,5,cancelled,monthly,2024-03-05,,59.0,0,,Company reorganization
+1411,914,1,active,annual,2025-07-30,,0.0,0,,
+1412,915,1,cancelled,annual,2024-11-03,,0.0,0,,Switched competitor
+1413,916,1,active,monthly,2023-01-10,,0.0,25,,
+1414,917,6,active,monthly,2023-05-11,,99.0,0,2023-05-25 00:00:00,
+1415,918,6,expired,monthly,2023-11-25,2024-11-15,99.0,0,2023-12-09 00:00:00,Budget cuts
+1416,918,4,active,monthly,2024-11-15,,39.0,0,,
+1417,919,3,cancelled,annual,2023-10-22,2024-01-05,14.25,10,2023-11-05 00:00:00,Too expensive
+1418,919,7,cancelled,annual,2024-01-05,2024-09-23,165.83,0,,Company reorganization
+1419,919,6,active,monthly,2024-09-23,,79.2,20,,
+1420,920,1,expired,monthly,2025-05-25,2025-09-25,0.0,0,,Switched competitor
+1421,920,5,active,monthly,2025-09-25,,59.0,0,,
+1422,921,1,cancelled,monthly,2024-08-31,2025-07-24,0.0,0,,Missing features
+1423,921,3,expired,monthly,2025-07-24,2025-09-29,19.0,0,,
+1424,921,3,active,monthly,2025-09-29,,19.0,0,,
+1425,922,1,active,annual,2024-12-05,,0.0,0,,
+1426,923,4,active,monthly,2023-07-30,,35.1,10,2023-08-13 00:00:00,
+1427,924,1,active,monthly,2023-09-18,,0.0,15,,
+1428,925,1,active,monthly,2024-05-02,,0.0,0,,
+1429,926,1,active,annual,2024-12-04,,0.0,0,,
+1430,927,5,cancelled,monthly,2023-06-05,,59.0,0,2023-06-19 00:00:00,Company reorganization
+1431,928,5,active,annual,2023-06-19,,49.17,0,2023-07-03 00:00:00,
+1432,929,1,expired,monthly,2024-03-30,2025-03-19,0.0,0,,Not using it
+1433,929,5,active,monthly,2025-03-19,,59.0,0,,
+1434,930,1,active,annual,2024-09-13,,0.0,0,,
+1435,931,1,active,monthly,2024-12-03,,0.0,0,,
+1436,932,1,active,annual,2023-09-19,,0.0,0,,
+1437,933,4,cancelled,monthly,2024-12-13,2025-08-29,39.0,0,2024-12-27 00:00:00,
+1438,933,6,expired,monthly,2025-08-29,2025-10-29,84.15,15,,
+1439,933,2,active,monthly,2025-10-29,,12.0,0,,
+1440,934,5,cancelled,annual,2024-08-09,2025-05-07,49.17,0,2024-08-23 00:00:00,
+1441,934,6,active,annual,2025-05-07,,61.88,25,,
+1442,935,4,active,annual,2023-04-14,,32.5,0,2023-04-28 00:00:00,
+1443,936,1,active,monthly,2023-06-25,,0.0,0,,
+1444,937,1,cancelled,monthly,2023-05-20,2023-11-19,0.0,0,,Missing features
+1445,937,2,expired,monthly,2023-11-19,2024-10-23,12.0,0,,Missing features
+1446,937,1,cancelled,monthly,2024-10-23,,0.0,0,,Not using it
+1447,938,4,cancelled,monthly,2024-06-20,2025-04-18,31.2,20,2024-07-04 00:00:00,
+1448,938,4,active,monthly,2025-04-18,,35.1,10,,
+1449,939,1,active,annual,2025-03-04,,0.0,0,,
+1450,940,2,active,monthly,2023-07-29,,12.0,0,2023-08-12 00:00:00,
+1451,941,1,active,annual,2023-02-11,,0.0,0,,
+1452,942,6,expired,annual,2024-06-05,2024-11-12,70.12,15,2024-06-19 00:00:00,Budget cuts
+1453,942,3,expired,annual,2024-11-12,2025-02-25,15.83,0,,
+1454,942,5,active,monthly,2025-02-25,,59.0,0,,
+1455,943,4,expired,annual,2024-03-19,2024-06-29,27.62,15,2024-04-02 00:00:00,Budget cuts
+1456,943,4,active,monthly,2024-06-29,,35.1,10,,
+1457,944,1,cancelled,monthly,2023-08-14,,0.0,0,,Missing features
+1458,945,5,active,annual,2024-05-09,,49.17,0,2024-05-23 00:00:00,
+1459,946,2,cancelled,monthly,2024-11-14,2025-05-08,12.0,0,2024-11-28 00:00:00,Budget cuts
+1460,946,5,active,annual,2025-05-08,,36.88,25,,
+1461,947,5,expired,monthly,2023-11-04,2024-08-24,59.0,0,2023-11-18 00:00:00,Missing features
+1462,947,5,paused,annual,2024-08-24,,49.17,0,,
+1463,948,4,expired,monthly,2023-11-03,2024-01-20,35.1,10,2023-11-17 00:00:00,Budget cuts
+1464,948,6,cancelled,monthly,2024-01-20,,99.0,0,,
+1465,949,5,cancelled,annual,2024-01-15,,49.17,0,2024-01-29 00:00:00,Too expensive
+1466,950,5,expired,monthly,2024-05-19,2024-08-23,59.0,0,2024-06-02 00:00:00,Company reorganization
+1467,950,4,expired,monthly,2024-08-23,2025-04-19,35.1,10,,Too expensive
+1468,950,4,active,annual,2025-04-19,,32.5,0,,
+1469,951,4,cancelled,monthly,2023-03-31,,29.25,25,2023-04-14 00:00:00,
+1470,952,5,cancelled,monthly,2023-09-24,2024-04-19,59.0,0,2023-10-08 00:00:00,Not using it
+1471,952,7,cancelled,monthly,2024-04-19,2024-12-15,199.0,0,,Budget cuts
+1472,952,6,cancelled,annual,2024-12-15,,70.12,15,,Too expensive
+1473,953,6,expired,annual,2023-08-29,2024-06-13,82.5,0,2023-09-12 00:00:00,Missing features
+1474,953,7,active,monthly,2024-06-13,,199.0,0,,
+1475,954,1,active,annual,2024-12-05,,0.0,0,,
+1476,955,1,cancelled,monthly,2024-01-08,,0.0,0,,Budget cuts
+1477,956,2,cancelled,monthly,2024-12-25,2025-08-28,12.0,0,2025-01-08 00:00:00,Budget cuts
+1478,956,2,active,annual,2025-08-28,,8.5,15,,
+1479,957,6,cancelled,monthly,2025-01-08,,99.0,0,2025-01-22 00:00:00,Budget cuts
+1480,958,5,active,monthly,2024-02-05,,59.0,0,2024-02-19 00:00:00,
+1481,959,2,cancelled,monthly,2023-12-07,2024-07-23,12.0,0,2023-12-21 00:00:00,Switched competitor
+1482,959,4,cancelled,monthly,2024-07-23,,39.0,0,,Not using it
+1483,960,6,active,annual,2025-04-21,,70.12,15,2025-05-05 00:00:00,
+1484,961,2,active,monthly,2024-11-08,,9.6,20,2024-11-22 00:00:00,
+1485,962,5,cancelled,monthly,2023-01-22,,50.15,15,2023-02-05 00:00:00,Not using it
+1486,963,4,active,monthly,2025-05-23,,39.0,0,2025-06-06 00:00:00,
+1487,964,3,active,monthly,2023-12-31,,19.0,0,2024-01-14 00:00:00,
+1488,965,4,active,annual,2025-08-04,,27.62,15,2025-08-18 00:00:00,
+1489,966,1,expired,annual,2023-03-10,2023-11-22,0.0,0,,Not using it
+1490,966,1,active,annual,2023-11-22,,0.0,0,,
+1491,967,1,cancelled,annual,2024-11-11,2025-05-16,0.0,0,,Too expensive
+1492,967,4,cancelled,monthly,2025-05-16,2025-07-24,39.0,0,,Too expensive
+1493,967,6,active,monthly,2025-07-24,,99.0,0,,
+1494,968,6,cancelled,annual,2023-12-15,2024-03-29,82.5,0,2023-12-29 00:00:00,Not using it
+1495,968,1,expired,monthly,2024-03-29,2024-11-20,0.0,0,,Budget cuts
+1496,968,4,cancelled,monthly,2024-11-20,,39.0,0,,
+1497,969,5,expired,annual,2025-04-15,2025-08-14,49.17,0,2025-04-29 00:00:00,Not using it
+1498,969,4,active,annual,2025-08-14,,32.5,0,,
+1499,970,2,cancelled,monthly,2023-05-07,,12.0,0,2023-05-21 00:00:00,
+1500,971,1,expired,monthly,2025-02-09,2025-09-01,0.0,0,,Switched competitor
+1501,971,2,active,monthly,2025-09-01,,12.0,0,,
+1502,972,5,expired,monthly,2023-04-20,2023-11-16,59.0,0,2023-05-04 00:00:00,Switched competitor
+1503,972,4,expired,monthly,2023-11-16,2024-06-01,35.1,10,,
+1504,972,1,active,monthly,2024-06-01,,0.0,0,,
+1505,973,3,active,annual,2025-09-07,,15.83,0,2025-09-21 00:00:00,
+1506,974,1,active,monthly,2024-03-16,,0.0,15,,
+1507,975,3,active,monthly,2025-02-03,,19.0,0,2025-02-17 00:00:00,
+1508,976,2,active,annual,2023-01-15,,10.0,0,2023-01-29 00:00:00,
+1509,977,2,expired,monthly,2025-05-28,2025-08-11,12.0,0,2025-06-11 00:00:00,Not using it
+1510,977,6,active,monthly,2025-08-11,,99.0,0,,
+1511,978,3,cancelled,monthly,2023-05-25,2023-11-27,19.0,0,2023-06-08 00:00:00,
+1512,978,4,active,annual,2023-11-27,,27.62,15,,
+1513,979,2,cancelled,monthly,2023-10-04,,12.0,0,2023-10-18 00:00:00,Not using it
+1514,980,2,expired,monthly,2024-12-07,2025-07-10,10.8,10,2024-12-21 00:00:00,Switched competitor
+1515,980,5,cancelled,annual,2025-07-10,,49.17,0,,Too expensive
+1516,981,4,expired,monthly,2023-01-04,2023-11-09,39.0,0,2023-01-18 00:00:00,Budget cuts
+1517,981,7,cancelled,monthly,2023-11-09,,149.25,25,,Company reorganization
+1518,982,6,active,monthly,2024-04-28,,99.0,0,2024-05-12 00:00:00,
+1519,983,4,active,annual,2023-05-19,,32.5,0,2023-06-02 00:00:00,
+1520,984,4,expired,monthly,2023-08-31,2023-11-05,39.0,0,2023-09-14 00:00:00,Missing features
+1521,984,4,active,annual,2023-11-05,,32.5,0,,
+1522,985,2,active,annual,2023-08-10,,10.0,0,2023-08-24 00:00:00,
+1523,986,1,cancelled,monthly,2023-10-09,2024-01-22,0.0,20,,
+1524,986,3,cancelled,monthly,2024-01-22,,19.0,0,,Not using it
+1525,987,3,expired,monthly,2024-03-18,2024-12-24,19.0,0,2024-04-01 00:00:00,Too expensive
+1526,987,2,cancelled,monthly,2024-12-24,,12.0,0,,Budget cuts
+1527,988,1,expired,monthly,2023-06-20,2024-03-10,0.0,0,,Budget cuts
+1528,988,4,expired,annual,2024-03-10,2025-03-10,32.5,0,,Company reorganization
+1529,988,4,active,annual,2025-03-10,,32.5,0,,
+1530,989,3,active,monthly,2023-08-08,,16.15,15,2023-08-22 00:00:00,
+1531,990,2,cancelled,annual,2025-04-16,2025-10-08,9.0,10,2025-04-30 00:00:00,Not using it
+1532,990,5,cancelled,monthly,2025-10-08,2025-12-08,59.0,0,,
+1533,990,6,cancelled,annual,2025-12-08,,66.0,20,,Company reorganization
+1534,991,1,cancelled,annual,2024-05-17,2025-02-27,0.0,0,,Budget cuts
+1535,991,5,cancelled,monthly,2025-02-27,2025-09-12,59.0,0,,Budget cuts
+1536,991,2,active,annual,2025-09-12,,9.0,10,,
+1537,992,1,active,monthly,2024-11-28,,0.0,0,,
+1538,993,4,active,monthly,2025-04-07,,39.0,0,2025-04-21 00:00:00,
+1539,994,5,cancelled,monthly,2025-02-09,2025-05-15,50.15,15,2025-02-23 00:00:00,Too expensive
+1540,994,2,expired,monthly,2025-05-15,2025-10-24,12.0,0,,
+1541,994,5,active,monthly,2025-10-24,,59.0,0,,
+1542,995,2,cancelled,annual,2024-09-05,,10.0,0,2024-09-19 00:00:00,Not using it
+1543,996,2,paused,monthly,2023-11-26,,12.0,0,2023-12-10 00:00:00,
+1544,997,1,cancelled,annual,2025-01-26,,0.0,10,,Company reorganization
+1545,998,2,active,monthly,2024-02-14,,12.0,0,2024-02-28 00:00:00,
+1546,999,1,active,monthly,2025-09-10,,0.0,0,,
+1547,1000,1,active,annual,2025-01-08,,0.0,0,,
+1548,1001,1,cancelled,annual,2025-07-29,2025-10-30,0.0,0,,Too expensive
+1549,1001,4,cancelled,monthly,2025-10-30,,39.0,0,,Company reorganization
+1550,1002,4,expired,monthly,2024-10-16,2025-06-28,39.0,0,2024-10-30 00:00:00,Missing features
+1551,1002,6,cancelled,monthly,2025-06-28,2025-10-20,79.2,20,,Not using it
+1552,1002,4,cancelled,monthly,2025-10-20,,31.2,20,,Switched competitor
+1553,1003,3,active,monthly,2024-04-10,,19.0,0,2024-04-24 00:00:00,
+1554,1004,1,cancelled,annual,2024-02-21,2024-08-25,0.0,0,,Switched competitor
+1555,1004,3,expired,annual,2024-08-25,2025-05-04,15.83,0,,Missing features
+1556,1004,5,active,monthly,2025-05-04,,53.1,10,,
+1557,1005,6,active,monthly,2025-01-07,,99.0,0,2025-01-21 00:00:00,
+1558,1006,4,active,monthly,2024-06-20,,39.0,0,2024-07-04 00:00:00,
+1559,1007,2,active,annual,2024-02-06,,10.0,0,2024-02-20 00:00:00,
+1560,1008,1,active,monthly,2023-08-20,,0.0,0,,
+1561,1009,2,active,monthly,2023-03-17,,10.2,15,2023-03-31 00:00:00,
+1562,1010,1,cancelled,monthly,2024-10-07,,0.0,0,,Too expensive
+1563,1011,1,active,annual,2025-06-11,,0.0,0,,
+1564,1012,6,expired,annual,2023-04-22,2023-09-22,82.5,0,2023-05-06 00:00:00,Missing features
+1565,1012,4,expired,monthly,2023-09-22,2023-12-22,39.0,0,,
+1566,1012,5,active,annual,2023-12-22,,49.17,0,,
+1567,1013,5,active,monthly,2023-09-01,,59.0,0,2023-09-15 00:00:00,
+1568,1014,1,active,annual,2023-02-18,,0.0,0,,
+1569,1015,3,active,monthly,2024-01-20,,19.0,0,2024-02-03 00:00:00,
+1570,1016,2,cancelled,annual,2024-05-27,2025-02-10,10.0,0,2024-06-10 00:00:00,
+1571,1016,5,active,monthly,2025-02-10,,53.1,10,,
+1572,1017,1,expired,monthly,2024-12-17,2025-08-29,0.0,0,,Budget cuts
+1573,1017,4,cancelled,monthly,2025-08-29,,39.0,0,,Not using it
+1574,1018,6,expired,annual,2024-09-08,2025-01-23,82.5,0,2024-09-22 00:00:00,Switched competitor
+1575,1018,3,expired,annual,2025-01-23,2025-08-28,12.67,20,,Missing features
+1576,1018,2,active,annual,2025-08-28,,10.0,0,,
+1577,1019,3,active,annual,2025-02-20,,15.83,0,2025-03-06 00:00:00,
+1578,1020,1,cancelled,monthly,2025-04-08,2025-09-30,0.0,0,,Missing features
+1579,1020,5,active,annual,2025-09-30,,49.17,0,,
+1580,1021,4,active,monthly,2023-06-02,,39.0,0,2023-06-16 00:00:00,
+1581,1022,1,active,annual,2024-06-10,,0.0,0,,
+1582,1023,6,active,monthly,2025-09-19,,99.0,0,2025-10-03 00:00:00,
+1583,1024,1,active,annual,2023-02-21,,0.0,0,,
+1584,1025,1,expired,annual,2024-02-26,2024-12-25,0.0,0,,Too expensive
+1585,1025,5,active,annual,2024-12-25,,49.17,0,,
+1586,1026,1,cancelled,monthly,2023-09-27,,0.0,0,,Missing features
+1587,1027,2,expired,monthly,2024-07-11,2025-06-25,12.0,0,2024-07-25 00:00:00,
+1588,1027,6,active,monthly,2025-06-25,,74.25,25,,
+1589,1028,3,active,annual,2024-11-14,,15.83,0,2024-11-28 00:00:00,
+1590,1029,5,cancelled,monthly,2025-05-03,,59.0,0,2025-05-17 00:00:00,
+1591,1030,3,expired,annual,2025-02-15,2025-08-11,15.83,0,2025-03-01 00:00:00,Not using it
+1592,1030,5,active,annual,2025-08-11,,49.17,0,,
+1593,1031,2,active,monthly,2024-12-20,,12.0,0,2025-01-03 00:00:00,
+1594,1032,1,active,monthly,2024-06-14,,0.0,0,,
+1595,1033,4,active,annual,2023-03-30,,32.5,0,2023-04-13 00:00:00,
+1596,1034,1,cancelled,monthly,2024-08-07,,0.0,10,,Missing features
+1597,1035,2,expired,monthly,2025-09-02,2025-11-02,12.0,0,2025-09-16 00:00:00,
+1598,1035,6,cancelled,annual,2025-11-02,,74.25,10,,Not using it
+1599,1036,5,active,monthly,2024-10-03,,59.0,0,2024-10-17 00:00:00,
+1600,1037,3,cancelled,annual,2024-11-03,,13.46,15,2024-11-17 00:00:00,Company reorganization
+1601,1038,1,active,annual,2023-06-07,,0.0,15,,
+1602,1039,3,active,monthly,2024-12-13,,19.0,0,2024-12-27 00:00:00,
+1603,1040,3,active,monthly,2023-05-24,,19.0,0,2023-06-07 00:00:00,
+1604,1041,1,active,monthly,2023-07-19,,0.0,0,,
+1605,1042,3,cancelled,annual,2023-08-15,2024-04-10,15.83,0,2023-08-29 00:00:00,Too expensive
+1606,1042,4,expired,monthly,2024-04-10,2024-12-20,39.0,0,,Budget cuts
+1607,1042,5,active,monthly,2024-12-20,,47.2,20,,
+1608,1043,1,active,annual,2023-07-23,,0.0,0,,
+1609,1044,2,expired,monthly,2023-08-10,2024-07-22,12.0,0,2023-08-24 00:00:00,Switched competitor
+1610,1044,1,cancelled,monthly,2024-07-22,2025-04-17,0.0,0,,
+1611,1044,3,active,monthly,2025-04-17,,19.0,0,,
+1612,1045,2,cancelled,annual,2023-12-29,,10.0,0,2024-01-12 00:00:00,Missing features
+1613,1046,1,active,monthly,2025-05-27,,0.0,0,,
+1614,1047,3,expired,annual,2023-05-22,2024-03-31,12.67,20,2023-06-05 00:00:00,
+1615,1047,5,active,monthly,2024-03-31,,59.0,0,,
+1616,1048,1,active,annual,2024-03-14,,0.0,0,,
+1617,1049,2,active,annual,2025-06-08,,10.0,0,2025-06-22 00:00:00,
+1618,1050,4,cancelled,annual,2025-09-13,2025-11-12,32.5,0,2025-09-27 00:00:00,Budget cuts
+1619,1050,5,active,monthly,2025-11-12,,47.2,20,,
+1620,1051,6,active,annual,2024-06-11,,82.5,0,2024-06-25 00:00:00,
+1621,1052,1,active,annual,2025-06-18,,0.0,0,,
+1622,1053,1,expired,annual,2024-05-06,2024-11-13,0.0,0,,Switched competitor
+1623,1053,3,active,monthly,2024-11-13,,17.1,10,,
+1624,1054,2,expired,annual,2024-02-06,2024-11-24,9.0,10,2024-02-20 00:00:00,Company reorganization
+1625,1054,2,cancelled,annual,2024-11-24,2025-08-17,9.0,10,,Not using it
+1626,1054,2,cancelled,monthly,2025-08-17,,12.0,0,,
+1627,1055,1,cancelled,annual,2023-06-26,,0.0,0,,Switched competitor
+1628,1056,3,cancelled,monthly,2023-06-20,2024-03-20,19.0,0,2023-07-04 00:00:00,Budget cuts
+1629,1056,1,expired,annual,2024-03-20,2024-08-22,0.0,0,,Budget cuts
+1630,1056,6,active,annual,2024-08-22,,82.5,0,,
+1631,1057,4,cancelled,monthly,2025-04-07,2025-10-13,39.0,0,2025-04-21 00:00:00,Company reorganization
+1632,1057,3,active,annual,2025-10-13,,12.67,20,,
+1633,1058,1,active,monthly,2025-05-31,,0.0,20,,
+1634,1059,5,expired,annual,2025-07-05,2025-09-03,49.17,0,2025-07-19 00:00:00,Switched competitor
+1635,1059,4,active,annual,2025-09-03,,26.0,20,,
+1636,1060,1,active,annual,2025-04-10,,0.0,25,,
+1637,1061,2,active,monthly,2025-03-28,,12.0,0,2025-04-11 00:00:00,
+1638,1062,2,expired,annual,2025-08-07,2025-10-25,10.0,0,2025-08-21 00:00:00,Budget cuts
+1639,1062,6,active,annual,2025-10-25,,70.12,15,,
+1640,1063,5,expired,annual,2024-04-26,2024-08-22,49.17,0,2024-05-10 00:00:00,
+1641,1063,1,cancelled,monthly,2024-08-22,,0.0,0,,Not using it
+1642,1064,3,expired,annual,2025-02-09,2025-06-02,15.83,0,2025-02-23 00:00:00,Not using it
+1643,1064,1,active,annual,2025-06-02,,0.0,0,,
+1644,1065,3,active,annual,2024-11-08,,15.83,0,2024-11-22 00:00:00,
+1645,1066,2,active,monthly,2023-07-03,,12.0,0,2023-07-17 00:00:00,
+1646,1067,1,cancelled,monthly,2023-05-12,,0.0,0,,Company reorganization
+1647,1068,4,cancelled,monthly,2023-10-10,,31.2,20,2023-10-24 00:00:00,Missing features
+1648,1069,2,cancelled,annual,2024-09-20,2024-12-12,10.0,0,2024-10-04 00:00:00,
+1649,1069,4,cancelled,monthly,2024-12-12,,35.1,10,,Switched competitor
+1650,1070,2,cancelled,annual,2024-06-27,2024-12-09,8.5,15,2024-07-11 00:00:00,
+1651,1070,6,active,monthly,2024-12-09,,99.0,0,,
+1652,1071,6,cancelled,annual,2023-03-02,2023-11-16,82.5,0,2023-03-16 00:00:00,
+1653,1071,2,cancelled,annual,2023-11-16,,10.0,0,,Too expensive
+1654,1072,1,active,annual,2024-03-11,,0.0,10,,
+1655,1073,1,cancelled,monthly,2023-08-01,,0.0,0,,Switched competitor
+1656,1074,4,active,annual,2023-04-21,,32.5,0,2023-05-05 00:00:00,
+1657,1075,2,active,monthly,2025-04-12,,10.2,15,2025-04-26 00:00:00,
+1658,1076,5,cancelled,monthly,2024-11-23,2025-03-13,59.0,0,2024-12-07 00:00:00,Not using it
+1659,1076,3,cancelled,annual,2025-03-13,2025-09-16,15.83,0,,Missing features
+1660,1076,4,active,annual,2025-09-16,,32.5,0,,
+1661,1077,4,expired,monthly,2025-05-08,2025-09-11,39.0,0,2025-05-22 00:00:00,Switched competitor
+1662,1077,6,active,monthly,2025-09-11,,84.15,15,,
+1663,1078,1,cancelled,annual,2023-11-15,2024-07-16,0.0,0,,Switched competitor
+1664,1078,1,active,annual,2024-07-16,,0.0,0,,
+1665,1079,6,active,monthly,2025-01-02,,99.0,0,2025-01-16 00:00:00,
+1666,1080,1,active,monthly,2025-04-07,,0.0,0,,
+1667,1081,3,active,monthly,2023-04-15,,19.0,0,2023-04-29 00:00:00,
+1668,1082,2,active,monthly,2024-09-17,,12.0,0,2024-10-01 00:00:00,
+1669,1083,2,expired,monthly,2023-04-19,2023-12-14,12.0,0,2023-05-03 00:00:00,Company reorganization
+1670,1083,5,cancelled,annual,2023-12-14,,49.17,0,,
+1671,1084,2,active,monthly,2024-07-04,,12.0,0,2024-07-18 00:00:00,
+1672,1085,5,active,monthly,2025-01-25,,59.0,0,2025-02-08 00:00:00,
+1673,1086,4,active,monthly,2023-03-29,,39.0,0,2023-04-12 00:00:00,
+1674,1087,5,active,annual,2024-11-17,,49.17,0,2024-12-01 00:00:00,
+1675,1088,3,active,annual,2024-05-21,,15.83,0,2024-06-04 00:00:00,
+1676,1089,4,cancelled,monthly,2024-01-21,2024-12-31,39.0,0,2024-02-04 00:00:00,Budget cuts
+1677,1089,7,active,annual,2024-12-31,,132.67,20,,
+1678,1090,2,expired,annual,2025-04-25,2025-08-10,10.0,0,2025-05-09 00:00:00,Missing features
+1679,1090,5,cancelled,monthly,2025-08-10,2025-10-14,59.0,0,,
+1680,1090,4,active,monthly,2025-10-14,,39.0,0,,
+1681,1091,3,expired,monthly,2024-03-22,2024-07-06,19.0,0,2024-04-05 00:00:00,Switched competitor
+1682,1091,4,cancelled,monthly,2024-07-06,,39.0,0,,
+1683,1092,2,active,monthly,2024-02-22,,12.0,0,2024-03-07 00:00:00,
+1684,1093,2,active,monthly,2023-10-13,,9.6,20,2023-10-27 00:00:00,
+1685,1094,1,cancelled,monthly,2024-04-26,2024-09-25,0.0,10,,Switched competitor
+1686,1094,4,active,monthly,2024-09-25,,39.0,0,,
+1687,1095,5,active,annual,2024-04-17,,49.17,0,2024-05-01 00:00:00,
+1688,1096,3,active,monthly,2024-09-25,,19.0,0,2024-10-09 00:00:00,
+1689,1097,5,active,monthly,2024-12-04,,59.0,0,2024-12-18 00:00:00,
+1690,1098,3,active,annual,2024-09-02,,15.83,0,2024-09-16 00:00:00,
+1691,1099,1,active,monthly,2024-01-24,,0.0,0,,
+1692,1100,5,active,annual,2023-02-21,,49.17,0,2023-03-07 00:00:00,
+1693,1101,4,active,monthly,2024-06-02,,39.0,0,2024-06-16 00:00:00,
+1694,1102,2,active,monthly,2024-10-09,,12.0,0,2024-10-23 00:00:00,
+1695,1103,2,active,monthly,2024-04-30,,12.0,0,2024-05-14 00:00:00,
+1696,1104,2,cancelled,annual,2023-03-03,,10.0,0,2023-03-17 00:00:00,Budget cuts
+1697,1105,5,cancelled,annual,2025-03-15,2025-06-06,49.17,0,2025-03-29 00:00:00,Not using it
+1698,1105,4,active,monthly,2025-06-06,,39.0,0,,
+1699,1106,1,cancelled,monthly,2023-09-15,2024-01-24,0.0,0,,Budget cuts
+1700,1106,4,active,monthly,2024-01-24,,35.1,10,,
+1701,1107,5,cancelled,monthly,2024-10-12,,59.0,0,2024-10-26 00:00:00,Switched competitor
+1702,1108,1,active,annual,2023-10-20,,0.0,0,,
+1703,1109,1,active,monthly,2025-07-11,,0.0,10,,
+1704,1110,2,cancelled,annual,2024-12-02,,10.0,0,2024-12-16 00:00:00,Missing features
+1705,1111,4,cancelled,monthly,2025-03-22,2025-09-12,39.0,0,2025-04-05 00:00:00,Too expensive
+1706,1111,5,active,annual,2025-09-12,,49.17,0,,
+1707,1112,3,expired,monthly,2024-03-13,2024-06-22,19.0,0,2024-03-27 00:00:00,Missing features
+1708,1112,1,cancelled,annual,2024-06-22,,0.0,0,,Budget cuts
+1709,1113,5,expired,annual,2025-09-10,2025-11-09,49.17,0,2025-09-24 00:00:00,Company reorganization
+1710,1113,2,paused,monthly,2025-11-09,,12.0,0,,
+1711,1114,1,active,monthly,2023-05-17,,0.0,10,,
+1712,1115,1,cancelled,monthly,2024-10-26,2025-02-06,0.0,0,,Budget cuts
+1713,1115,6,active,annual,2025-02-06,,82.5,0,,
+1714,1116,1,active,annual,2023-06-26,,0.0,25,,
+1715,1117,4,active,monthly,2024-10-08,,39.0,0,2024-10-22 00:00:00,
+1716,1118,1,active,monthly,2025-03-12,,0.0,0,,
+1717,1119,1,cancelled,annual,2025-05-04,,0.0,0,,Company reorganization
+1718,1120,2,active,annual,2023-01-02,,10.0,0,2023-01-16 00:00:00,
+1719,1121,4,expired,monthly,2023-10-29,2024-03-09,39.0,0,2023-11-12 00:00:00,Not using it
+1720,1121,7,active,monthly,2024-03-09,,199.0,0,,
+1721,1122,3,expired,annual,2024-06-25,2024-11-10,15.83,0,2024-07-09 00:00:00,Missing features
+1722,1122,3,expired,monthly,2024-11-10,2025-05-14,19.0,0,,
+1723,1122,5,active,monthly,2025-05-14,,59.0,0,,
+1724,1123,2,cancelled,monthly,2025-04-30,2025-06-29,12.0,0,2025-05-14 00:00:00,Switched competitor
+1725,1123,5,active,monthly,2025-06-29,,59.0,0,,
+1726,1124,5,active,annual,2024-04-12,,49.17,0,2024-04-26 00:00:00,
+1727,1125,4,expired,monthly,2024-09-15,2025-06-11,39.0,0,2024-09-29 00:00:00,Budget cuts
+1728,1125,3,active,monthly,2025-06-11,,19.0,0,,
+1729,1126,2,active,annual,2024-01-11,,10.0,0,2024-01-25 00:00:00,
+1730,1127,1,active,annual,2025-05-14,,0.0,0,,
+1731,1128,5,active,monthly,2023-10-13,,59.0,0,2023-10-27 00:00:00,
+1732,1129,3,active,annual,2024-12-06,,15.83,0,2024-12-20 00:00:00,
+1733,1130,4,active,monthly,2025-02-10,,39.0,0,2025-02-24 00:00:00,
+1734,1131,2,expired,monthly,2024-08-06,2025-06-30,9.6,20,2024-08-20 00:00:00,Company reorganization
+1735,1131,2,cancelled,annual,2025-06-30,,8.5,15,,Budget cuts
+1736,1132,2,cancelled,monthly,2023-08-21,2024-04-14,12.0,0,2023-09-04 00:00:00,Budget cuts
+1737,1132,4,expired,monthly,2024-04-14,2024-12-19,39.0,0,,Too expensive
+1738,1132,3,active,monthly,2024-12-19,,19.0,0,,
+1739,1133,3,active,annual,2023-03-26,,15.83,0,2023-04-09 00:00:00,
+1740,1134,1,active,annual,2023-10-31,,0.0,0,,
+1741,1135,1,expired,monthly,2024-03-21,2025-02-07,0.0,0,,Budget cuts
+1742,1135,1,cancelled,monthly,2025-02-07,2025-05-02,0.0,0,,Not using it
+1743,1135,1,cancelled,monthly,2025-05-02,,0.0,20,,
+1744,1136,2,active,monthly,2023-05-22,,12.0,0,2023-06-05 00:00:00,
+1745,1137,2,expired,monthly,2024-09-06,2024-11-21,10.2,15,2024-09-20 00:00:00,Too expensive
+1746,1137,5,expired,annual,2024-11-21,2025-05-27,49.17,0,,Switched competitor
+1747,1137,7,cancelled,monthly,2025-05-27,,199.0,0,,Budget cuts
+1748,1138,1,cancelled,monthly,2023-03-27,2023-08-26,0.0,0,,Budget cuts
+1749,1138,4,active,annual,2023-08-26,,32.5,0,,
+1750,1139,2,active,monthly,2024-10-10,,12.0,0,2024-10-24 00:00:00,
+1751,1140,1,active,annual,2024-02-07,,0.0,0,,
+1752,1141,3,paused,annual,2024-09-18,,15.83,0,2024-10-02 00:00:00,
+1753,1142,3,expired,annual,2023-12-15,2024-09-08,14.25,10,2023-12-29 00:00:00,Budget cuts
+1754,1142,5,cancelled,monthly,2024-09-08,,59.0,0,,Missing features
+1755,1143,5,active,monthly,2025-03-07,,59.0,0,2025-03-21 00:00:00,
+1756,1144,3,cancelled,annual,2023-03-16,2023-08-26,15.83,0,2023-03-30 00:00:00,Budget cuts
+1757,1144,4,expired,monthly,2023-08-26,2024-07-10,39.0,0,,Budget cuts
+1758,1144,5,active,annual,2024-07-10,,49.17,0,,
+1759,1145,4,active,monthly,2024-08-09,,39.0,0,2024-08-23 00:00:00,
+1760,1146,3,active,monthly,2025-09-09,,19.0,0,2025-09-23 00:00:00,
+1761,1147,3,active,monthly,2023-12-09,,19.0,0,2023-12-23 00:00:00,
+1762,1148,2,active,monthly,2025-02-28,,12.0,0,2025-03-14 00:00:00,
+1763,1149,1,active,monthly,2024-04-18,,0.0,0,,
+1764,1150,2,expired,monthly,2025-03-25,2025-08-06,10.2,15,2025-04-08 00:00:00,Budget cuts
+1765,1150,2,cancelled,monthly,2025-08-06,2025-10-08,10.2,15,,Not using it
+1766,1150,6,active,monthly,2025-10-08,,99.0,0,,
+1767,1151,2,active,monthly,2023-04-25,,12.0,0,2023-05-09 00:00:00,
+1768,1152,2,active,monthly,2023-02-15,,12.0,0,2023-03-01 00:00:00,
+1769,1153,1,cancelled,monthly,2024-11-04,,0.0,0,,
+1770,1154,2,active,monthly,2023-04-01,,12.0,0,2023-04-15 00:00:00,
+1771,1155,3,cancelled,annual,2024-12-28,,15.83,0,2025-01-11 00:00:00,Not using it
+1772,1156,1,active,monthly,2023-02-12,,0.0,0,,
+1773,1157,6,active,monthly,2024-02-12,,99.0,0,2024-02-26 00:00:00,
+1774,1158,4,cancelled,annual,2024-01-23,2024-06-28,32.5,0,2024-02-06 00:00:00,Budget cuts
+1775,1158,4,active,annual,2024-06-28,,29.25,10,,
+1776,1159,2,cancelled,monthly,2023-07-27,2024-01-24,12.0,0,2023-08-10 00:00:00,Too expensive
+1777,1159,3,active,annual,2024-01-24,,12.67,20,,
+1778,1160,5,paused,annual,2025-02-20,,49.17,0,2025-03-06 00:00:00,
+1779,1161,5,cancelled,monthly,2024-01-21,,59.0,0,2024-02-04 00:00:00,Switched competitor
+1780,1162,4,cancelled,annual,2023-09-30,2024-03-20,32.5,0,2023-10-14 00:00:00,Too expensive
+1781,1162,5,cancelled,monthly,2024-03-20,2024-12-15,44.25,25,,Missing features
+1782,1162,3,active,annual,2024-12-15,,14.25,10,,
+1783,1163,4,active,monthly,2025-07-18,,39.0,0,2025-08-01 00:00:00,
+1784,1164,2,active,monthly,2024-01-09,,10.8,10,2024-01-23 00:00:00,
+1785,1165,2,active,annual,2024-04-23,,10.0,0,2024-05-07 00:00:00,
+1786,1166,1,active,monthly,2024-01-05,,0.0,0,,
+1787,1167,2,active,monthly,2025-04-14,,12.0,0,2025-04-28 00:00:00,
+1788,1168,3,expired,annual,2025-01-04,2025-05-30,15.83,0,2025-01-18 00:00:00,
+1789,1168,4,active,monthly,2025-05-30,,39.0,0,,
+1790,1169,2,active,monthly,2023-11-05,,12.0,0,2023-11-19 00:00:00,
+1791,1170,3,cancelled,monthly,2023-05-26,2023-11-13,19.0,0,2023-06-09 00:00:00,Switched competitor
+1792,1170,3,expired,annual,2023-11-13,2024-09-13,15.83,0,,
+1793,1170,4,active,annual,2024-09-13,,32.5,0,,
+1794,1171,1,active,monthly,2023-09-23,,0.0,0,,
+1795,1172,4,active,annual,2024-08-14,,32.5,0,2024-08-28 00:00:00,
+1796,1173,5,active,monthly,2025-08-16,,59.0,0,2025-08-30 00:00:00,
+1797,1174,1,expired,monthly,2023-05-07,2023-09-01,0.0,25,,Budget cuts
+1798,1174,4,expired,annual,2023-09-01,2024-01-16,32.5,0,,Budget cuts
+1799,1174,6,active,annual,2024-01-16,,82.5,0,,
+1800,1175,1,cancelled,annual,2023-07-10,2024-06-19,0.0,0,,Too expensive
+1801,1175,3,cancelled,annual,2024-06-19,2025-02-01,15.83,0,,Too expensive
+1802,1175,7,active,monthly,2025-02-01,,199.0,0,,
+1803,1176,1,expired,monthly,2025-02-28,2025-05-03,0.0,0,,
+1804,1176,1,cancelled,annual,2025-05-03,2025-09-12,0.0,0,,Too expensive
+1805,1176,5,active,annual,2025-09-12,,49.17,0,,
+1806,1177,1,expired,annual,2024-03-09,2024-06-03,0.0,0,,
+1807,1177,3,expired,annual,2024-06-03,2025-03-17,15.83,0,,Missing features
+1808,1177,6,active,annual,2025-03-17,,82.5,0,,
+1809,1178,1,cancelled,monthly,2025-04-06,,0.0,20,,Company reorganization
+1810,1179,2,expired,annual,2025-09-13,2025-11-13,9.0,10,2025-09-27 00:00:00,Switched competitor
+1811,1179,5,active,monthly,2025-11-13,,59.0,0,,
+1812,1180,1,active,monthly,2025-07-30,,0.0,0,,
+1813,1181,2,cancelled,annual,2024-01-22,,10.0,0,2024-02-05 00:00:00,Not using it
+1814,1182,2,cancelled,monthly,2023-11-28,2024-06-23,12.0,0,2023-12-12 00:00:00,Company reorganization
+1815,1182,2,cancelled,annual,2024-06-23,,8.5,15,,Too expensive
+1816,1183,5,active,annual,2023-11-18,,44.25,10,2023-12-02 00:00:00,
+1817,1184,2,active,annual,2024-08-02,,8.0,20,2024-08-16 00:00:00,
+1818,1185,3,active,annual,2025-06-06,,15.83,0,2025-06-20 00:00:00,
+1819,1186,3,active,monthly,2024-08-02,,19.0,0,2024-08-16 00:00:00,
+1820,1187,3,cancelled,annual,2024-07-01,2024-09-17,15.83,0,2024-07-15 00:00:00,Too expensive
+1821,1187,2,active,annual,2024-09-17,,10.0,0,,
+1822,1188,3,cancelled,monthly,2024-09-09,,19.0,0,2024-09-23 00:00:00,
+1823,1189,5,active,monthly,2023-10-17,,59.0,0,2023-10-31 00:00:00,
+1824,1190,6,active,annual,2024-08-09,,74.25,10,2024-08-23 00:00:00,
+1825,1191,2,active,annual,2025-09-12,,8.5,15,2025-09-26 00:00:00,
+1826,1192,2,active,monthly,2023-08-29,,12.0,0,2023-09-12 00:00:00,
+1827,1193,1,cancelled,monthly,2025-06-14,2025-10-23,0.0,0,,Missing features
+1828,1193,3,active,annual,2025-10-23,,15.83,0,,
+1829,1194,2,active,monthly,2025-08-25,,12.0,0,2025-09-08 00:00:00,
+1830,1195,1,active,annual,2024-06-29,,0.0,0,,
+1831,1196,1,cancelled,annual,2023-11-05,2024-06-04,0.0,0,,Not using it
+1832,1196,5,active,monthly,2024-06-04,,59.0,0,,
+1833,1197,3,cancelled,annual,2023-02-25,2024-02-18,15.83,0,2023-03-11 00:00:00,Not using it
+1834,1197,2,active,monthly,2024-02-18,,12.0,0,,
+1835,1198,1,active,annual,2023-12-12,,0.0,0,,
+1836,1199,3,expired,annual,2023-08-15,2024-05-26,11.88,25,2023-08-29 00:00:00,Budget cuts
+1837,1199,3,cancelled,annual,2024-05-26,,15.83,0,,
+1838,1200,1,expired,monthly,2023-09-29,2024-03-03,0.0,10,,Not using it
+1839,1200,5,cancelled,monthly,2024-03-03,2024-11-25,53.1,10,,Too expensive
+1840,1200,3,active,monthly,2024-11-25,,19.0,0,,

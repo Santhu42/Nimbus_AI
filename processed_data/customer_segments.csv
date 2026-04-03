@@ -1,0 +1,1205 @@
+customer_id,company_name,industry,is_churned,plan_tier,mrr_usd,total_events,last_activity,avg_session_sec,unique_features,team_size,latest_nps,recency_days,R_score,F_score,V_score,rfv_total,segment
+1,Rush Platform,E-commerce,1,professional,44.25,39,2025-03-18 13:48:50,1844.4545454545455,3,3.0,,380,1,2,3,6,🔴 High-Value Sleepers
+2,TrekStack,Manufacturing,0,free,0.0,33,2025-03-27 10:39:56,1668.5555555555557,4,6.0,8.0,371,1,1,1,3,⚪ Dormant/Lost
+3,Wave Group,Education,0,free,0.0,40,2025-07-20 12:26:23,1641.5454545454545,6,27.0,7.0,256,2,2,1,5,⚪ Dormant/Lost
+4,KeenSoftware,Technology,0,enterprise,82.5,45,2025-03-05 02:08:56,1766.4473684210527,3,18.0,8.0,393,1,3,4,8,🟠 At Risk
+5,QuestAnalytics,Logistics,0,starter,15.83,43,2025-06-18 21:01:58,1722.2058823529412,5,22.0,7.0,288,2,3,2,7,🟠 At Risk
+6,RiftWorks,Insurance,0,free,0.0,34,2025-08-29 11:44:36,1729.75,7,4.0,7.0,216,3,1,1,5,🟡 New/Promising
+7,PeakIO,Telecommunications,0,free,0.0,45,2025-08-16 18:15:13,1577.3529411764705,6,26.0,10.0,229,2,3,1,6,🟠 At Risk
+8,Data Systems,Finance,0,free,0.0,43,2025-04-05 23:00:27,1731.945945945946,6,23.0,5.0,362,1,3,1,5,🟠 At Risk
+9,Iris Hub,Education,0,free,0.0,48,2024-03-26 03:00:38,2031.7179487179487,9,37.0,8.0,737,1,4,1,6,🟠 At Risk
+10,GlowSystems,Education,0,professional,59.0,36,2025-07-31 17:31:18,1710.8076923076924,8,40.0,2.0,245,2,1,4,7,🔴 High-Value Sleepers
+11,Xenon Cloud,E-commerce,0,starter,7.5,43,2025-07-31 11:15:41,1780.6944444444443,4,1.0,8.0,245,2,3,1,6,🟠 At Risk
+12,QuarkDev,Manufacturing,0,enterprise,99.0,44,2025-09-06 03:03:19,1484.9142857142858,4,3.0,4.0,208,3,3,4,10,🟢 Champions
+13,Vertex Labs,Real Estate,1,free,0.0,33,2025-07-23 00:45:46,1699.0384615384614,4,7.0,,253,2,1,1,4,⚪ Dormant/Lost
+14,Keen Ventures,Consulting,0,enterprise,74.25,43,2025-10-03 14:34:18,1709.4705882352941,5,2.0,6.0,181,4,3,4,11,🟢 Champions
+15,DataLogic,Insurance,0,starter,12.0,39,2025-07-11 11:46:11,2014.142857142857,4,60.0,,265,2,2,2,6,🟤 Need Attention
+16,Iris Labs,Healthcare,0,starter,10.0,50,2025-05-19 09:04:18,1936.4,8,60.0,9.0,318,1,4,2,7,🟠 At Risk
+17,DriftCloud,Legal,0,starter,9.6,42,2025-08-27 06:14:02,1479.4333333333334,5,52.0,0.0,218,3,3,2,8,🔵 Loyal Customers
+18,LinkIO,Retail,0,professional,39.0,46,2025-10-13 04:05:33,2011.7105263157894,5,5.0,,171,4,4,3,11,🟢 Champions
+19,Flow Corp,Logistics,1,professional,32.5,37,2024-11-15 01:20:52,2124.5806451612902,8,3.0,8.0,503,1,2,3,6,🔴 High-Value Sleepers
+20,AcmeHQ,Real Estate,0,enterprise,82.5,38,2024-11-05 01:19:27,1746.0689655172414,5,1.0,6.0,513,1,2,4,7,🔴 High-Value Sleepers
+21,NexusStack,Logistics,0,professional,39.0,44,2025-06-29 13:13:33,1710.2941176470588,4,52.0,8.0,277,2,3,3,8,🟠 At Risk
+22,Onyx Analytics,Media,0,professional,49.17,42,2025-10-19 17:30:19,1984.75,4,10.0,10.0,165,4,3,4,11,🟢 Champions
+23,KitePro,Legal,0,starter,15.83,44,2025-08-12 11:17:23,1878.0,7,9.0,9.0,233,2,3,2,7,🟠 At Risk
+24,TidalStudio,Insurance,0,starter,15.83,32,2025-10-09 19:29:31,1961.9333333333334,4,53.0,7.0,175,4,1,2,7,🟡 New/Promising
+25,PulseSolutions,Insurance,0,free,0.0,38,2025-06-14 17:38:39,1587.40625,4,3.0,2.0,292,1,2,1,4,⚪ Dormant/Lost
+26,YieldAI,E-commerce,0,enterprise,99.0,40,2025-09-18 01:45:19,1916.4,7,2.0,7.0,196,3,2,4,9,🟡 New/Promising
+27,WaveStack,Logistics,1,professional,32.5,43,2025-09-29 01:52:07,1694.8181818181818,2,40.0,6.0,185,3,3,3,9,🔵 Loyal Customers
+28,Keen Software,Education,0,starter,19.0,39,2025-03-19 11:12:41,1699.1842105263158,5,2.0,1.0,379,1,2,3,6,🔴 High-Value Sleepers
+29,QuestSystems,Education,0,professional,49.17,41,2025-10-01 19:48:22,1477.1764705882354,4,10.0,10.0,183,3,2,4,9,🟡 New/Promising
+30,NexusVentures,Media,0,starter,12.0,29,2025-08-29 03:03:12,2107.5,2,32.0,8.0,216,3,1,2,6,🟡 New/Promising
+31,VineSolutions,Education,0,professional,39.0,43,2025-07-03 16:50:52,1706.030303030303,4,3.0,,273,2,3,3,8,🟠 At Risk
+32,Arc Stack,Real Estate,0,starter,15.83,26,2025-03-31 04:10:59,1652.5238095238096,6,2.0,5.0,367,1,1,2,4,⚪ Dormant/Lost
+33,SageDev,Media,0,professional,59.0,32,2025-08-17 11:05:08,1660.44,2,1.0,4.0,228,2,1,4,7,🔴 High-Value Sleepers
+34,JadeHQ,Legal,0,professional,33.15,39,2025-08-01 07:54:14,1635.3030303030303,4,36.0,7.0,244,2,2,3,7,🔴 High-Value Sleepers
+35,PulseAnalytics,Telecommunications,0,starter,10.0,32,2025-10-11 23:33:36,1880.6666666666667,7,5.0,6.0,173,4,1,2,7,🟡 New/Promising
+36,YieldHub,Legal,0,professional,59.0,41,2025-05-15 21:33:46,1683.3333333333333,4,3.0,9.0,322,1,2,4,7,🔴 High-Value Sleepers
+37,Flux Labs,Manufacturing,0,professional,39.0,42,2024-09-08 02:42:25,1734.0645161290322,5,4.0,8.0,571,1,3,3,7,🟠 At Risk
+38,FlowStack,Retail,0,enterprise,82.5,46,2025-07-26 12:44:58,1738.2702702702702,4,13.0,5.0,250,2,4,4,10,🟢 Champions
+39,QuarkTech,Legal,0,free,0.0,41,2025-05-04 19:07:09,1700.2333333333333,2,12.0,7.0,333,1,2,1,4,⚪ Dormant/Lost
+40,PulseDigital,Healthcare,0,starter,10.0,32,2025-07-16 11:02:07,1997.7916666666667,2,15.0,7.0,260,2,1,2,5,⚪ Dormant/Lost
+41,TidalSystems,Telecommunications,0,starter,12.0,38,2025-10-06 16:25:00,1826.59375,3,5.0,7.0,178,4,2,2,8,🟡 New/Promising
+42,KeenAI,Manufacturing,0,professional,49.17,29,2025-08-31 03:19:54,1585.64,2,25.0,8.0,214,3,1,4,8,🟡 New/Promising
+43,TrekDigital,Legal,0,free,0.0,39,2025-09-22 09:07:12,1509.8709677419354,4,10.0,,192,3,2,1,6,🟡 New/Promising
+44,Drift Ventures,Real Estate,0,free,0.0,41,2025-10-04 00:45:13,1689.5714285714287,6,18.0,8.0,180,4,2,1,7,🟡 New/Promising
+45,JadeLabs,E-commerce,0,free,0.0,49,2025-03-03 03:53:33,1659.7179487179487,6,6.0,5.0,395,1,4,1,6,🟠 At Risk
+46,SagePlatform,Real Estate,0,free,0.0,38,2025-07-15 12:12:02,1647.6666666666667,7,5.0,4.0,261,2,2,1,5,⚪ Dormant/Lost
+47,UltraSystems,Insurance,0,starter,19.0,28,2025-10-06 09:02:19,1855.2857142857142,2,23.0,2.0,178,4,1,3,8,🟡 New/Promising
+48,SyncPlatform,Education,1,enterprise,70.12,40,2025-10-14 13:45:48,1719.774193548387,2,2.0,0.0,170,4,2,4,10,🟢 Champions
+49,EchoIO,Finance,0,free,0.0,39,2025-05-05 04:35:47,1939.9666666666667,2,5.0,4.0,332,1,2,1,4,⚪ Dormant/Lost
+50,Warp Corp,Real Estate,0,free,0.0,43,2025-09-18 08:55:09,1787.5833333333333,6,3.0,7.0,196,3,3,1,7,🔵 Loyal Customers
+51,WarpSoftware,Education,0,starter,15.83,51,2025-03-12 06:41:21,1895.4318181818182,6,9.0,10.0,386,1,4,2,7,🟠 At Risk
+52,Orbit Analytics,Insurance,1,free,0.0,39,2025-09-16 11:04:56,1892.103448275862,8,47.0,,198,3,2,1,6,🟡 New/Promising
+53,MistPro,Telecommunications,0,free,0.0,43,2025-05-30 01:36:08,1789.7714285714285,4,5.0,8.0,307,1,3,1,5,🟠 At Risk
+54,Orbit Ops,Retail,0,free,0.0,38,2025-10-12 21:40:27,1603.0,4,41.0,5.0,172,4,2,1,7,🟡 New/Promising
+55,LunaVentures,Retail,0,professional,31.2,36,2025-07-09 10:50:16,2047.5185185185185,7,10.0,2.0,267,2,1,3,6,🔴 High-Value Sleepers
+56,Flow Works,Education,0,professional,59.0,30,2025-02-13 01:54:28,1541.32,5,4.0,9.0,413,1,1,4,6,🔴 High-Value Sleepers
+57,OnyxHQ,E-commerce,0,professional,32.5,41,2024-04-15 18:50:11,1829.6969696969697,6,6.0,8.0,717,1,2,3,6,🔴 High-Value Sleepers
+58,Hub HQ,Healthcare,0,starter,19.0,35,2025-10-11 08:47:26,1835.6296296296296,3,19.0,7.0,173,4,1,3,8,🟡 New/Promising
+59,MistDev,Finance,0,starter,12.0,42,2025-04-29 15:14:26,1977.4193548387098,5,26.0,8.0,338,1,3,2,6,🟠 At Risk
+60,JetHQ,Marketing,0,professional,59.0,40,2024-10-30 03:50:58,1802.3030303030303,4,4.0,10.0,519,1,2,4,7,🔴 High-Value Sleepers
+61,UltraPro,Telecommunications,1,free,0.0,49,2025-10-08 07:15:18,1762.8095238095239,8,28.0,8.0,176,4,4,1,9,🔵 Loyal Customers
+62,GridDev,Technology,0,starter,16.15,36,2024-12-03 08:34:14,1765.892857142857,6,29.0,7.0,485,1,1,3,5,🔴 High-Value Sleepers
+63,UltraStack,Insurance,1,professional,39.0,51,2025-09-01 19:34:14,1708.9117647058824,7,9.0,6.0,213,3,4,3,10,🟢 Champions
+64,CoreSolutions,Telecommunications,0,starter,10.0,46,2025-09-10 20:06:59,1788.0,8,5.0,10.0,204,3,4,2,9,🔵 Loyal Customers
+65,Yield Group,Logistics,0,free,0.0,40,2025-07-31 17:33:09,1883.6571428571428,4,6.0,6.0,245,2,2,1,5,⚪ Dormant/Lost
+66,EdgeHQ,Real Estate,0,free,0.0,50,2025-06-10 20:03:14,1728.4545454545455,5,4.0,3.0,296,1,4,1,6,🟠 At Risk
+67,Quest Logic,Education,0,free,0.0,48,2025-10-15 03:57:57,1683.078947368421,5,4.0,8.0,169,4,4,1,9,🔵 Loyal Customers
+68,Quark Ops,Insurance,1,enterprise,82.5,43,2025-07-17 16:10:31,2042.3030303030303,5,13.0,3.0,259,2,3,4,9,🟠 At Risk
+69,Ion Dynamics,Telecommunications,0,free,0.0,42,2025-05-19 13:58:44,2000.0555555555557,6,1.0,9.0,318,1,3,1,5,🟠 At Risk
+70,JetHub,Retail,1,professional,39.0,42,2025-10-26 19:31:46,1673.2058823529412,4,17.0,,158,4,3,3,10,🟢 Champions
+71,LinkLogic,Marketing,0,enterprise,199.0,34,2025-10-19 10:57:09,1944.5172413793102,4,1.0,4.0,165,4,1,4,9,🟡 New/Promising
+72,Cloud AI,Education,0,starter,12.0,45,2025-09-30 12:46:33,2031.4358974358975,5,14.0,9.0,184,3,3,2,8,🔵 Loyal Customers
+73,LinkPro,Telecommunications,0,starter,9.6,36,2025-09-15 08:11:05,1647.2857142857142,4,7.0,10.0,199,3,1,2,6,🟡 New/Promising
+74,GridOps,Telecommunications,0,starter,15.83,42,2025-10-08 19:04:59,2054.948717948718,3,28.0,,176,4,3,2,9,🔵 Loyal Customers
+75,NovaTech,Media,1,free,0.0,30,2025-10-28 05:33:00,1552.3,3,6.0,5.0,156,4,1,1,6,🟡 New/Promising
+76,Wave Platform,Real Estate,0,starter,10.0,35,2025-06-29 12:44:54,2029.96,3,2.0,7.0,277,2,1,2,5,⚪ Dormant/Lost
+77,Nexus AI,Legal,0,professional,39.0,44,2025-09-01 04:06:57,2154.9411764705883,2,47.0,2.0,213,3,3,3,9,🔵 Loyal Customers
+78,Rush Group,Logistics,0,professional,59.0,41,2025-05-08 05:36:47,1885.0294117647059,5,4.0,7.0,329,1,2,4,7,🔴 High-Value Sleepers
+79,PeakStack,Media,1,professional,32.5,41,2025-08-27 18:04:11,1821.25,5,24.0,9.0,218,3,2,3,8,🟡 New/Promising
+80,JetOps,Healthcare,0,professional,59.0,57,2025-06-27 11:24:28,1965.7555555555555,4,5.0,9.0,279,2,4,4,10,🟢 Champions
+81,WaveOps,Manufacturing,0,professional,47.2,42,2025-08-30 11:36:54,1715.060606060606,9,44.0,10.0,215,3,3,3,9,🔵 Loyal Customers
+82,Orbit Corp,Retail,0,professional,39.0,42,2025-10-15 23:41:17,1538.9714285714285,5,10.0,6.0,169,4,3,3,10,🟢 Champions
+83,LunaDigital,Manufacturing,0,free,0.0,46,2025-04-26 18:54:49,1796.275,2,3.0,4.0,341,1,4,1,6,🟠 At Risk
+84,ZealVentures,Telecommunications,0,free,0.0,36,2025-06-22 11:52:24,2049.6666666666665,2,3.0,0.0,284,2,1,1,4,⚪ Dormant/Lost
+85,Rift Ops,Real Estate,0,free,0.0,40,2025-07-21 10:34:50,1840.3461538461538,5,13.0,7.0,255,2,2,1,5,⚪ Dormant/Lost
+86,Flux Pro,Manufacturing,0,professional,35.1,50,2025-09-19 01:15:57,1746.5,7,1.0,6.0,195,3,4,3,10,🟢 Champions
+87,UltraVentures,Manufacturing,0,starter,12.0,40,2025-09-19 15:14:58,1549.3870967741937,5,17.0,6.0,195,3,2,2,7,🟡 New/Promising
+88,FlowCorp,E-commerce,1,free,0.0,23,2025-08-12 22:05:31,1858.7894736842106,4,15.0,10.0,233,2,1,1,4,⚪ Dormant/Lost
+89,WavePro,Logistics,0,enterprise,61.88,36,2025-02-10 21:25:05,2036.5757575757575,3,50.0,,416,1,1,4,6,🔴 High-Value Sleepers
+90,DriftHub,Real Estate,0,starter,19.0,41,2025-10-11 03:15:42,2314.757575757576,5,13.0,8.0,173,4,2,3,9,🟡 New/Promising
+91,LinkAI,Healthcare,0,starter,19.0,32,2025-07-29 20:01:28,1609.8148148148148,3,1.0,0.0,247,2,1,3,6,🔴 High-Value Sleepers
+92,DriftVentures,Insurance,0,free,0.0,33,2025-09-14 09:54:31,1918.1538461538462,7,14.0,7.0,200,3,1,1,5,🟡 New/Promising
+93,TrekTech,Finance,0,professional,39.0,46,2025-06-13 04:52:06,1942.1714285714286,3,2.0,10.0,293,1,4,3,8,🟠 At Risk
+94,OnyxStack,Marketing,1,free,0.0,39,2025-08-21 03:24:36,1882.9714285714285,7,5.0,7.0,224,3,2,1,6,🟡 New/Promising
+95,PeakNet,Finance,0,professional,49.17,42,2025-05-24 06:31:56,2129.9310344827586,6,13.0,8.0,313,1,3,4,8,🟠 At Risk
+96,PeakOps,Marketing,1,enterprise,99.0,45,2025-10-28 01:23:24,2007.9714285714285,5,4.0,,156,4,3,4,11,🟢 Champions
+97,QuestWorks,Real Estate,0,starter,10.8,36,2025-09-15 15:04:33,1958.0714285714287,4,6.0,7.0,199,3,1,2,6,🟡 New/Promising
+98,Vine HQ,E-commerce,0,starter,15.83,38,2025-09-21 03:40:01,1865.4117647058824,5,9.0,6.0,193,3,2,2,7,🟡 New/Promising
+99,GlowDev,Finance,0,starter,19.0,38,2025-10-26 17:26:56,1427.8064516129032,3,22.0,,158,4,2,3,9,🟡 New/Promising
+100,SyncTech,Education,0,starter,12.0,45,2025-10-14 01:13:20,1802.7941176470588,6,3.0,8.0,170,4,3,2,9,🔵 Loyal Customers
+101,PulseLogic,Marketing,0,free,0.0,50,2025-09-30 16:11:42,1590.909090909091,7,1.0,7.0,184,3,4,1,8,🔵 Loyal Customers
+102,Flow Labs,Education,1,starter,10.0,41,2025-10-03 03:37:43,2024.3142857142857,5,1.0,10.0,181,4,2,2,8,🟡 New/Promising
+103,EdgeSystems,Consulting,0,starter,10.8,48,2025-08-29 10:21:44,1760.595238095238,7,9.0,8.0,216,3,4,2,9,🔵 Loyal Customers
+104,Hive Dynamics,Media,0,professional,39.0,38,2024-06-13 15:18:19,1719.78125,3,33.0,7.0,658,1,2,3,6,🔴 High-Value Sleepers
+105,UnitOps,Insurance,0,starter,19.0,44,2025-10-11 17:01:43,2044.8,6,12.0,6.0,173,4,3,3,10,🟢 Champions
+106,OnyxSolutions,Healthcare,0,free,0.0,43,2025-09-12 19:30:11,1918.1944444444443,5,22.0,10.0,202,3,3,1,7,🔵 Loyal Customers
+107,QuarkAI,E-commerce,0,starter,19.0,46,2025-10-17 02:43:20,1791.4054054054054,8,1.0,6.0,167,4,4,3,11,🟢 Champions
+108,VertexSolutions,Consulting,1,starter,12.0,30,2025-09-01 00:44:49,1951.28,2,1.0,6.0,213,3,1,2,6,🟡 New/Promising
+109,TidalHQ,Manufacturing,0,starter,15.83,30,2025-07-23 13:45:10,1791.2222222222222,3,4.0,9.0,253,2,1,2,5,⚪ Dormant/Lost
+110,EdgeOps,Marketing,1,starter,10.0,48,2025-10-17 20:50:48,1863.1,7,12.0,3.0,167,4,4,2,10,🟢 Champions
+111,XenonLogic,Technology,0,professional,49.17,39,2025-09-23 02:09:35,1745.3636363636363,4,15.0,10.0,191,3,2,4,9,🟡 New/Promising
+112,Hive Logic,Telecommunications,0,enterprise,99.0,52,2025-04-20 01:12:14,1998.6756756756756,9,4.0,8.0,347,1,4,4,9,🟠 At Risk
+113,CoreTech,Retail,0,professional,39.0,42,2025-09-04 15:06:37,1729.2727272727273,3,4.0,9.0,210,3,3,3,9,🔵 Loyal Customers
+114,Meta Digital,E-commerce,1,enterprise,99.0,45,2025-10-22 04:10:41,1781.8484848484848,2,25.0,,162,4,3,4,11,🟢 Champions
+115,HiveCorp,Retail,0,starter,15.83,41,2025-10-26 06:34:12,1788.9411764705883,2,3.0,9.0,158,4,2,2,8,🟡 New/Promising
+116,BeamDev,Technology,0,starter,15.83,42,2025-06-24 03:53:57,1541.8064516129032,3,54.0,8.0,282,2,3,2,7,🟠 At Risk
+117,Onyx Cloud,Real Estate,0,free,0.0,47,2025-10-23 00:26:09,1689.6341463414635,4,8.0,8.0,161,4,4,1,9,🔵 Loyal Customers
+118,Peak Hub,Real Estate,0,starter,12.0,49,2025-08-01 22:59:04,1607.9,2,5.0,4.0,244,2,4,2,8,🟠 At Risk
+119,EchoPlatform,Logistics,0,professional,39.0,43,2025-10-25 14:35:39,1748.4857142857143,4,7.0,7.0,159,4,3,3,10,🟢 Champions
+120,UnitStudio,Finance,1,free,0.0,38,2025-09-17 07:38:56,1936.8,8,43.0,7.0,197,3,2,1,6,🟡 New/Promising
+121,KeenPro,Insurance,0,professional,49.17,40,2025-09-16 16:38:19,1812.0,6,2.0,6.0,198,3,2,4,9,🟡 New/Promising
+122,Sync IO,Real Estate,0,starter,10.0,33,2025-01-08 11:32:37,1594.9583333333333,5,34.0,10.0,449,1,1,2,4,⚪ Dormant/Lost
+123,Jade Software,Marketing,0,starter,10.0,41,2025-06-18 22:29:15,1737.2432432432433,5,14.0,5.0,288,2,2,2,6,🟤 Need Attention
+124,XenonWorks,Marketing,0,professional,39.0,34,2025-10-03 18:50:41,1704.2413793103449,2,25.0,8.0,181,4,1,3,8,🟡 New/Promising
+125,UltraGroup,Manufacturing,0,professional,29.25,55,2025-08-04 05:55:41,1792.4222222222222,7,15.0,7.0,241,2,4,3,9,🟠 At Risk
+126,RiftSystems,Real Estate,0,enterprise,99.0,44,2025-07-12 14:18:37,1788.0,7,6.0,9.0,264,2,3,4,9,🟠 At Risk
+127,Onyx Pro,Real Estate,0,professional,49.17,46,2025-03-21 11:10:42,2054.3513513513512,6,49.0,4.0,377,1,4,4,9,🟠 At Risk
+128,GlowHub,Consulting,0,starter,8.5,51,2025-09-06 07:09:33,1800.85,5,52.0,10.0,208,3,4,1,8,🔵 Loyal Customers
+129,IrisWorks,Logistics,0,professional,32.5,42,2025-10-30 16:22:54,1497.2424242424242,7,16.0,9.0,154,4,3,3,10,🟢 Champions
+130,ZealCloud,Legal,0,starter,19.0,48,2025-05-03 10:54:35,1779.139534883721,8,8.0,,334,1,4,3,8,🟠 At Risk
+131,Sync Net,Healthcare,0,enterprise,82.5,38,2025-07-06 14:39:39,1890.6774193548388,4,1.0,7.0,270,2,2,4,8,🔴 High-Value Sleepers
+132,PulseAI,Media,1,starter,12.0,37,2025-09-15 17:47:41,1973.448275862069,6,4.0,7.0,199,3,2,2,7,🟡 New/Promising
+133,Sync Works,Education,0,starter,9.6,49,2025-08-25 22:22:30,2084.102564102564,3,18.0,0.0,220,3,4,2,9,🔵 Loyal Customers
+134,Vine Cloud,Telecommunications,0,professional,39.0,50,2025-09-17 23:53:58,1989.093023255814,6,4.0,,196,3,4,3,10,🟢 Champions
+135,RushSoftware,Marketing,0,free,0.0,43,2025-10-30 10:54:06,1882.5151515151515,2,2.0,7.0,154,4,3,1,8,🔵 Loyal Customers
+136,Ion IO,Marketing,0,starter,12.0,41,2025-09-12 03:44:09,1872.3125,3,6.0,9.0,202,3,2,2,7,🟡 New/Promising
+137,Tidal Solutions,Manufacturing,0,professional,39.0,39,2025-10-12 11:01:52,1311.7241379310344,7,24.0,7.0,172,4,2,3,9,🟡 New/Promising
+138,ArcNet,Consulting,0,starter,19.0,35,2025-05-25 09:46:34,1823.0,0,44.0,1.0,312,1,1,3,5,🔴 High-Value Sleepers
+139,DataDynamics,E-commerce,0,professional,44.25,39,2025-05-21 17:23:06,1622.5714285714287,3,13.0,0.0,316,1,2,3,6,🔴 High-Value Sleepers
+140,DriftDigital,Consulting,1,professional,39.0,39,2025-10-26 13:41:18,1731.2121212121212,6,4.0,,158,4,2,3,9,🟡 New/Promising
+141,IrisAI,Healthcare,0,professional,59.0,46,2025-07-15 19:19:44,1950.8648648648648,7,7.0,,261,2,4,4,10,🟢 Champions
+142,YieldTech,Logistics,0,professional,49.17,49,2025-10-20 07:56:33,2065.846153846154,4,24.0,8.0,164,4,4,4,12,🟢 Champions
+143,IrisCorp,Retail,0,starter,10.8,41,2025-08-24 14:20:12,1869.111111111111,3,4.0,9.0,221,3,3,2,8,🔵 Loyal Customers
+144,Mist AI,Consulting,0,enterprise,82.5,53,2025-07-12 12:27:04,1921.8333333333333,2,14.0,8.0,264,2,4,4,10,🟢 Champions
+145,Unit Ventures,Marketing,0,professional,39.0,39,2025-09-28 22:05:41,1921.4117647058824,5,5.0,9.0,186,3,2,3,8,🟡 New/Promising
+146,OnyxOps,Consulting,0,professional,39.0,36,2025-07-23 20:48:31,1801.391304347826,2,5.0,7.0,253,2,1,3,6,🔴 High-Value Sleepers
+147,PulsePlatform,Legal,0,starter,10.0,42,2025-08-06 22:52:04,2025.3823529411766,7,1.0,7.0,239,2,3,2,7,🟠 At Risk
+148,XenonTech,Retail,0,professional,53.1,34,2025-05-31 01:59:19,1880.0344827586207,2,4.0,10.0,306,1,1,4,6,🔴 High-Value Sleepers
+149,EchoSoftware,Marketing,0,free,0.0,40,2025-04-29 16:17:51,1508.3235294117646,4,3.0,1.0,338,1,2,1,4,⚪ Dormant/Lost
+150,IrisStack,Education,0,starter,14.25,41,2025-09-27 20:37:39,1653.1,4,3.0,7.0,187,3,3,2,8,🔵 Loyal Customers
+151,Jade Ventures,Real Estate,0,starter,12.0,34,2025-08-28 13:27:30,1538.48,3,26.0,6.0,217,3,1,2,6,🟡 New/Promising
+152,QuarkHub,Legal,0,starter,10.8,35,2025-09-30 06:51:00,1563.142857142857,2,20.0,9.0,184,3,1,2,6,🟡 New/Promising
+153,HiveAI,Healthcare,1,starter,9.0,45,2025-06-16 11:42:59,1733.4571428571428,5,47.0,8.0,290,2,3,2,7,🟠 At Risk
+154,Iris Dynamics,Manufacturing,0,starter,10.0,50,2024-08-22 15:04:18,1765.3488372093022,7,2.0,7.0,588,1,4,2,7,🟠 At Risk
+155,GridSystems,E-commerce,0,free,0.0,36,2025-08-25 06:25:15,1928.2222222222222,5,6.0,0.0,220,3,1,1,5,🟡 New/Promising
+156,TidalOps,Healthcare,1,free,0.0,36,2025-02-15 09:11:03,1691.7666666666667,3,11.0,8.0,411,1,1,1,3,⚪ Dormant/Lost
+157,KeenSystems,Telecommunications,0,free,0.0,44,2025-07-02 13:30:00,1657.4,4,4.0,8.0,274,2,3,1,6,🟠 At Risk
+158,Nova Ventures,Finance,0,starter,12.67,36,2025-03-15 08:34:32,1601.774193548387,5,60.0,7.0,383,1,1,2,4,⚪ Dormant/Lost
+159,Vine Studio,Technology,0,enterprise,89.1,51,2025-05-19 00:34:27,1910.6666666666667,4,2.0,0.0,318,1,4,4,9,🟠 At Risk
+160,FluxPlatform,Manufacturing,0,free,0.0,57,2025-07-14 22:25:24,1483.8048780487804,6,4.0,9.0,262,2,4,1,7,🟠 At Risk
+161,VineLogic,Healthcare,0,starter,7.5,35,2025-09-13 18:24:04,1594.2333333333333,6,6.0,10.0,201,3,1,1,5,🟡 New/Promising
+162,FlowStudio,Real Estate,0,starter,10.0,48,2025-06-04 13:25:53,1740.15,5,3.0,8.0,302,1,4,2,7,🟠 At Risk
+163,Rush Cloud,Education,0,free,0.0,47,2025-10-06 05:31:08,1948.5,3,10.0,10.0,178,4,4,1,9,🔵 Loyal Customers
+164,Acme Logic,Marketing,0,professional,36.88,37,2025-08-23 05:36:25,2125.451612903226,1,54.0,,222,3,2,3,8,🟡 New/Promising
+165,Zen Works,Education,0,free,0.0,39,2025-07-05 11:39:38,1962.75,3,14.0,7.0,271,2,2,1,5,⚪ Dormant/Lost
+166,Zeal Dynamics,Technology,0,free,0.0,38,2025-05-12 20:26:20,1665.5882352941176,4,27.0,6.0,325,1,2,1,4,⚪ Dormant/Lost
+167,Quest Digital,Legal,0,free,0.0,42,2025-09-22 18:23:18,1694.3235294117646,6,5.0,1.0,192,3,3,1,7,🔵 Loyal Customers
+168,XenonNet,Media,1,professional,44.25,32,2025-08-01 12:46:13,1945.5454545454545,4,6.0,8.0,244,2,1,3,6,🔴 High-Value Sleepers
+169,Quark Platform,Media,0,free,0.0,48,2025-09-11 20:04:28,1889.2564102564102,7,27.0,7.0,203,3,4,1,8,🔵 Loyal Customers
+170,WaveLabs,Education,0,free,0.0,33,2024-09-04 12:16:53,1822.5333333333333,4,15.0,6.0,575,1,1,1,3,⚪ Dormant/Lost
+171,UnitNet,Healthcare,0,starter,10.0,36,2024-12-18 22:23:38,1945.2692307692307,5,6.0,10.0,470,1,1,2,4,⚪ Dormant/Lost
+172,JadeSolutions,Manufacturing,0,free,0.0,47,2025-06-02 03:40:22,1884.878048780488,5,15.0,7.0,304,1,4,1,6,🟠 At Risk
+173,Rush Hub,Legal,1,free,0.0,36,2025-04-25 20:58:00,2005.0384615384614,6,26.0,10.0,342,1,1,1,3,⚪ Dormant/Lost
+174,NexusLogic,Marketing,1,professional,59.0,34,2025-06-10 06:04:29,1961.1923076923076,6,5.0,7.0,296,1,1,4,6,🔴 High-Value Sleepers
+175,Yield Corp,Real Estate,0,free,0.0,42,2025-09-04 08:40:35,1981.1944444444443,7,3.0,7.0,210,3,3,1,7,🔵 Loyal Customers
+176,MetaLogic,Media,0,enterprise,74.25,30,2025-10-05 20:20:43,1971.0,4,10.0,8.0,179,4,1,4,9,🟡 New/Promising
+177,Iris Cloud,Finance,0,starter,19.0,32,2025-07-16 08:52:11,1379.6,2,27.0,3.0,260,2,1,3,6,🔴 High-Value Sleepers
+178,WarpPro,E-commerce,0,free,0.0,55,2025-09-22 11:02:01,1857.7567567567567,6,6.0,2.0,192,3,4,1,8,🔵 Loyal Customers
+179,Vine Ventures,Legal,1,professional,32.5,46,2025-07-31 15:45:42,1533.4444444444443,5,1.0,9.0,245,2,4,3,9,🟠 At Risk
+180,Rush Dev,Telecommunications,0,enterprise,99.0,39,2025-09-04 02:26:25,2390.84375,6,25.0,7.0,210,3,2,4,9,🟡 New/Promising
+181,PulseHub,Manufacturing,0,professional,59.0,54,2025-10-27 02:38:09,1846.6842105263158,11,11.0,0.0,157,4,4,4,12,🟢 Champions
+182,SageStudio,Consulting,0,starter,19.0,37,2025-08-25 08:51:41,1883.6666666666667,4,3.0,5.0,220,3,2,3,8,🟡 New/Promising
+183,BeamSoftware,Marketing,0,starter,14.25,46,2025-04-12 05:19:01,1760.0,7,32.0,6.0,355,1,4,2,7,🟠 At Risk
+184,BoltSystems,Finance,1,professional,49.17,36,2025-06-18 06:05:15,1945.9642857142858,4,8.0,10.0,288,2,1,4,7,🔴 High-Value Sleepers
+185,XenonOps,Finance,1,free,0.0,40,2025-07-10 20:52:01,1713.68,7,1.0,8.0,266,2,2,1,5,⚪ Dormant/Lost
+186,AcmeLabs,Retail,1,starter,12.0,37,2025-04-19 15:13:43,1520.5483870967741,5,1.0,4.0,348,1,2,2,5,⚪ Dormant/Lost
+187,Hive Ventures,Technology,0,starter,19.0,36,2025-09-25 19:17:25,1933.2727272727273,6,10.0,,189,3,1,3,7,🟡 New/Promising
+188,GridDigital,Real Estate,0,starter,12.0,38,2025-09-21 06:01:07,1908.08,3,8.0,9.0,193,3,2,2,7,🟡 New/Promising
+189,Quest Cloud,E-commerce,0,starter,10.0,33,2025-03-22 10:04:36,1843.8666666666666,3,14.0,9.0,376,1,1,2,4,⚪ Dormant/Lost
+190,Acme Studio,Telecommunications,0,starter,10.0,43,2025-09-29 13:16:26,2001.5,6,2.0,1.0,185,3,3,2,8,🔵 Loyal Customers
+191,Data Logic,Media,0,starter,10.2,46,2025-04-18 09:32:54,1837.3658536585365,6,5.0,9.0,349,1,4,2,7,🟠 At Risk
+192,GlowSoftware,Finance,0,starter,12.0,35,2025-05-28 06:15:28,1593.4137931034484,5,12.0,8.0,309,1,1,2,4,⚪ Dormant/Lost
+193,PulseTech,Healthcare,1,free,0.0,36,2024-05-17 10:34:06,1919.1290322580646,4,12.0,8.0,685,1,1,1,3,⚪ Dormant/Lost
+194,Zeal Analytics,Legal,0,starter,12.0,34,2025-09-28 08:18:17,1776.6,5,5.0,7.0,186,3,1,2,6,🟡 New/Promising
+195,Kite Analytics,Insurance,1,enterprise,99.0,39,2025-07-18 16:15:23,1970.5,4,4.0,10.0,258,2,2,4,8,🔴 High-Value Sleepers
+196,CloudDynamics,Legal,0,professional,39.0,38,2025-10-08 11:46:02,1368.1379310344828,6,11.0,6.0,176,4,2,3,9,🟡 New/Promising
+197,LunaPlatform,Technology,0,professional,49.17,35,2025-07-10 23:58:02,1894.9583333333333,4,10.0,8.0,265,2,1,4,7,🔴 High-Value Sleepers
+198,DriftStudio,Consulting,0,starter,15.83,38,2025-06-16 14:41:12,1863.4848484848485,3,34.0,7.0,290,2,2,2,6,🟤 Need Attention
+199,VertexLabs,Manufacturing,1,free,0.0,37,2025-03-06 11:40:20,2043.6774193548388,4,55.0,10.0,392,1,2,1,4,⚪ Dormant/Lost
+200,XenonHQ,Healthcare,0,professional,49.17,40,2025-09-20 20:43:27,1936.4848484848485,3,9.0,2.0,194,3,2,4,9,🟡 New/Promising
+201,ZenNet,Marketing,1,professional,41.79,46,2025-10-19 12:45:29,1848.375,4,5.0,8.0,165,4,4,3,11,🟢 Champions
+202,CoreCloud,Retail,0,enterprise,99.0,36,2025-06-21 16:28:09,1838.0714285714287,6,2.0,10.0,285,2,1,4,7,🔴 High-Value Sleepers
+203,Tidal Analytics,Retail,0,starter,10.0,39,2025-02-22 14:05:53,2020.551724137931,3,3.0,9.0,404,1,2,2,5,⚪ Dormant/Lost
+204,IonSoftware,Marketing,1,free,0.0,41,2025-10-16 05:40:36,2026.7894736842106,3,11.0,3.0,168,4,3,1,8,🔵 Loyal Customers
+205,HubAI,Technology,0,professional,49.17,43,2025-03-14 18:11:27,1810.3548387096773,3,6.0,10.0,384,1,3,4,8,🟠 At Risk
+206,RushHQ,Technology,0,enterprise,74.25,60,2025-10-17 08:02:16,1893.8867924528302,6,6.0,8.0,167,4,4,4,12,🟢 Champions
+207,OnyxDynamics,Manufacturing,0,free,0.0,33,2025-09-12 15:30:54,1617.607142857143,3,35.0,10.0,202,3,1,1,5,🟡 New/Promising
+208,Echo Dev,Marketing,0,starter,10.0,37,2025-09-15 08:27:22,1695.1935483870968,5,40.0,8.0,199,3,2,2,7,🟡 New/Promising
+209,KeenLogic,Retail,0,enterprise,82.5,52,2025-09-07 00:48:13,1727.8260869565217,6,43.0,8.0,207,3,4,4,11,🟢 Champions
+210,FluxDynamics,Consulting,0,professional,59.0,27,2024-12-19 20:11:09,2132.8636363636365,7,4.0,10.0,469,1,1,4,6,🔴 High-Value Sleepers
+211,Trek Digital,Insurance,0,starter,12.0,44,2025-03-18 11:34:59,2130.4285714285716,6,5.0,10.0,380,1,3,2,6,🟠 At Risk
+212,OnyxIO,Finance,0,free,0.0,47,2025-09-23 23:41:26,2199.5789473684213,5,23.0,8.0,191,3,4,1,8,🔵 Loyal Customers
+213,Sage Ventures,Manufacturing,1,starter,9.0,44,2025-10-16 22:09:24,1713.5882352941176,6,35.0,10.0,168,4,3,2,9,🔵 Loyal Customers
+214,UltraSolutions,Healthcare,0,enterprise,99.0,32,2025-03-09 06:32:01,1585.16,2,16.0,8.0,389,1,1,4,6,🔴 High-Value Sleepers
+215,ArcSolutions,Consulting,0,starter,15.83,35,2024-06-20 06:08:45,1934.655172413793,5,7.0,7.0,651,1,1,2,4,⚪ Dormant/Lost
+216,SyncLabs,Healthcare,0,starter,19.0,44,2025-10-09 09:22:05,1931.9705882352941,8,4.0,5.0,175,4,3,3,10,🟢 Champions
+217,PeakSolutions,Manufacturing,0,free,0.0,42,2025-10-12 00:08:24,2125.3333333333335,5,5.0,7.0,172,4,3,1,8,🔵 Loyal Customers
+218,Keen Dynamics,Retail,1,starter,10.8,25,2025-09-24 15:01:43,1691.8695652173913,3,12.0,9.0,190,3,1,2,6,🟡 New/Promising
+219,TidalLogic,Telecommunications,1,professional,59.0,44,2025-03-08 18:00:09,1960.4722222222222,5,14.0,,390,1,3,4,8,🟠 At Risk
+220,GridTech,Insurance,0,enterprise,82.5,37,2025-08-06 03:06:04,1814.5384615384614,2,4.0,9.0,239,2,2,4,8,🔴 High-Value Sleepers
+221,KeenPlatform,Healthcare,1,professional,59.0,42,2025-09-01 21:29:35,2075.5,2,6.0,10.0,213,3,3,4,10,🟢 Champions
+222,Beam Tech,Logistics,0,enterprise,179.1,34,2025-10-05 05:56:25,1673.8387096774193,9,3.0,9.0,179,4,1,4,9,🟡 New/Promising
+223,RushDev,Retail,0,starter,15.83,48,2025-05-22 00:33:17,1665.090909090909,6,1.0,6.0,315,1,4,2,7,🟠 At Risk
+224,GridVentures,Insurance,1,free,0.0,37,2025-10-27 01:41:46,1754.967741935484,5,4.0,,157,4,2,1,7,🟡 New/Promising
+225,CloudLogic,Marketing,0,starter,19.0,34,2025-07-11 05:54:17,1994.9583333333333,5,16.0,9.0,265,2,1,3,6,🔴 High-Value Sleepers
+226,OrbitDigital,Legal,0,free,0.0,54,2025-09-01 04:25:27,1738.6829268292684,6,14.0,9.0,213,3,4,1,8,🔵 Loyal Customers
+227,DataDev,Healthcare,0,starter,10.8,24,2025-09-16 20:56:31,1870.5,0,2.0,8.0,198,3,1,2,6,🟡 New/Promising
+228,DriftAI,Legal,0,professional,59.0,48,2025-06-10 06:40:54,1492.7142857142858,5,2.0,,296,1,4,4,9,🟠 At Risk
+229,LinkDynamics,Finance,0,professional,49.17,30,2025-10-09 13:00:38,1762.6,5,39.0,6.0,175,4,1,4,9,🟡 New/Promising
+230,PeakPlatform,Education,0,starter,19.0,50,2025-07-05 15:46:26,1959.6666666666667,5,20.0,8.0,271,2,4,3,9,🟠 At Risk
+231,OrbitAnalytics,Education,0,starter,19.0,38,2025-10-30 23:55:55,1491.0,4,13.0,9.0,153,4,2,3,9,🟡 New/Promising
+232,Quest Studio,Media,0,professional,32.5,29,2025-07-20 17:13:22,1755.6315789473683,3,28.0,6.0,256,2,1,3,6,🔴 High-Value Sleepers
+233,Hive Hub,E-commerce,0,starter,12.0,40,2025-10-29 07:20:10,1910.5625,4,1.0,6.0,155,4,2,2,8,🟡 New/Promising
+234,LinkNet,Retail,0,professional,39.0,44,2025-07-26 05:42:27,1985.057142857143,6,6.0,7.0,250,2,3,3,8,🟠 At Risk
+235,SyncSystems,Legal,0,free,0.0,36,2025-08-03 01:13:25,1848.0357142857142,5,2.0,0.0,242,2,1,1,4,⚪ Dormant/Lost
+236,ArcWorks,Real Estate,1,professional,29.25,29,2025-10-19 00:16:46,1534.7692307692307,4,6.0,4.0,165,4,1,3,8,🟡 New/Promising
+237,HiveCloud,Retail,0,starter,15.2,42,2025-10-27 16:17:31,1914.7272727272727,7,42.0,0.0,157,4,3,2,9,🔵 Loyal Customers
+238,VertexStack,Marketing,0,professional,35.1,48,2025-10-27 08:46:51,1686.840909090909,6,27.0,9.0,157,4,4,3,11,🟢 Champions
+239,IonGroup,Manufacturing,0,professional,59.0,42,2025-08-25 19:30:59,1615.7368421052631,3,10.0,9.0,220,3,3,4,10,🟢 Champions
+240,Unit Platform,E-commerce,1,professional,39.0,49,2025-05-21 11:52:22,1571.7837837837837,4,12.0,10.0,316,1,4,3,8,🟠 At Risk
+241,BeamOps,Marketing,0,starter,15.83,38,2025-07-06 02:11:16,1954.90625,6,4.0,8.0,270,2,2,2,6,🟤 Need Attention
+242,HubStudio,Insurance,1,professional,39.0,55,2025-10-19 21:09:33,1512.75,5,2.0,7.0,165,4,4,3,11,🟢 Champions
+243,YieldSystems,Consulting,0,free,0.0,36,2025-10-24 07:00:18,1950.3030303030303,3,17.0,6.0,160,4,1,1,6,🟡 New/Promising
+244,Grid IO,E-commerce,1,starter,19.0,38,2025-10-25 19:33:52,2059.0,5,8.0,8.0,159,4,2,3,9,🟡 New/Promising
+245,Quest Tech,Telecommunications,1,starter,12.0,47,2025-10-29 07:05:31,1692.342105263158,7,4.0,10.0,155,4,4,2,10,🟢 Champions
+246,Luna AI,Retail,1,starter,12.0,49,2025-07-14 20:26:20,1630.5135135135135,5,5.0,4.0,262,2,4,2,8,🟠 At Risk
+247,VertexStudio,Real Estate,0,starter,15.83,38,2025-10-26 17:05:06,1655.2758620689656,6,6.0,9.0,158,4,2,2,8,🟡 New/Promising
+248,Sage Pro,Technology,0,professional,49.17,35,2025-10-30 05:51:33,1930.0714285714287,5,23.0,7.0,154,4,1,4,9,🟡 New/Promising
+249,RiftPro,Finance,0,professional,39.0,29,2024-11-27 05:53:14,1672.6666666666667,2,3.0,7.0,491,1,1,3,5,🔴 High-Value Sleepers
+250,SageNet,Manufacturing,0,professional,39.0,42,2025-07-27 17:17:41,1522.4166666666667,4,23.0,3.0,249,2,3,3,8,🟠 At Risk
+251,AcmeStack,Media,0,free,0.0,32,2025-07-24 14:54:53,1697.103448275862,6,27.0,8.0,252,2,1,1,4,⚪ Dormant/Lost
+252,Core Ventures,Consulting,1,free,0.0,36,2025-07-23 11:46:12,1601.774193548387,5,5.0,8.0,253,2,1,1,4,⚪ Dormant/Lost
+253,Quest HQ,Marketing,0,enterprise,82.5,30,2025-04-03 11:11:23,1800.2916666666667,5,2.0,7.0,364,1,1,4,6,🔴 High-Value Sleepers
+254,GridHub,Technology,1,starter,10.0,40,2025-10-25 10:39:27,1597.9333333333334,3,6.0,,159,4,2,2,8,🟡 New/Promising
+255,GridAnalytics,E-commerce,1,starter,10.0,42,2025-09-13 00:57:37,1646.6875,7,1.0,6.0,201,3,3,2,8,🔵 Loyal Customers
+256,DriftOps,Media,0,professional,59.0,42,2025-08-25 10:09:03,1619.8387096774193,5,4.0,0.0,220,3,3,4,10,🟢 Champions
+257,Ion Systems,Manufacturing,0,starter,15.83,53,2025-09-03 09:29:49,1962.1081081081081,3,14.0,8.0,211,3,4,2,9,🔵 Loyal Customers
+258,Mist Net,Telecommunications,0,professional,31.2,44,2025-06-17 11:27:29,1696.0285714285715,5,16.0,10.0,289,2,3,3,8,🟠 At Risk
+259,RiftDigital,Logistics,0,professional,50.15,49,2025-06-26 09:29:52,1637.7435897435898,8,4.0,7.0,280,2,4,4,10,🟢 Champions
+260,IrisCloud,Manufacturing,0,free,0.0,50,2025-08-19 00:30:19,1940.35,9,51.0,8.0,226,2,4,1,7,🟠 At Risk
+261,JetAI,Education,0,free,0.0,37,2025-09-19 19:46:47,1744.5172413793102,4,1.0,10.0,195,3,2,1,6,🟡 New/Promising
+262,Yield Logic,Manufacturing,0,professional,39.0,38,2025-09-26 01:01:35,1656.46875,4,46.0,10.0,188,3,2,3,8,🟡 New/Promising
+263,WarpVentures,Real Estate,0,professional,59.0,39,2025-06-22 15:28:44,1686.9666666666667,4,2.0,10.0,284,2,2,4,8,🔴 High-Value Sleepers
+264,Link Analytics,Technology,0,free,0.0,38,2025-06-15 10:35:56,2003.9666666666667,3,1.0,8.0,291,2,2,1,5,⚪ Dormant/Lost
+265,FluxVentures,Healthcare,0,professional,49.17,41,2025-01-05 11:46:18,1818.551724137931,7,16.0,10.0,452,1,3,4,8,🟠 At Risk
+266,NovaOps,Marketing,0,free,0.0,35,2025-06-06 22:02:26,1960.0333333333333,6,2.0,10.0,300,1,1,1,3,⚪ Dormant/Lost
+267,CloudOps,Manufacturing,0,starter,10.2,27,2025-10-03 11:40:49,1652.05,2,15.0,,181,4,1,2,7,🟡 New/Promising
+268,PeakSoftware,Healthcare,0,free,0.0,36,2025-03-14 20:49:23,1717.4,6,4.0,7.0,384,1,1,1,3,⚪ Dormant/Lost
+269,NovaDynamics,Telecommunications,0,free,0.0,39,2025-10-06 12:08:30,1803.5142857142857,4,25.0,9.0,178,4,2,1,7,🟡 New/Promising
+270,JadeTech,E-commerce,0,professional,49.17,34,2025-10-14 00:28:05,2040.9583333333333,6,6.0,5.0,170,4,1,4,9,🟡 New/Promising
+271,SageTech,Media,0,free,0.0,42,2025-09-21 11:56:21,1665.4193548387098,2,5.0,,193,3,3,1,7,🔵 Loyal Customers
+272,JetCloud,Telecommunications,0,free,0.0,50,2025-09-08 17:43:06,1706.4634146341464,5,29.0,5.0,206,3,4,1,8,🔵 Loyal Customers
+273,TidalSoftware,Telecommunications,0,starter,12.0,26,2025-07-02 07:21:07,1894.909090909091,5,9.0,8.0,274,2,1,2,5,⚪ Dormant/Lost
+274,WarpDynamics,Media,0,professional,59.0,42,2025-01-26 08:26:21,1715.15625,6,1.0,9.0,431,1,3,4,8,🟠 At Risk
+275,GridCloud,Telecommunications,0,enterprise,99.0,35,2025-02-04 17:57:20,2332.6296296296296,5,1.0,6.0,422,1,1,4,6,🔴 High-Value Sleepers
+276,UltraPlatform,Legal,0,professional,32.5,43,2025-09-16 16:24:51,1680.9756097560976,6,11.0,5.0,198,3,3,3,9,🔵 Loyal Customers
+277,Mist Tech,Retail,1,free,0.0,46,2025-10-13 22:13:37,1923.2894736842106,4,4.0,10.0,171,4,4,1,9,🔵 Loyal Customers
+278,Cloud Dynamics,Education,0,enterprise,149.25,40,2025-10-18 12:06:58,1771.90625,2,5.0,,166,4,2,4,10,🟢 Champions
+279,ZenStudio,Logistics,0,professional,39.0,44,2025-10-07 05:12:28,2104.5128205128203,7,2.0,4.0,177,4,3,3,10,🟢 Champions
+280,VinePro,Marketing,0,starter,12.0,51,2025-09-23 00:31:25,2103.5897435897436,6,1.0,8.0,191,3,4,2,9,🔵 Loyal Customers
+281,EchoHQ,Technology,0,free,0.0,46,2025-07-03 10:05:33,1716.2702702702702,5,16.0,4.0,273,2,4,1,7,🟠 At Risk
+282,XenonVentures,Retail,0,free,0.0,33,2025-05-11 14:58:12,1896.0,2,1.0,8.0,326,1,1,1,3,⚪ Dormant/Lost
+283,GlowDigital,E-commerce,1,professional,32.5,39,2025-10-21 10:06:13,1870.764705882353,5,3.0,10.0,163,4,2,3,9,🟡 New/Promising
+284,EchoOps,E-commerce,1,free,0.0,42,2025-06-26 20:16:18,1763.7575757575758,4,9.0,,280,2,3,1,6,🟠 At Risk
+285,Luna Dev,Manufacturing,0,enterprise,99.0,41,2025-06-22 13:52:13,2073.030303030303,5,11.0,7.0,284,2,3,4,9,🟠 At Risk
+286,KitePlatform,Real Estate,0,professional,59.0,39,2025-10-02 14:36:33,2118.766666666667,5,4.0,9.0,182,4,2,4,10,🟢 Champions
+287,Bolt Software,Media,0,starter,19.0,39,2025-08-22 18:09:04,1902.0967741935483,2,56.0,8.0,223,3,2,3,8,🟡 New/Promising
+288,FlowIO,Telecommunications,0,free,0.0,46,2025-08-29 10:04:54,1700.6486486486488,3,8.0,8.0,216,3,4,1,8,🔵 Loyal Customers
+289,OrbitIO,Manufacturing,0,starter,15.83,34,2025-10-27 20:38:37,1937.4666666666667,3,4.0,5.0,157,4,1,2,7,🟡 New/Promising
+290,SyncGroup,Manufacturing,0,professional,59.0,41,2025-03-02 09:18:37,1751.5454545454545,5,4.0,9.0,396,1,3,4,8,🟠 At Risk
+291,Beam Stack,Real Estate,0,professional,32.5,41,2025-10-18 05:36:49,2146.1,3,3.0,3.0,166,4,3,3,10,🟢 Champions
+292,LunaStudio,Consulting,1,free,0.0,58,2025-10-23 17:06:23,1703.5434782608695,5,6.0,7.0,161,4,4,1,9,🔵 Loyal Customers
+293,GridSoftware,Insurance,0,professional,39.0,54,2025-06-23 04:08:54,1752.8139534883721,3,2.0,8.0,283,2,4,3,9,🟠 At Risk
+294,UnitLogic,Manufacturing,1,professional,49.17,34,2025-05-10 07:37:23,1806.3333333333333,4,5.0,10.0,327,1,1,4,6,🔴 High-Value Sleepers
+295,NexusSolutions,Marketing,0,professional,49.17,45,2025-10-21 20:35:29,1721.4615384615386,5,6.0,10.0,163,4,3,4,11,🟢 Champions
+296,WaveStudio,Education,1,starter,12.0,47,2025-10-06 09:11:55,1338.4736842105262,4,3.0,6.0,178,4,4,2,10,🟢 Champions
+297,Core Logic,Real Estate,1,enterprise,99.0,35,2025-10-26 01:50:43,1546.9285714285713,3,4.0,,158,4,1,4,9,🟡 New/Promising
+298,Ultra Corp,Marketing,0,starter,12.0,44,2024-12-23 17:23:15,2020.03125,5,7.0,5.0,465,1,3,2,6,🟠 At Risk
+299,Keen Analytics,Finance,0,professional,59.0,41,2025-09-03 07:17:34,1721.735294117647,5,20.0,0.0,211,3,3,4,10,🟢 Champions
+300,Flow Ops,Logistics,0,professional,59.0,41,2024-09-05 08:39:13,1589.5714285714287,6,11.0,5.0,574,1,3,4,8,🟠 At Risk
+301,FluxSolutions,Telecommunications,0,professional,41.79,34,2024-12-25 04:13:40,1373.7777777777778,3,11.0,8.0,463,1,1,3,5,🔴 High-Value Sleepers
+302,DriftSystems,Consulting,0,starter,10.0,49,2025-07-01 13:06:25,1780.7179487179487,5,5.0,5.0,275,2,4,2,8,🟠 At Risk
+303,EchoGroup,Finance,0,starter,15.83,49,2025-09-06 12:23:33,2089.8684210526317,4,14.0,7.0,208,3,4,2,9,🔵 Loyal Customers
+304,Pulse Dynamics,Manufacturing,0,starter,15.83,40,2025-09-03 02:42:58,1732.9722222222222,4,22.0,8.0,211,3,2,2,7,🟡 New/Promising
+305,Keen AI,Manufacturing,0,enterprise,99.0,43,2025-07-29 13:59:50,2007.1290322580646,1,5.0,7.0,247,2,3,4,9,🟠 At Risk
+306,MetaVentures,Logistics,0,starter,9.0,39,2025-08-10 08:50:10,1844.142857142857,1,10.0,6.0,235,2,2,2,6,🟤 Need Attention
+307,KiteStack,Marketing,0,starter,12.0,33,2025-10-03 18:01:42,2000.551724137931,4,14.0,7.0,181,4,1,2,7,🟡 New/Promising
+308,MistStack,Telecommunications,1,free,0.0,32,2025-07-11 19:03:40,1793.48,6,10.0,10.0,265,2,1,1,4,⚪ Dormant/Lost
+309,NovaSolutions,Healthcare,1,professional,32.5,45,2025-10-21 22:40:26,1674.6,5,6.0,10.0,163,4,3,3,10,🟢 Champions
+310,Hive Solutions,Technology,0,starter,12.0,48,2025-10-18 09:30:17,1925.1025641025642,4,2.0,7.0,166,4,4,2,10,🟢 Champions
+311,LinkGroup,Legal,0,enterprise,82.5,39,2025-10-09 05:21:37,2221.967741935484,5,10.0,7.0,175,4,2,4,10,🟢 Champions
+312,SageIO,Consulting,0,enterprise,82.5,36,2025-10-21 04:23:55,1628.53125,5,1.0,10.0,163,4,1,4,9,🟡 New/Promising
+313,TrekPro,Retail,0,free,0.0,31,2025-04-13 12:16:31,1785.3846153846155,4,7.0,9.0,354,1,1,1,3,⚪ Dormant/Lost
+314,ArcSoftware,Finance,1,professional,32.5,33,2025-02-24 19:13:06,1868.9166666666667,6,3.0,8.0,402,1,1,3,5,🔴 High-Value Sleepers
+315,RushDigital,Legal,0,free,0.0,37,2025-08-29 11:21:32,1270.8148148148148,2,1.0,8.0,216,3,2,1,6,🟡 New/Promising
+316,VertexTech,Finance,0,starter,10.0,49,2025-10-17 00:46:13,2173.846153846154,5,3.0,8.0,167,4,4,2,10,🟢 Champions
+317,Zeal HQ,E-commerce,0,starter,19.0,46,2025-10-18 06:37:44,1594.8823529411766,7,18.0,9.0,166,4,4,3,11,🟢 Champions
+318,Jade Dev,Healthcare,0,enterprise,99.0,40,2025-09-12 10:45:44,1949.4848484848485,5,2.0,6.0,202,3,2,4,9,🟡 New/Promising
+319,LinkSystems,E-commerce,0,starter,12.0,56,2025-08-17 03:37:01,1724.2045454545455,5,5.0,2.0,228,2,4,2,8,🟠 At Risk
+320,Wave Stack,Finance,0,free,0.0,47,2025-08-17 11:14:06,1551.625,4,20.0,8.0,228,2,4,1,7,🟠 At Risk
+321,BoltNet,Legal,0,free,0.0,34,2025-08-04 14:19:16,2114.9655172413795,6,4.0,,241,2,1,1,4,⚪ Dormant/Lost
+322,RushGroup,Media,0,professional,29.25,42,2025-07-31 20:53:33,1792.5,6,3.0,6.0,245,2,3,3,8,🟠 At Risk
+323,NexusStudio,E-commerce,0,starter,19.0,32,2025-08-30 06:10:34,1927.7083333333333,4,1.0,8.0,215,3,1,3,7,🟡 New/Promising
+324,Hive Ops,Healthcare,0,enterprise,165.83,24,2025-10-06 08:41:43,1988.625,3,6.0,8.0,178,4,1,4,9,🟡 New/Promising
+325,Trek Tech,Technology,0,professional,39.0,47,2025-10-30 11:30:00,1712.9714285714285,4,2.0,9.0,154,4,4,3,11,🟢 Champions
+326,NexusAnalytics,Legal,1,starter,15.83,39,2025-04-27 21:17:07,2025.7407407407406,5,3.0,7.0,340,1,2,2,5,⚪ Dormant/Lost
+327,JadePro,Legal,0,professional,59.0,43,2025-10-03 07:30:06,2124.1714285714284,4,6.0,7.0,181,4,3,4,11,🟢 Champions
+328,IrisGroup,Marketing,0,starter,19.0,33,2025-05-22 05:00:40,1943.44,4,6.0,10.0,315,1,1,3,5,🔴 High-Value Sleepers
+329,ZenLabs,Education,0,free,0.0,38,2025-10-27 03:42:09,1671.3235294117646,6,9.0,8.0,157,4,2,1,7,🟡 New/Promising
+330,JadeDev,Telecommunications,0,free,0.0,39,2025-07-18 20:52:04,1519.774193548387,4,15.0,9.0,258,2,2,1,5,⚪ Dormant/Lost
+331,UnitWorks,Finance,0,professional,39.0,46,2025-09-16 06:49:18,1855.578947368421,6,10.0,0.0,198,3,4,3,10,🟢 Champions
+332,WaveCorp,Retail,1,free,0.0,42,2025-08-18 04:05:14,1764.918918918919,5,5.0,10.0,227,2,3,1,6,🟠 At Risk
+333,ZenHQ,Real Estate,0,free,0.0,43,2025-09-24 17:22:52,1732.6129032258063,9,13.0,7.0,190,3,3,1,7,🔵 Loyal Customers
+334,ZenDev,Legal,0,professional,32.5,56,2025-02-18 11:03:04,1660.265306122449,3,4.0,7.0,408,1,4,3,8,🟠 At Risk
+335,ZealCorp,Telecommunications,0,professional,49.17,49,2025-10-08 07:56:09,1769.25,3,14.0,8.0,176,4,4,4,12,🟢 Champions
+336,WaveGroup,Insurance,0,enterprise,99.0,36,2025-05-12 15:27:12,2027.0,2,7.0,8.0,325,1,1,4,6,🔴 High-Value Sleepers
+337,Nexus Digital,Retail,0,starter,15.83,41,2025-06-12 08:36:08,1795.8709677419354,5,30.0,5.0,294,1,3,2,6,🟠 At Risk
+338,JadeIO,Finance,1,enterprise,70.12,43,2025-10-29 14:53:09,2226.5555555555557,3,14.0,4.0,155,4,3,4,11,🟢 Champions
+339,DataHQ,Technology,0,starter,16.15,38,2025-07-20 01:18:52,1600.3529411764705,5,5.0,5.0,256,2,2,3,7,🔴 High-Value Sleepers
+340,OrbitLogic,Legal,0,free,0.0,56,2025-05-17 16:41:39,1625.2444444444445,7,2.0,8.0,320,1,4,1,6,🟠 At Risk
+341,VertexIO,Finance,0,starter,10.0,49,2025-07-01 17:09:50,2028.1875,3,6.0,2.0,275,2,4,2,8,🟠 At Risk
+342,Vertex Logic,Logistics,1,starter,10.0,31,2025-09-26 00:40:38,1788.9130434782608,3,4.0,6.0,188,3,1,2,6,🟡 New/Promising
+343,PeakDigital,Logistics,0,free,0.0,43,2025-02-12 04:04:52,2071.970588235294,5,33.0,8.0,414,1,3,1,5,🟠 At Risk
+344,PeakVentures,Marketing,0,free,0.0,39,2025-10-20 01:11:25,1767.6666666666667,8,1.0,8.0,164,4,2,1,7,🟡 New/Promising
+345,Zeal Software,Healthcare,0,professional,39.0,42,2024-12-14 08:21:08,1664.7714285714285,5,1.0,9.0,474,1,3,3,7,🟠 At Risk
+346,SageHub,Media,1,free,0.0,42,2025-07-09 15:08:42,2143.0,7,50.0,5.0,267,2,3,1,6,🟠 At Risk
+347,ArcPlatform,E-commerce,0,professional,39.0,40,2025-07-26 22:20:14,1858.3870967741937,4,53.0,,250,2,2,3,7,🔴 High-Value Sleepers
+348,Vine Logic,Legal,0,free,0.0,39,2025-01-10 05:42:32,1775.8620689655172,6,1.0,10.0,447,1,2,1,4,⚪ Dormant/Lost
+349,HiveDynamics,Legal,0,enterprise,99.0,40,2025-02-20 21:42:51,1984.6,6,5.0,8.0,406,1,2,4,7,🔴 High-Value Sleepers
+350,DriftSolutions,Real Estate,1,professional,39.0,47,2025-06-12 09:22:14,1889.3513513513512,6,4.0,0.0,294,1,4,3,8,🟠 At Risk
+351,LunaHQ,Legal,1,starter,10.0,25,2025-08-21 13:06:20,1551.5217391304348,4,3.0,6.0,224,3,1,2,6,🟡 New/Promising
+352,UnitDev,Finance,1,free,0.0,29,2024-12-10 20:05:45,1723.8181818181818,4,9.0,8.0,478,1,1,1,3,⚪ Dormant/Lost
+353,ArcCloud,Insurance,0,free,0.0,43,2025-08-17 03:35:48,2036.2777777777778,5,8.0,,228,2,3,1,6,🟠 At Risk
+354,Link Ops,Consulting,0,starter,19.0,46,2025-10-06 04:52:48,1898.0882352941176,2,7.0,8.0,178,4,4,3,11,🟢 Champions
+355,Cloud Ops,Real Estate,0,starter,19.0,42,2025-09-11 02:41:56,1795.1470588235295,6,47.0,9.0,203,3,3,3,9,🔵 Loyal Customers
+356,DriftPro,Telecommunications,0,professional,59.0,44,2025-07-08 06:48:48,1892.4285714285713,7,2.0,6.0,268,2,3,4,9,🟠 At Risk
+357,VertexDev,E-commerce,0,free,0.0,35,2025-04-14 09:49:19,1856.96,4,29.0,2.0,353,1,1,1,3,⚪ Dormant/Lost
+358,BeamGroup,Education,0,professional,39.0,40,2025-01-13 05:51:12,2002.9032258064517,9,10.0,9.0,444,1,2,3,6,🔴 High-Value Sleepers
+359,TrekCloud,Technology,0,starter,10.0,43,2025-06-22 23:06:52,1940.0263157894738,4,6.0,8.0,284,2,3,2,7,🟠 At Risk
+360,Sync Analytics,Insurance,0,enterprise,82.5,38,2025-08-24 02:06:59,1854.5555555555557,3,2.0,10.0,221,3,2,4,9,🟡 New/Promising
+361,MetaWorks,Telecommunications,0,professional,32.5,55,2025-10-10 02:45:29,1851.4634146341464,6,25.0,7.0,174,4,4,3,11,🟢 Champions
+362,Hive Cloud,Real Estate,0,starter,15.83,41,2025-06-29 06:19:30,1768.2666666666667,5,10.0,5.0,277,2,3,2,7,🟠 At Risk
+363,VertexLogic,Retail,0,starter,12.0,38,2025-06-25 02:43:23,2167.32,4,6.0,8.0,281,2,2,2,6,🟤 Need Attention
+364,LunaSystems,Technology,0,professional,39.0,33,2024-08-25 21:03:49,1728.9615384615386,4,31.0,0.0,585,1,1,3,5,🔴 High-Value Sleepers
+365,Grid Dev,Logistics,0,starter,10.0,41,2025-10-19 14:09:59,2158.939393939394,3,2.0,7.0,165,4,3,2,9,🔵 Loyal Customers
+366,VertexHQ,Healthcare,0,starter,12.0,30,2024-12-17 17:16:08,1865.6923076923076,6,8.0,6.0,471,1,1,2,4,⚪ Dormant/Lost
+367,Hub Labs,Real Estate,0,free,0.0,47,2025-10-19 23:36:28,1788.7073170731708,1,10.0,6.0,165,4,4,1,9,🔵 Loyal Customers
+368,NexusWorks,Technology,0,starter,19.0,43,2025-10-23 07:32:25,2127.137931034483,3,5.0,8.0,161,4,3,3,10,🟢 Champions
+369,MetaNet,Insurance,0,starter,12.0,49,2025-10-09 09:22:34,1746.516129032258,7,10.0,9.0,175,4,4,2,10,🟢 Champions
+370,Xenon Logic,Finance,1,starter,12.0,40,2025-07-05 16:12:51,1811.4166666666667,4,29.0,8.0,271,2,2,2,6,🟤 Need Attention
+371,ZealStudio,Finance,0,free,0.0,43,2024-11-28 09:35:01,1875.125,2,5.0,5.0,490,1,3,1,5,🟠 At Risk
+372,NexusPlatform,Consulting,0,professional,32.5,35,2025-10-18 09:16:43,1729.7096774193549,3,15.0,8.0,166,4,1,3,8,🟡 New/Promising
+373,VineNet,Consulting,0,enterprise,99.0,31,2024-10-17 22:50:49,1776.2608695652175,2,5.0,9.0,532,1,1,4,6,🔴 High-Value Sleepers
+374,UltraIO,Technology,1,free,0.0,44,2025-08-20 00:28:18,2354.1428571428573,3,1.0,7.0,225,3,3,1,7,🔵 Loyal Customers
+375,TidalVentures,Logistics,0,professional,44.25,42,2025-08-14 12:40:36,1647.9285714285713,4,4.0,7.0,231,2,3,3,8,🟠 At Risk
+376,XenonDynamics,Technology,0,free,0.0,40,2025-08-03 15:12:53,2159.266666666667,5,14.0,8.0,242,2,2,1,5,⚪ Dormant/Lost
+377,ZenLogic,E-commerce,0,starter,10.8,38,2025-09-25 08:44:07,1709.64,6,15.0,9.0,189,3,2,2,7,🟡 New/Promising
+378,Bolt Digital,Legal,0,professional,49.17,40,2025-03-12 22:12:33,1963.4666666666667,6,7.0,6.0,386,1,2,4,7,🔴 High-Value Sleepers
+379,BeamDynamics,Manufacturing,0,enterprise,84.15,37,2024-12-26 23:53:28,1933.9615384615386,3,6.0,9.0,461,1,2,4,7,🔴 High-Value Sleepers
+380,KeenIO,Healthcare,0,starter,19.0,51,2025-08-23 10:18:01,1636.1041666666667,7,14.0,7.0,222,3,4,3,10,🟢 Champions
+381,EchoStack,Logistics,0,free,0.0,41,2025-02-15 06:15:35,1834.8285714285714,3,6.0,8.0,411,1,3,1,5,🟠 At Risk
+382,Cloud Net,Telecommunications,1,professional,53.1,39,2025-10-19 11:00:09,1897.8,5,8.0,,165,4,2,4,10,🟢 Champions
+383,Glow Tech,Retail,0,starter,12.67,39,2025-07-17 04:34:26,1848.5277777777778,4,18.0,8.0,259,2,2,2,6,🟤 Need Attention
+384,QuestHQ,Finance,0,enterprise,165.83,35,2025-09-19 18:57:53,2084.4,6,6.0,2.0,195,3,1,4,8,🟡 New/Promising
+385,WarpCorp,E-commerce,0,enterprise,99.0,39,2025-08-23 09:54:24,1786.625,3,19.0,10.0,222,3,2,4,9,🟡 New/Promising
+386,EchoCloud,Insurance,1,starter,19.0,38,2025-07-03 23:59:28,2167.3225806451615,4,5.0,7.0,272,2,2,3,7,🔴 High-Value Sleepers
+387,GridDynamics,Retail,0,enterprise,99.0,33,2024-11-21 16:22:41,1818.8260869565217,3,10.0,3.0,497,1,1,4,6,🔴 High-Value Sleepers
+388,MetaDev,Legal,1,free,0.0,48,2025-07-11 05:12:05,1972.0,4,4.0,6.0,265,2,4,1,7,🟠 At Risk
+389,CloudLabs,Technology,1,free,0.0,53,2025-10-30 10:12:52,1957.5348837209303,8,4.0,6.0,154,4,4,1,9,🔵 Loyal Customers
+390,Sync HQ,Logistics,1,professional,32.5,46,2025-08-27 22:04:07,1615.65,7,2.0,,218,3,4,3,10,🟢 Champions
+391,QuarkSolutions,Consulting,0,professional,59.0,41,2025-08-18 00:10:34,1806.78125,6,1.0,8.0,227,2,3,4,9,🟠 At Risk
+392,Keen Pro,Education,1,professional,39.0,40,2025-10-12 15:30:24,1769.638888888889,5,51.0,7.0,172,4,2,3,9,🟡 New/Promising
+393,EchoCorp,Legal,0,free,0.0,34,2025-08-08 03:43:29,1904.7931034482758,3,47.0,8.0,237,2,1,1,4,⚪ Dormant/Lost
+394,DataStack,Logistics,0,professional,39.0,38,2025-06-02 01:42:47,1742.8333333333333,4,3.0,8.0,304,1,2,3,6,🔴 High-Value Sleepers
+395,TidalNet,Healthcare,1,enterprise,89.1,39,2025-06-16 19:02:34,1697.4117647058824,7,18.0,4.0,290,2,2,4,8,🔴 High-Value Sleepers
+396,Data Works,Insurance,0,professional,32.5,46,2025-04-29 14:40:13,1663.925,6,19.0,10.0,338,1,4,3,8,🟠 At Risk
+397,EdgeAI,Consulting,1,professional,32.5,32,2025-01-31 05:32:26,1676.2222222222222,3,8.0,5.0,426,1,1,3,5,🔴 High-Value Sleepers
+398,Meta Corp,Marketing,0,starter,10.0,37,2025-09-02 16:01:52,1839.0,2,25.0,,212,3,2,2,7,🟡 New/Promising
+399,LinkSolutions,Healthcare,0,free,0.0,39,2025-09-09 20:05:04,1864.6666666666667,5,6.0,9.0,205,3,2,1,6,🟡 New/Promising
+400,Flux Tech,Technology,0,professional,59.0,35,2025-08-23 06:37:45,1963.3703703703704,8,6.0,6.0,222,3,1,4,8,🟡 New/Promising
+401,Core Corp,E-commerce,0,starter,15.83,31,2025-10-28 08:51:07,1952.9130434782608,4,5.0,8.0,156,4,1,2,7,🟡 New/Promising
+402,MetaSystems,Healthcare,0,starter,15.83,33,2025-07-25 21:40:56,1599.7096774193549,3,9.0,8.0,251,2,1,2,5,⚪ Dormant/Lost
+403,RiftIO,Finance,0,professional,39.0,40,2025-10-19 03:54:59,1795.235294117647,5,30.0,9.0,165,4,2,3,9,🟡 New/Promising
+404,Bolt IO,Media,0,starter,10.0,38,2025-09-26 20:17:05,1962.909090909091,3,6.0,6.0,188,3,2,2,7,🟡 New/Promising
+405,GridPlatform,Retail,0,free,0.0,35,2025-10-06 08:22:41,1920.344827586207,4,3.0,9.0,178,4,1,1,6,🟡 New/Promising
+406,UnitSoftware,Education,0,professional,59.0,36,2025-06-28 14:25:58,1668.107142857143,3,2.0,10.0,278,2,1,4,7,🔴 High-Value Sleepers
+407,MistSolutions,Logistics,0,starter,17.1,38,2025-06-26 06:37:27,1626.5925925925926,4,15.0,4.0,280,2,2,3,7,🔴 High-Value Sleepers
+408,AcmePro,Retail,0,starter,19.0,48,2025-10-12 20:02:01,1650.4418604651162,8,5.0,9.0,172,4,4,3,11,🟢 Champions
+409,EchoPro,Technology,1,free,0.0,38,2025-10-29 21:09:05,2001.3333333333333,3,7.0,7.0,155,4,2,1,7,🟡 New/Promising
+410,NovaDigital,E-commerce,0,starter,9.0,41,2025-08-17 15:47:40,2092.5625,4,13.0,5.0,228,2,3,2,7,🟠 At Risk
+411,ZealDigital,Manufacturing,0,starter,19.0,34,2025-08-06 21:26:30,1790.6451612903227,3,5.0,1.0,239,2,1,3,6,🔴 High-Value Sleepers
+412,SageGroup,Insurance,0,professional,39.0,44,2025-05-07 13:43:15,1483.8974358974358,8,4.0,,330,1,3,3,7,🟠 At Risk
+413,YieldStudio,Technology,0,professional,59.0,28,2025-04-02 23:52:29,1470.7894736842106,5,3.0,8.0,364,1,1,4,6,🔴 High-Value Sleepers
+414,UltraStudio,Media,1,starter,10.0,36,2025-05-24 08:38:24,1619.090909090909,4,27.0,6.0,313,1,1,2,4,⚪ Dormant/Lost
+415,CoreGroup,Logistics,1,professional,39.0,38,2025-09-15 00:56:56,1590.6764705882354,6,9.0,5.0,199,3,2,3,8,🟡 New/Promising
+416,NovaDev,Technology,1,professional,32.5,41,2025-09-30 13:27:29,1756.1666666666667,5,6.0,8.0,184,3,3,3,9,🔵 Loyal Customers
+417,ArcVentures,Logistics,0,professional,39.0,41,2025-10-01 07:12:36,1947.6363636363637,9,57.0,10.0,183,3,3,3,9,🔵 Loyal Customers
+418,KiteGroup,Legal,1,starter,12.67,42,2025-09-18 20:10:41,1760.1944444444443,4,10.0,10.0,196,3,3,2,8,🔵 Loyal Customers
+419,JetStudio,Finance,0,free,0.0,47,2025-09-23 03:43:42,1828.1081081081081,5,4.0,7.0,191,3,4,1,8,🔵 Loyal Customers
+420,Sync Hub,Real Estate,0,free,0.0,48,2025-10-02 21:58:21,1723.675,8,12.0,9.0,182,4,4,1,9,🔵 Loyal Customers
+421,TidalLabs,Retail,0,starter,19.0,32,2025-05-25 07:40:27,1699.8461538461538,2,4.0,9.0,312,1,1,3,5,🔴 High-Value Sleepers
+422,BoltTech,Consulting,1,free,0.0,40,2025-10-14 02:17:57,1833.090909090909,8,12.0,10.0,170,4,2,1,7,🟡 New/Promising
+423,SyncStudio,Consulting,1,enterprise,165.83,48,2025-07-26 12:47:37,1755.5675675675675,5,35.0,4.0,250,2,4,4,10,🟢 Champions
+424,IonVentures,Finance,1,professional,44.25,38,2025-09-13 00:18:02,1615.3548387096773,4,3.0,10.0,201,3,2,3,8,🟡 New/Promising
+425,MetaSolutions,Education,0,enterprise,99.0,45,2025-08-06 21:31:51,1896.4848484848485,5,15.0,9.0,239,2,3,4,9,🟠 At Risk
+426,TidalStack,Consulting,0,starter,10.0,32,2025-03-11 07:39:45,2011.2083333333333,2,4.0,7.0,387,1,1,2,4,⚪ Dormant/Lost
+427,EchoVentures,Education,1,starter,15.83,45,2025-10-25 16:56:10,1654.923076923077,6,17.0,7.0,159,4,3,2,9,🔵 Loyal Customers
+428,Xenon Corp,Logistics,1,enterprise,82.5,50,2025-07-09 17:22:13,1981.8974358974358,6,5.0,5.0,267,2,4,4,10,🟢 Champions
+429,UltraOps,Education,0,starter,10.0,38,2025-07-08 07:56:42,2103.5185185185187,3,21.0,7.0,268,2,2,2,6,🟤 Need Attention
+430,Jet Dev,E-commerce,0,starter,12.0,39,2025-10-09 06:03:24,1813.142857142857,5,54.0,3.0,175,4,2,2,8,🟡 New/Promising
+431,ArcHQ,Healthcare,0,starter,15.83,37,2025-02-05 13:06:16,1675.78125,5,32.0,0.0,421,1,2,2,5,⚪ Dormant/Lost
+432,Hub Platform,Finance,0,starter,9.0,41,2025-08-19 14:59:19,1825.8333333333333,4,20.0,7.0,226,2,3,2,7,🟠 At Risk
+433,BoltHub,Manufacturing,0,professional,59.0,41,2025-09-25 15:27:08,1951.0882352941176,3,2.0,9.0,189,3,3,4,10,🟢 Champions
+434,Meta Solutions,Logistics,0,enterprise,82.5,39,2025-07-09 19:18:14,1586.9666666666667,4,1.0,8.0,267,2,2,4,8,🔴 High-Value Sleepers
+435,Link Hub,Technology,1,starter,19.0,45,2024-07-29 21:33:51,1632.8823529411766,6,7.0,5.0,612,1,3,3,7,🟠 At Risk
+436,CoreOps,Finance,1,free,0.0,49,2025-10-21 20:54:14,1816.075,6,18.0,8.0,163,4,4,1,9,🔵 Loyal Customers
+437,Ultra IO,Healthcare,0,free,0.0,35,2025-10-19 10:00:28,1607.5666666666666,5,10.0,5.0,165,4,1,1,6,🟡 New/Promising
+438,EdgeIO,Marketing,1,starter,9.0,32,2025-01-20 02:09:57,1680.2608695652175,3,2.0,8.0,437,1,1,2,4,⚪ Dormant/Lost
+439,Meta Works,E-commerce,0,professional,39.0,33,2024-07-05 00:08:24,1516.2307692307693,7,10.0,,636,1,1,3,5,🔴 High-Value Sleepers
+440,WaveIO,Manufacturing,0,enterprise,199.0,37,2025-10-25 15:07:16,1742.8333333333333,3,3.0,8.0,159,4,2,4,10,🟢 Champions
+441,LunaLogic,Marketing,0,free,0.0,40,2025-07-14 02:09:03,1722.3103448275863,4,3.0,8.0,262,2,2,1,5,⚪ Dormant/Lost
+442,Warp AI,Manufacturing,0,professional,39.0,47,2025-10-15 07:05:47,2003.6666666666667,4,5.0,8.0,169,4,4,3,11,🟢 Champions
+443,Trek Logic,Consulting,0,starter,8.5,35,2023-12-05 16:16:58,1995.1666666666667,5,52.0,6.0,849,1,1,1,3,⚪ Dormant/Lost
+444,NexusOps,Education,1,free,0.0,34,2025-05-16 14:29:05,1858.5333333333333,2,2.0,6.0,321,1,1,1,3,⚪ Dormant/Lost
+445,Pulse Platform,E-commerce,1,enterprise,199.0,28,2025-10-24 10:57:55,2066.2,6,13.0,7.0,160,4,1,4,9,🟡 New/Promising
+446,RushLabs,Real Estate,0,free,0.0,49,2025-06-06 12:48:42,1870.162162162162,4,5.0,8.0,300,1,4,1,6,🟠 At Risk
+447,Beam Software,Consulting,0,starter,12.0,50,2024-11-16 01:18:35,1756.2162162162163,5,30.0,0.0,502,1,4,2,7,🟠 At Risk
+448,Vertex Analytics,Healthcare,0,starter,10.0,37,2025-07-09 00:05:00,1852.2758620689656,5,11.0,10.0,267,2,2,2,6,🟤 Need Attention
+449,QuarkGroup,Logistics,0,free,0.0,42,2025-05-18 20:00:08,2038.8387096774193,6,34.0,3.0,319,1,3,1,5,🟠 At Risk
+450,RushStack,Real Estate,1,starter,8.5,37,2025-08-13 18:50:20,1916.21875,3,51.0,6.0,232,2,2,1,5,⚪ Dormant/Lost
+451,Arc Analytics,Retail,1,free,0.0,40,2025-10-27 10:56:40,2197.1612903225805,6,2.0,5.0,157,4,2,1,7,🟡 New/Promising
+452,Rush Digital,Technology,0,free,0.0,31,2025-09-11 00:11:40,2184.16,6,4.0,6.0,203,3,1,1,5,🟡 New/Promising
+453,ArcStudio,Telecommunications,1,professional,59.0,39,2025-08-28 03:55:27,1884.03125,4,3.0,7.0,217,3,2,4,9,🟡 New/Promising
+454,MistSystems,Marketing,1,free,0.0,31,2025-10-22 18:18:32,1663.5555555555557,9,4.0,9.0,162,4,1,1,6,🟡 New/Promising
+455,HubWorks,Consulting,0,professional,32.5,50,2025-09-22 17:05:12,1618.9736842105262,4,23.0,9.0,192,3,4,3,10,🟢 Champions
+456,VineOps,Technology,1,free,0.0,45,2025-08-27 09:11:23,1609.7941176470588,2,21.0,5.0,218,3,3,1,7,🔵 Loyal Customers
+457,Warp Platform,Education,0,free,0.0,41,2025-10-24 06:32:33,1713.8857142857144,4,4.0,,160,4,3,1,8,🔵 Loyal Customers
+458,VertexNet,Telecommunications,0,starter,12.0,40,2025-07-17 00:06:23,1854.4285714285713,5,44.0,8.0,259,2,2,2,6,🟤 Need Attention
+459,SageLabs,Logistics,0,enterprise,82.5,32,2025-07-06 00:37:07,1566.7272727272727,2,20.0,10.0,270,2,1,4,7,🔴 High-Value Sleepers
+460,MistOps,Marketing,0,professional,32.5,41,2025-10-20 11:23:42,1780.4117647058824,4,5.0,3.0,164,4,3,3,10,🟢 Champions
+461,Bolt Dynamics,Logistics,0,professional,59.0,43,2025-04-22 05:59:31,1720.121212121212,5,8.0,9.0,345,1,3,4,8,🟠 At Risk
+462,Trek Dev,Manufacturing,0,starter,15.83,44,2025-08-23 03:50:05,1650.6315789473683,5,56.0,5.0,222,3,3,2,8,🔵 Loyal Customers
+463,IonCorp,Real Estate,0,starter,10.0,50,2025-10-01 07:59:42,1821.860465116279,8,3.0,7.0,183,3,4,2,9,🔵 Loyal Customers
+464,Ion Works,Legal,0,professional,39.0,41,2025-07-07 02:31:35,1893.28125,6,10.0,4.0,269,2,3,3,8,🟠 At Risk
+465,MistNet,Technology,0,enterprise,99.0,31,2024-04-13 19:19:28,1690.3478260869565,3,5.0,1.0,719,1,1,4,6,🔴 High-Value Sleepers
+466,Ultra Net,Media,0,starter,19.0,42,2025-10-04 22:31:15,1196.2333333333333,5,6.0,4.0,180,4,3,3,10,🟢 Champions
+467,NexusHub,Media,0,starter,12.0,44,2025-07-07 20:59:24,2024.9310344827586,4,4.0,7.0,269,2,3,2,7,🟠 At Risk
+468,Drift Corp,Healthcare,0,professional,39.0,37,2025-07-24 06:06:03,1704.3103448275863,6,3.0,6.0,252,2,2,3,7,🔴 High-Value Sleepers
+469,SyncSolutions,Legal,1,professional,49.17,49,2025-09-30 15:32:10,1904.4054054054054,6,8.0,7.0,184,3,4,4,11,🟢 Champions
+470,Rift Systems,Manufacturing,0,free,0.0,36,2025-10-08 04:35:06,1808.21875,4,5.0,10.0,176,4,1,1,6,🟡 New/Promising
+471,CloudStack,Consulting,0,starter,12.0,38,2025-07-14 22:14:18,1828.7666666666667,3,2.0,5.0,262,2,2,2,6,🟤 Need Attention
+472,Pulse Hub,Retail,0,professional,26.0,31,2025-08-13 15:49:16,2014.75,6,13.0,4.0,232,2,1,3,6,🔴 High-Value Sleepers
+473,VineCloud,Real Estate,0,starter,19.0,47,2025-07-29 00:17:39,1568.878048780488,6,2.0,7.0,247,2,4,3,9,🟠 At Risk
+474,Onyx Corp,Healthcare,0,starter,10.0,34,2025-05-29 01:07:29,1834.88,2,4.0,10.0,308,1,1,2,4,⚪ Dormant/Lost
+475,IonOps,Retail,0,professional,49.17,46,2025-10-29 02:57:16,2040.3055555555557,9,2.0,4.0,155,4,4,4,12,🟢 Champions
+476,WaveAnalytics,Insurance,1,starter,12.0,34,2024-09-15 21:12:34,1514.1724137931035,4,9.0,8.0,564,1,1,2,4,⚪ Dormant/Lost
+477,Vine Group,Education,0,starter,12.0,44,2025-05-07 01:32:36,1797.0625,9,21.0,9.0,330,1,3,2,6,🟠 At Risk
+478,TidalGroup,Real Estate,1,starter,12.0,44,2025-09-09 11:45:48,1676.2058823529412,3,3.0,7.0,205,3,3,2,8,🔵 Loyal Customers
+479,NovaIO,Logistics,1,enterprise,199.0,45,2025-05-16 03:44:44,2162.5,5,5.0,7.0,321,1,3,4,8,🟠 At Risk
+480,Zen AI,Marketing,0,enterprise,99.0,52,2025-10-25 18:06:26,1567.2682926829268,10,4.0,3.0,159,4,4,4,12,🟢 Champions
+481,FluxLogic,Real Estate,0,enterprise,99.0,33,2024-11-17 05:04:41,1506.2758620689656,3,24.0,10.0,501,1,1,4,6,🔴 High-Value Sleepers
+482,EchoSystems,Logistics,0,professional,39.0,54,2025-09-21 08:06:30,1913.642857142857,6,4.0,,193,3,4,3,10,🟢 Champions
+483,IonCloud,Manufacturing,0,professional,59.0,34,2025-10-02 20:43:18,1656.5,4,3.0,0.0,182,4,1,4,9,🟡 New/Promising
+484,GridCorp,Consulting,0,starter,15.83,34,2025-06-26 15:23:27,2097.75,3,6.0,6.0,280,2,1,2,5,⚪ Dormant/Lost
+485,EdgeWorks,Real Estate,0,professional,49.17,45,2025-10-26 06:27:45,1431.6666666666667,2,2.0,8.0,158,4,3,4,11,🟢 Champions
+486,TrekAI,Consulting,0,enterprise,99.0,38,2025-08-15 21:20:17,1739.076923076923,4,28.0,9.0,230,2,2,4,8,🔴 High-Value Sleepers
+487,Hub Software,Telecommunications,1,starter,15.83,33,2025-10-15 03:24:10,1958.0384615384614,4,3.0,9.0,169,4,1,2,7,🟡 New/Promising
+488,MetaHQ,Insurance,0,free,0.0,33,2025-06-27 01:29:52,1946.7142857142858,5,40.0,9.0,279,2,1,1,4,⚪ Dormant/Lost
+489,Warp Hub,Media,0,free,0.0,41,2025-09-14 12:30:57,1847.3235294117646,4,3.0,8.0,200,3,3,1,7,🔵 Loyal Customers
+490,ZealLabs,Media,1,enterprise,199.0,48,2025-09-04 19:08:55,2121.2631578947367,4,3.0,5.0,210,3,4,4,11,🟢 Champions
+491,ArcLogic,Legal,0,free,0.0,38,2025-09-21 20:26:36,1911.1,1,4.0,6.0,193,3,2,1,6,🟡 New/Promising
+492,NexusGroup,Legal,0,starter,10.8,37,2024-07-28 06:24:45,2056.6428571428573,5,2.0,9.0,613,1,2,2,5,⚪ Dormant/Lost
+493,Flow Dev,Media,0,professional,39.0,34,2025-04-28 20:59:51,2067.3928571428573,4,1.0,8.0,339,1,1,3,5,🔴 High-Value Sleepers
+494,UnitAI,Education,0,free,0.0,42,2025-08-30 06:33:15,1644.7931034482758,3,19.0,8.0,215,3,3,1,7,🔵 Loyal Customers
+495,Trek Ventures,Logistics,0,professional,39.0,45,2025-04-06 08:20:20,1931.0857142857142,5,6.0,8.0,361,1,3,3,7,🟠 At Risk
+496,Beam Digital,Consulting,0,starter,19.0,49,2025-10-08 15:51:03,1843.25,6,5.0,10.0,176,4,4,3,11,🟢 Champions
+497,HiveSystems,Consulting,1,free,0.0,46,2025-04-29 08:00:16,1987.7027027027027,7,12.0,5.0,338,1,4,1,6,🟠 At Risk
+498,XenonCloud,Education,0,professional,39.0,45,2025-08-30 01:07:48,1976.0,5,6.0,,215,3,3,3,9,🔵 Loyal Customers
+499,AcmeSystems,Healthcare,0,starter,12.0,45,2025-09-04 03:06:08,1895.969696969697,3,49.0,7.0,210,3,3,2,8,🔵 Loyal Customers
+500,WarpDigital,Consulting,0,professional,49.17,44,2025-07-24 00:21:10,1573.5263157894738,3,50.0,2.0,252,2,3,4,9,🟠 At Risk
+501,Flow Solutions,Legal,1,free,0.0,33,2025-10-29 04:33:29,1819.1,4,1.0,10.0,155,4,1,1,6,🟡 New/Promising
+502,WarpIO,Technology,0,free,0.0,37,2025-09-29 12:23:18,1673.1333333333334,5,6.0,6.0,185,3,2,1,6,🟡 New/Promising
+503,Bolt Works,Manufacturing,1,professional,39.0,44,2025-03-31 13:11:24,1626.774193548387,3,5.0,8.0,367,1,3,3,7,🟠 At Risk
+504,Nexus Works,Finance,0,enterprise,89.1,36,2025-05-09 03:19:57,1464.896551724138,8,1.0,9.0,328,1,1,4,6,🔴 High-Value Sleepers
+505,Mist Ventures,E-commerce,0,free,0.0,37,2025-06-07 20:58:04,1958.032258064516,7,14.0,8.0,299,1,2,1,4,⚪ Dormant/Lost
+506,BoltAnalytics,Real Estate,1,starter,12.0,37,2025-06-15 18:15:37,1564.4642857142858,3,15.0,7.0,291,2,2,2,6,🟤 Need Attention
+507,IrisSolutions,Media,1,starter,14.25,43,2025-10-03 13:43:16,1724.2564102564102,7,13.0,1.0,181,4,3,2,9,🔵 Loyal Customers
+508,Glow Cloud,Technology,0,professional,50.15,35,2025-10-23 18:14:22,1766.6296296296296,8,1.0,9.0,161,4,1,4,9,🟡 New/Promising
+509,WarpNet,E-commerce,0,professional,59.0,45,2025-06-20 03:05:26,1812.4166666666667,7,22.0,4.0,286,2,3,4,9,🟠 At Risk
+510,RiftSolutions,Telecommunications,0,starter,10.0,45,2025-02-11 19:51:43,1834.2631578947369,5,29.0,8.0,415,1,3,2,6,🟠 At Risk
+511,WaveLogic,Marketing,1,free,0.0,48,2025-06-17 05:02:19,1737.6666666666667,5,5.0,7.0,289,2,4,1,7,🟠 At Risk
+512,RiftNet,Healthcare,0,starter,8.5,47,2025-08-11 12:21:07,1818.6216216216217,5,41.0,10.0,234,2,4,2,8,🟠 At Risk
+513,AcmeSoftware,Logistics,0,free,0.0,39,2025-08-19 04:54:32,1685.7666666666667,4,10.0,8.0,226,2,2,1,5,⚪ Dormant/Lost
+514,Edge Digital,Education,0,professional,39.0,36,2025-09-19 07:02:15,2084.6428571428573,5,15.0,6.0,195,3,1,3,7,🟡 New/Promising
+515,AcmeCorp,Logistics,0,professional,32.5,32,2025-07-10 06:04:29,1749.7826086956522,5,2.0,9.0,266,2,1,3,6,🔴 High-Value Sleepers
+516,DataAnalytics,Media,0,professional,41.79,34,2025-08-10 04:16:46,2033.8846153846155,4,13.0,7.0,235,2,1,3,6,🔴 High-Value Sleepers
+517,Tidal Tech,Logistics,1,enterprise,99.0,45,2025-06-17 01:52:34,1807.7297297297298,6,13.0,8.0,289,2,3,4,9,🟠 At Risk
+518,HivePlatform,Insurance,0,starter,19.0,46,2025-10-29 04:43:45,1833.5757575757575,4,10.0,6.0,155,4,4,3,11,🟢 Champions
+519,IonAI,Consulting,0,starter,12.0,40,2025-08-17 10:26:27,1868.28125,2,6.0,6.0,228,2,2,2,6,🟤 Need Attention
+520,OrbitGroup,Real Estate,0,professional,32.5,45,2025-05-18 07:13:49,1871.2777777777778,3,4.0,6.0,319,1,3,3,7,🟠 At Risk
+521,HiveWorks,Healthcare,0,starter,10.0,54,2025-09-22 18:27:51,1885.8809523809523,4,4.0,,192,3,4,2,9,🔵 Loyal Customers
+522,GlowStack,Education,1,professional,35.1,37,2025-10-15 10:14:07,1908.909090909091,5,15.0,8.0,169,4,2,3,9,🟡 New/Promising
+523,PulseDev,Media,1,starter,12.0,35,2025-10-12 05:22:46,1767.6296296296296,4,56.0,,172,4,1,2,7,🟡 New/Promising
+524,LinkVentures,Real Estate,1,free,0.0,52,2025-10-23 12:52:43,1965.5714285714287,6,6.0,3.0,161,4,4,1,9,🔵 Loyal Customers
+525,VertexPro,Manufacturing,1,enterprise,82.5,41,2025-10-10 01:31:14,2290.2258064516127,6,1.0,8.0,174,4,3,4,11,🟢 Champions
+526,Quark Pro,Finance,0,free,0.0,46,2025-05-04 15:32:13,1797.969696969697,6,6.0,8.0,333,1,4,1,6,🟠 At Risk
+527,VertexSoftware,E-commerce,0,professional,49.17,35,2025-10-15 00:54:18,2055.185185185185,5,1.0,7.0,169,4,1,4,9,🟡 New/Promising
+528,MetaSoftware,Legal,1,free,0.0,44,2025-02-27 13:00:12,1724.1081081081081,6,2.0,5.0,399,1,3,1,5,🟠 At Risk
+529,IonDev,Telecommunications,0,starter,10.0,52,2025-10-30 07:43:51,2098.279069767442,5,6.0,3.0,154,4,4,2,10,🟢 Champions
+530,FluxDev,Marketing,0,starter,9.0,34,2025-08-16 13:25:16,2146.25,4,14.0,10.0,229,2,1,2,5,⚪ Dormant/Lost
+531,NovaPlatform,Consulting,0,free,0.0,37,2025-06-24 17:43:38,1709.5,3,33.0,,282,2,2,1,5,⚪ Dormant/Lost
+532,SyncHQ,E-commerce,0,starter,10.0,36,2025-07-30 22:54:15,1607.0384615384614,3,13.0,9.0,246,2,1,2,5,⚪ Dormant/Lost
+533,Edge Studio,Telecommunications,1,starter,8.0,28,2024-03-29 22:23:21,1678.7083333333333,3,1.0,9.0,734,1,1,1,3,⚪ Dormant/Lost
+534,QuarkCloud,Insurance,0,professional,59.0,51,2025-10-29 07:04:42,1715.904761904762,6,25.0,4.0,155,4,4,4,12,🟢 Champions
+535,ZenVentures,Technology,0,professional,49.17,48,2025-08-29 10:43:29,1761.9,6,5.0,,216,3,4,4,11,🟢 Champions
+536,UnitHQ,Healthcare,1,enterprise,99.0,42,2025-10-18 15:32:56,2104.28125,6,1.0,7.0,166,4,3,4,11,🟢 Champions
+537,VineLabs,Logistics,0,starter,12.0,47,2025-10-30 09:51:49,1645.5555555555557,4,36.0,10.0,154,4,4,2,10,🟢 Champions
+538,IonDigital,Marketing,0,professional,39.0,50,2025-10-02 11:40:26,1811.0,6,9.0,9.0,182,4,4,3,11,🟢 Champions
+539,GridWorks,Consulting,0,enterprise,82.5,35,2025-03-21 07:50:50,1914.2592592592594,6,30.0,6.0,377,1,1,4,6,🔴 High-Value Sleepers
+540,Quest Dev,Healthcare,1,free,0.0,33,2025-06-21 03:19:22,1921.3461538461538,3,14.0,,285,2,1,1,4,⚪ Dormant/Lost
+541,TidalCorp,Logistics,0,enterprise,199.0,39,2025-08-18 03:45:37,2137.3529411764707,4,3.0,,227,2,2,4,8,🔴 High-Value Sleepers
+542,ZenGroup,Media,0,free,0.0,38,2025-10-27 23:45:39,1702.5714285714287,5,5.0,7.0,156,4,2,1,7,🟡 New/Promising
+543,Nexus Pro,Manufacturing,1,professional,49.17,43,2025-10-03 17:16:29,1677.0,5,11.0,3.0,181,4,3,4,11,🟢 Champions
+544,SagePro,E-commerce,0,enterprise,89.1,49,2025-08-29 11:01:07,1868.1714285714286,7,9.0,10.0,216,3,4,4,11,🟢 Champions
+545,Sage Ops,Legal,0,enterprise,99.0,48,2025-08-26 10:34:50,1626.4545454545455,6,14.0,0.0,219,3,4,4,11,🟢 Champions
+546,Jade Ops,E-commerce,1,enterprise,82.5,44,2025-09-03 07:20:26,1991.764705882353,5,29.0,9.0,211,3,3,4,10,🟢 Champions
+547,Trek AI,Telecommunications,0,professional,39.0,40,2025-03-02 13:42:09,1955.9411764705883,7,8.0,10.0,396,1,2,3,6,🔴 High-Value Sleepers
+548,Zeal Logic,Insurance,0,starter,15.83,39,2025-09-08 03:13:40,1878.2413793103449,5,5.0,4.0,206,3,2,2,7,🟡 New/Promising
+549,QuestSolutions,Technology,0,professional,32.5,41,2025-07-28 20:51:12,2008.057142857143,7,7.0,7.0,248,2,3,3,8,🟠 At Risk
+550,Ultra Solutions,Technology,0,starter,12.0,54,2025-08-15 03:43:24,1674.0196078431372,7,7.0,6.0,230,2,4,2,8,🟠 At Risk
+551,FluxSystems,Insurance,0,starter,15.83,36,2025-04-29 05:17:30,1775.3333333333333,4,46.0,8.0,338,1,1,2,4,⚪ Dormant/Lost
+552,Bolt Group,Telecommunications,0,starter,10.0,33,2025-10-01 21:12:48,1512.0869565217392,2,11.0,7.0,183,3,1,2,6,🟡 New/Promising
+553,TidalPlatform,Insurance,0,starter,12.0,39,2025-08-19 20:22:03,1926.892857142857,4,4.0,7.0,226,2,2,2,6,🟤 Need Attention
+554,Ultra Stack,Insurance,0,professional,44.25,51,2025-06-27 09:30:45,1873.5777777777778,8,47.0,8.0,279,2,4,3,9,🟠 At Risk
+555,QuestPlatform,Legal,1,enterprise,74.25,50,2025-09-29 21:17:42,1936.5277777777778,4,30.0,6.0,185,3,4,4,11,🟢 Champions
+556,Link Dynamics,Retail,0,starter,19.0,31,2025-10-12 10:03:53,1586.76,2,25.0,10.0,172,4,1,3,8,🟡 New/Promising
+557,KeenHQ,E-commerce,0,free,0.0,39,2025-10-24 19:41:34,1980.21875,4,1.0,7.0,160,4,2,1,7,🟡 New/Promising
+558,FlowHub,Education,0,professional,29.25,46,2025-07-26 03:25:40,1891.0555555555557,5,11.0,2.0,250,2,4,3,9,🟠 At Risk
+559,VertexDigital,E-commerce,0,professional,59.0,41,2025-08-23 02:01:21,1886.6129032258063,6,2.0,8.0,222,3,3,4,10,🟢 Champions
+560,FluxCloud,Real Estate,0,starter,15.83,32,2025-09-21 04:33:38,1263.7692307692307,3,2.0,8.0,193,3,1,2,6,🟡 New/Promising
+561,GlowNet,Legal,0,starter,12.0,41,2025-10-02 16:04:03,1757.34375,7,4.0,7.0,182,4,3,2,9,🔵 Loyal Customers
+562,SageOps,Education,1,starter,9.0,39,2025-10-13 04:52:28,1554.0,2,7.0,,171,4,2,2,8,🟡 New/Promising
+563,HiveSoftware,Finance,0,starter,10.0,37,2025-10-19 16:12:45,1984.96,3,36.0,,165,4,2,2,8,🟡 New/Promising
+564,GridStack,Insurance,0,professional,49.17,38,2025-07-30 12:25:57,2032.1333333333334,5,1.0,5.0,246,2,2,4,8,🔴 High-Value Sleepers
+565,Xenon Solutions,Legal,0,starter,10.0,33,2025-06-09 03:21:38,1329.16,3,1.0,2.0,297,1,1,2,4,⚪ Dormant/Lost
+566,QuarkCorp,Telecommunications,0,professional,39.0,32,2025-06-27 21:47:55,1915.88,5,6.0,9.0,279,2,1,3,6,🔴 High-Value Sleepers
+567,Acme Ops,Real Estate,0,starter,19.0,32,2025-07-28 21:14:10,2008.5,4,29.0,8.0,248,2,1,3,6,🔴 High-Value Sleepers
+568,VertexWorks,Marketing,0,free,0.0,39,2025-08-06 16:15:00,1739.1923076923076,2,28.0,9.0,239,2,2,1,5,⚪ Dormant/Lost
+569,Hive Analytics,Legal,1,starter,10.2,34,2025-08-30 01:12:02,1693.7666666666667,3,39.0,6.0,215,3,1,2,6,🟡 New/Promising
+570,VineWorks,E-commerce,0,professional,32.5,51,2025-09-14 06:13:51,1955.325,6,4.0,7.0,200,3,4,3,10,🟢 Champions
+571,Meta Net,Finance,0,professional,27.62,32,2025-09-18 19:03:40,1592.5333333333333,5,33.0,8.0,196,3,1,3,7,🟡 New/Promising
+572,KiteHQ,Consulting,1,enterprise,74.25,35,2025-09-23 07:14:15,2159.21875,6,14.0,6.0,191,3,1,4,8,🟡 New/Promising
+573,UnitAnalytics,Telecommunications,0,professional,49.17,47,2025-08-25 08:44:57,1943.1,5,22.0,7.0,220,3,4,4,11,🟢 Champions
+574,PeakWorks,Legal,0,free,0.0,37,2025-08-04 21:07:54,1556.774193548387,6,29.0,6.0,241,2,2,1,5,⚪ Dormant/Lost
+575,VineVentures,Legal,1,enterprise,82.5,37,2025-09-23 02:55:06,1926.030303030303,3,6.0,10.0,191,3,2,4,9,🟡 New/Promising
+576,UltraHub,Logistics,0,professional,32.5,45,2025-10-13 08:44:07,1608.179487179487,8,55.0,5.0,171,4,3,3,10,🟢 Champions
+577,FluxOps,Real Estate,0,enterprise,165.83,41,2025-10-25 16:08:43,1916.388888888889,2,6.0,2.0,159,4,3,4,11,🟢 Champions
+578,TrekVentures,Retail,0,starter,10.0,42,2025-10-27 22:41:58,2087.7714285714287,5,4.0,7.0,157,4,3,2,9,🔵 Loyal Customers
+579,Zeal Solutions,Retail,0,professional,32.5,41,2025-08-27 02:13:03,1816.1764705882354,8,15.0,7.0,218,3,3,3,9,🔵 Loyal Customers
+580,WarpLogic,Media,0,enterprise,82.5,42,2025-08-16 23:42:14,1767.2666666666667,6,17.0,,229,2,3,4,9,🟠 At Risk
+581,Sage IO,Education,0,free,0.0,39,2025-03-11 12:29:29,2053.96,5,3.0,6.0,387,1,2,1,4,⚪ Dormant/Lost
+582,YieldCorp,Finance,0,free,0.0,47,2025-06-06 16:00:08,1833.6511627906978,7,4.0,7.0,300,1,4,1,6,🟠 At Risk
+583,Flux Cloud,Legal,0,free,0.0,40,2025-09-28 19:19:07,1733.4642857142858,4,10.0,,186,3,2,1,6,🟡 New/Promising
+584,Flow Systems,Consulting,0,professional,32.5,48,2025-04-13 06:34:20,1928.4054054054054,8,13.0,5.0,354,1,4,3,8,🟠 At Risk
+585,YieldIO,Legal,0,starter,10.0,48,2025-10-08 10:25:04,1641.4736842105262,4,4.0,10.0,176,4,4,2,10,🟢 Champions
+586,EdgeDev,Media,0,professional,39.0,50,2025-05-27 05:06:41,1715.9736842105262,4,19.0,10.0,310,1,4,3,8,🟠 At Risk
+587,Nova Stack,Finance,0,professional,39.0,33,2025-07-17 04:30:08,1781.6896551724137,2,6.0,6.0,259,2,1,3,6,🔴 High-Value Sleepers
+588,QuestDynamics,Real Estate,0,enterprise,82.5,56,2025-06-17 10:25:07,1717.3333333333333,6,9.0,6.0,289,2,4,4,10,🟢 Champions
+589,Tidal Software,Finance,0,professional,49.17,38,2025-08-17 18:02:19,1951.5294117647059,4,8.0,9.0,228,2,2,4,8,🔴 High-Value Sleepers
+590,DriftTech,Logistics,0,starter,15.83,44,2025-07-13 03:12:03,2045.057142857143,5,4.0,5.0,263,2,3,2,7,🟠 At Risk
+591,ArcDigital,Insurance,0,starter,10.0,43,2025-07-07 12:01:11,1721.3529411764705,7,14.0,,269,2,3,2,7,🟠 At Risk
+592,HubSolutions,Telecommunications,0,free,0.0,45,2025-10-09 15:30:51,1800.1025641025642,7,4.0,5.0,175,4,3,1,8,🔵 Loyal Customers
+593,Vine Ops,Insurance,1,free,0.0,41,2025-10-11 16:53:27,1805.9117647058824,5,4.0,10.0,173,4,3,1,8,🔵 Loyal Customers
+594,UnitStack,Legal,0,enterprise,74.25,37,2025-09-02 12:21:33,1704.3870967741937,4,60.0,10.0,212,3,2,4,9,🟡 New/Promising
+595,FlowSolutions,Healthcare,0,free,0.0,50,2025-10-07 15:15:49,1465.15,4,10.0,8.0,177,4,4,1,9,🔵 Loyal Customers
+596,SageDynamics,E-commerce,0,free,0.0,43,2025-05-13 16:21:33,2087.1612903225805,4,15.0,7.0,324,1,3,1,5,🟠 At Risk
+597,LunaTech,Finance,0,professional,49.17,46,2025-08-24 10:24:07,1707.923076923077,2,4.0,8.0,221,3,4,4,11,🟢 Champions
+598,SyncCloud,Education,0,enterprise,99.0,47,2025-01-21 13:11:11,2034.9736842105262,7,5.0,9.0,436,1,4,4,9,🟠 At Risk
+599,DriftGroup,Technology,1,professional,39.0,29,2025-10-11 00:55:47,2114.25,4,1.0,6.0,173,4,1,3,8,🟡 New/Promising
+600,HiveDev,Manufacturing,0,starter,10.0,43,2025-10-04 23:12:51,1691.7941176470588,5,4.0,5.0,180,4,3,2,9,🔵 Loyal Customers
+601,GridHQ,Consulting,1,free,0.0,34,2025-07-20 17:46:26,1402.3333333333333,4,4.0,0.0,256,2,1,1,4,⚪ Dormant/Lost
+602,Echo Ops,Education,0,starter,10.0,35,2025-07-17 16:31:18,1643.6,8,5.0,8.0,259,2,1,2,5,⚪ Dormant/Lost
+603,IonSystems,Insurance,0,starter,10.0,47,2025-09-11 19:19:56,1763.972972972973,6,6.0,7.0,203,3,4,2,9,🔵 Loyal Customers
+604,Jet Pro,Media,1,enterprise,99.0,37,2025-08-29 18:48:45,2001.3030303030303,5,6.0,7.0,216,3,2,4,9,🟡 New/Promising
+605,BeamLabs,Healthcare,0,free,0.0,37,2025-10-23 02:15:46,1841.5,6,23.0,6.0,161,4,2,1,7,🟡 New/Promising
+606,HubAnalytics,Marketing,0,professional,59.0,40,2025-02-09 08:33:10,1720.5588235294117,7,18.0,10.0,417,1,2,4,7,🔴 High-Value Sleepers
+607,Flux Studio,Marketing,0,starter,12.0,49,2025-10-27 06:56:33,1591.1842105263158,5,4.0,9.0,157,4,4,2,10,🟢 Champions
+608,Link Logic,Healthcare,0,free,0.0,35,2025-09-14 08:48:49,1522.84,4,6.0,8.0,200,3,1,1,5,🟡 New/Promising
+609,TidalPro,Insurance,0,free,0.0,49,2025-09-13 22:15:51,1472.0,4,6.0,9.0,201,3,4,1,8,🔵 Loyal Customers
+610,Arc Dev,Telecommunications,1,enterprise,99.0,43,2025-07-13 03:48:50,1653.5263157894738,4,7.0,2.0,263,2,3,4,9,🟠 At Risk
+611,RiftDynamics,Healthcare,1,free,0.0,44,2025-07-03 05:41:38,1716.4705882352941,5,2.0,0.0,273,2,3,1,6,🟠 At Risk
+612,Hub Solutions,E-commerce,0,starter,12.0,42,2025-10-27 08:51:31,1555.2333333333333,4,4.0,5.0,157,4,3,2,9,🔵 Loyal Customers
+613,MistStudio,Legal,0,professional,39.0,47,2025-10-20 20:15:57,1739.2702702702702,4,14.0,6.0,164,4,4,3,11,🟢 Champions
+614,QuestHub,Real Estate,0,starter,9.6,38,2025-07-05 06:39:30,1682.5625,6,1.0,8.0,271,2,2,2,6,🟤 Need Attention
+615,Unit Corp,Marketing,0,starter,12.0,40,2025-08-21 15:00:23,1843.9354838709678,5,2.0,7.0,224,3,2,2,7,🟡 New/Promising
+616,KiteSolutions,Logistics,1,enterprise,165.83,41,2025-10-26 22:45:45,1917.15625,5,12.0,,158,4,3,4,11,🟢 Champions
+617,AcmeHub,Telecommunications,1,free,0.0,37,2025-08-01 18:15:26,2118.56,4,2.0,2.0,244,2,2,1,5,⚪ Dormant/Lost
+618,Echo Hub,Real Estate,0,starter,19.0,30,2023-07-16 02:51:14,1691.4166666666667,6,15.0,7.0,991,1,1,3,5,🔴 High-Value Sleepers
+619,Orbit Labs,E-commerce,0,starter,15.2,34,2025-07-23 21:45:24,1529.4642857142858,2,14.0,4.0,253,2,1,2,5,⚪ Dormant/Lost
+620,OrbitSystems,Education,1,starter,15.83,40,2025-02-02 04:21:13,1469.59375,3,1.0,7.0,424,1,2,2,5,⚪ Dormant/Lost
+621,NexusCloud,Healthcare,0,starter,12.0,30,2025-09-09 20:56:45,1622.1739130434783,4,1.0,8.0,205,3,1,2,6,🟡 New/Promising
+622,JetLogic,Insurance,0,free,0.0,39,2025-09-17 05:31:24,2025.0689655172414,4,43.0,7.0,197,3,2,1,6,🟡 New/Promising
+623,FluxCorp,Manufacturing,0,professional,32.5,48,2025-09-02 02:49:46,1616.0555555555557,5,14.0,9.0,212,3,4,3,10,🟢 Champions
+624,ArcDev,Legal,0,free,0.0,34,2025-06-09 20:50:56,1765.3,4,43.0,4.0,297,1,1,1,3,⚪ Dormant/Lost
+625,DataStudio,Retail,0,enterprise,89.1,40,2025-05-13 05:39:08,1948.0285714285715,4,56.0,5.0,324,1,2,4,7,🔴 High-Value Sleepers
+626,Unit Labs,Legal,1,starter,12.0,45,2025-10-30 07:25:13,1747.3333333333333,6,5.0,8.0,154,4,3,2,9,🔵 Loyal Customers
+627,Luna IO,Legal,0,starter,12.0,53,2025-10-05 23:40:24,1618.5,5,4.0,,179,4,4,2,10,🟢 Champions
+628,Kite Labs,Manufacturing,0,starter,14.25,45,2025-10-26 16:07:16,1803.0,6,57.0,6.0,158,4,4,2,10,🟢 Champions
+629,FlowDev,Finance,0,enterprise,82.5,51,2025-06-28 06:42:48,1882.081081081081,6,12.0,,278,2,4,4,10,🟢 Champions
+630,Xenon Stack,Manufacturing,1,professional,39.0,38,2025-05-31 08:35:59,1706.3333333333333,5,6.0,6.0,306,1,2,3,6,🔴 High-Value Sleepers
+631,Cloud Platform,Education,0,free,0.0,42,2025-07-24 04:21:44,1666.8285714285714,4,5.0,5.0,252,2,3,1,6,🟠 At Risk
+632,Warp Logic,Legal,0,starter,12.0,37,2025-08-27 07:56:47,1591.5925925925926,6,1.0,10.0,218,3,2,2,7,🟡 New/Promising
+633,Jet Ops,Consulting,0,starter,8.0,37,2025-10-12 07:51:54,1962.6538461538462,5,2.0,4.0,172,4,2,1,7,🟡 New/Promising
+634,CoreDigital,Marketing,1,professional,39.0,49,2025-09-09 00:36:33,2025.5384615384614,8,7.0,9.0,205,3,4,3,10,🟢 Champions
+635,Tidal Dynamics,Retail,0,free,0.0,46,2025-10-26 07:19:37,1592.5675675675675,5,46.0,7.0,158,4,4,1,9,🔵 Loyal Customers
+636,QuarkIO,Insurance,0,starter,12.0,35,2025-10-06 05:20:53,2125.448275862069,3,4.0,0.0,178,4,1,2,7,🟡 New/Promising
+637,CoreStudio,Real Estate,1,free,0.0,31,2025-05-28 16:46:18,1440.2142857142858,6,3.0,7.0,309,1,1,1,3,⚪ Dormant/Lost
+638,Kite Ventures,Manufacturing,0,free,0.0,43,2025-01-23 17:42:17,1723.7222222222222,6,39.0,7.0,434,1,3,1,5,🟠 At Risk
+639,ZenHub,Manufacturing,1,free,0.0,49,2025-08-18 22:28:18,2210.0,8,5.0,9.0,227,2,4,1,7,🟠 At Risk
+640,MistHub,Telecommunications,0,free,0.0,36,2025-06-27 18:11:33,1891.92,4,52.0,2.0,279,2,1,1,4,⚪ Dormant/Lost
+641,Zen Tech,Education,1,free,0.0,25,2025-07-16 07:01:56,1631.7222222222222,6,35.0,,260,2,1,1,4,⚪ Dormant/Lost
+642,KiteSoftware,Manufacturing,0,professional,59.0,38,2025-08-11 12:19:33,1917.8275862068965,6,6.0,9.0,234,2,2,4,8,🔴 High-Value Sleepers
+643,EdgePro,Real Estate,0,professional,59.0,35,2025-07-06 18:00:40,1800.0,3,6.0,4.0,270,2,1,4,7,🔴 High-Value Sleepers
+644,Nova Pro,E-commerce,0,starter,12.0,40,2025-07-08 13:21:45,1930.125,8,8.0,7.0,268,2,2,2,6,🟤 Need Attention
+645,BoltCloud,Media,0,starter,12.0,53,2025-09-15 05:41:11,1886.5652173913043,8,26.0,4.0,199,3,4,2,9,🔵 Loyal Customers
+646,LunaDynamics,Media,0,starter,15.83,53,2025-10-25 14:20:25,1862.6304347826087,6,3.0,10.0,159,4,4,2,10,🟢 Champions
+647,Vine Hub,Real Estate,0,professional,59.0,31,2025-04-16 01:34:25,1783.0833333333333,1,15.0,7.0,351,1,1,4,6,🔴 High-Value Sleepers
+648,DriftCorp,Logistics,0,starter,12.0,47,2025-08-19 05:18:23,1594.5526315789473,3,26.0,10.0,226,2,4,2,8,🟠 At Risk
+649,Arc AI,Technology,0,professional,59.0,39,2025-09-15 08:29:07,1736.2903225806451,4,5.0,6.0,199,3,2,4,9,🟡 New/Promising
+650,Peak Logic,Retail,0,starter,15.83,41,2025-10-21 18:46:02,1667.8235294117646,4,5.0,7.0,163,4,3,2,9,🔵 Loyal Customers
+651,Ultra Software,Healthcare,0,starter,15.83,46,2025-06-08 13:20:35,1819.9705882352941,6,4.0,6.0,298,1,4,2,7,🟠 At Risk
+652,DriftStack,Marketing,0,starter,15.83,43,2025-09-22 00:47:13,1843.8157894736842,2,1.0,9.0,192,3,3,2,8,🔵 Loyal Customers
+653,RushTech,Logistics,0,free,0.0,34,2025-05-04 15:10:09,1975.2608695652175,3,4.0,8.0,333,1,1,1,3,⚪ Dormant/Lost
+654,Bolt Corp,Healthcare,0,professional,39.0,41,2025-09-09 19:58:43,1693.857142857143,4,6.0,9.0,205,3,3,3,9,🔵 Loyal Customers
+655,QuestVentures,Retail,0,enterprise,199.0,46,2025-10-20 19:16:04,1774.439024390244,3,6.0,8.0,164,4,4,4,12,🟢 Champions
+656,MistLabs,Media,0,free,0.0,46,2025-05-14 22:05:22,1839.1351351351352,7,11.0,2.0,323,1,4,1,6,🟠 At Risk
+657,Flow Studio,Legal,1,professional,29.25,33,2025-10-08 16:08:32,1669.5454545454545,1,15.0,,176,4,1,3,8,🟡 New/Promising
+658,ZenSystems,Insurance,0,professional,59.0,42,2025-10-12 11:06:23,1883.75,6,15.0,6.0,172,4,3,4,11,🟢 Champions
+659,MistLogic,Real Estate,0,professional,59.0,48,2025-09-10 21:14:32,1754.7297297297298,3,5.0,9.0,204,3,4,4,11,🟢 Champions
+660,Nova Ops,Marketing,0,starter,12.0,49,2025-06-16 03:11:38,1556.825,6,1.0,7.0,290,2,4,2,8,🟠 At Risk
+661,MistSoftware,Healthcare,0,enterprise,179.1,47,2025-05-07 17:01:38,1747.8095238095239,4,6.0,6.0,330,1,4,4,9,🟠 At Risk
+662,Flux IO,Technology,1,free,0.0,31,2025-03-06 12:52:27,2198.4545454545455,3,4.0,7.0,392,1,1,1,3,⚪ Dormant/Lost
+663,Peak Labs,Healthcare,1,professional,49.17,49,2025-10-13 23:42:40,1779.138888888889,6,4.0,8.0,170,4,4,4,12,🟢 Champions
+664,FluxStack,Healthcare,0,starter,19.0,41,2025-10-14 14:37:21,1287.125,6,0.0,8.0,170,4,3,3,10,🟢 Champions
+665,Xenon Dynamics,Technology,0,enterprise,99.0,36,2025-10-25 01:21:39,1616.1379310344828,5,0.0,6.0,159,4,1,4,9,🟡 New/Promising
+666,Ion Ventures,Consulting,1,professional,59.0,47,2025-10-08 09:03:31,1718.2307692307693,4,0.0,8.0,176,4,4,4,12,🟢 Champions
+667,PulseOps,Retail,0,free,0.0,34,2025-09-20 14:22:21,1821.0,5,0.0,10.0,194,3,1,1,5,🟡 New/Promising
+668,LinkHub,Retail,0,professional,32.5,39,2025-10-07 15:39:03,2017.84375,5,0.0,7.0,177,4,2,3,9,🟡 New/Promising
+669,Rush Corp,Finance,1,free,0.0,32,2025-07-24 13:13:02,1777.037037037037,6,0.0,4.0,252,2,1,1,4,⚪ Dormant/Lost
+670,Jade Tech,Marketing,1,free,0.0,30,2025-10-17 01:13:01,1834.608695652174,2,0.0,9.0,167,4,1,1,6,🟡 New/Promising
+671,Luna Group,Education,1,starter,12.0,41,2025-05-31 11:52:42,1838.1935483870968,4,0.0,5.0,306,1,3,2,6,🟠 At Risk
+672,RushPlatform,Legal,0,starter,12.0,45,2024-10-26 02:16:01,2061.875,5,0.0,9.0,523,1,4,2,7,🟠 At Risk
+673,Glow Net,Real Estate,0,professional,53.1,41,2025-08-27 12:44:03,1573.8055555555557,6,0.0,5.0,218,3,3,4,10,🟢 Champions
+674,Quark Tech,Finance,1,starter,12.0,32,2025-04-01 17:55:46,1471.25,3,0.0,6.0,366,1,1,2,4,⚪ Dormant/Lost
+675,OrbitDev,Insurance,0,starter,10.0,41,2025-08-03 07:09:35,2065.0,3,0.0,6.0,242,2,3,2,7,🟠 At Risk
+676,WaveCloud,Telecommunications,1,free,0.0,37,2025-01-23 08:10:49,1967.8333333333333,6,0.0,7.0,434,1,2,1,4,⚪ Dormant/Lost
+677,SageCorp,Legal,0,professional,59.0,48,2025-05-24 10:28:21,1793.7837837837837,6,0.0,8.0,313,1,4,4,9,🟠 At Risk
+678,QuarkOps,Marketing,0,starter,13.46,43,2025-07-03 08:58:00,1898.3548387096773,4,0.0,6.0,273,2,3,2,7,🟠 At Risk
+679,Rift Digital,Media,0,professional,39.0,42,2025-10-28 08:42:44,1912.111111111111,4,0.0,7.0,156,4,3,3,10,🟢 Champions
+680,DataIO,Manufacturing,0,starter,12.0,36,2025-10-18 12:28:09,1649.3125,3,0.0,9.0,166,4,1,2,7,🟡 New/Promising
+681,Unit Software,Manufacturing,0,free,0.0,43,2024-09-10 22:15:13,2033.5882352941176,3,0.0,9.0,569,1,3,1,5,🟠 At Risk
+682,KeenCorp,Marketing,0,enterprise,99.0,27,2025-09-11 05:56:37,2047.9583333333333,4,0.0,3.0,203,3,1,4,8,🟡 New/Promising
+683,Core Net,Marketing,1,professional,44.25,34,2025-10-29 10:22:52,1833.5416666666667,5,0.0,5.0,155,4,1,3,8,🟡 New/Promising
+684,Tidal Platform,Real Estate,0,starter,12.0,33,2025-09-17 07:51:17,1651.6666666666667,5,0.0,10.0,197,3,1,2,6,🟡 New/Promising
+685,Peak Systems,Marketing,0,starter,15.83,45,2025-06-17 01:04:16,1874.6315789473683,4,0.0,6.0,289,2,4,2,8,🟠 At Risk
+686,SageSoftware,Media,0,free,0.0,38,2025-09-15 09:31:03,1910.9354838709678,5,0.0,7.0,199,3,2,1,6,🟡 New/Promising
+687,Edge Labs,Finance,0,enterprise,82.5,43,2025-08-21 12:14:10,1771.2857142857142,4,0.0,6.0,224,3,3,4,10,🟢 Champions
+688,ZenIO,Retail,0,free,0.0,45,2025-08-04 11:44:43,1768.6969696969697,2,0.0,9.0,241,2,4,1,7,🟠 At Risk
+689,KiteDev,Media,0,free,0.0,36,2025-09-01 00:19:48,1905.8,4,0.0,9.0,213,3,1,1,5,🟡 New/Promising
+690,HubVentures,Real Estate,0,starter,12.67,47,2025-08-26 03:59:51,2016.1627906976744,6,0.0,2.0,219,3,4,2,9,🔵 Loyal Customers
+691,AcmeSolutions,Retail,1,professional,49.17,37,2025-04-04 13:15:43,1958.1875,5,0.0,2.0,363,1,2,4,7,🔴 High-Value Sleepers
+692,RushHub,Telecommunications,0,free,0.0,41,2025-05-01 12:17:55,2012.9714285714285,4,0.0,6.0,336,1,3,1,5,🟠 At Risk
+693,IonNet,Real Estate,1,free,0.0,46,2025-09-03 06:20:22,1730.7297297297298,6,0.0,5.0,211,3,4,1,8,🔵 Loyal Customers
+694,GridSolutions,Manufacturing,0,free,0.0,40,2025-05-05 23:02:45,2028.0588235294117,6,0.0,8.0,332,1,2,1,4,⚪ Dormant/Lost
+695,YieldDigital,Real Estate,0,professional,31.2,43,2025-09-19 20:32:11,2021.21875,7,0.0,8.0,195,3,3,3,9,🔵 Loyal Customers
+696,LinkLabs,Logistics,0,professional,32.5,47,2025-08-21 18:43:35,1881.2121212121212,8,0.0,7.0,224,3,4,3,10,🟢 Champions
+697,EchoDev,Real Estate,0,enterprise,149.25,42,2025-07-28 20:18:53,2471.8285714285716,2,0.0,8.0,248,2,3,4,9,🟠 At Risk
+698,DataGroup,Technology,0,professional,49.17,43,2025-08-05 01:48:04,1893.8108108108108,1,0.0,8.0,240,2,3,4,9,🟠 At Risk
+699,Sage Systems,Real Estate,1,free,0.0,41,2025-01-17 06:58:47,1745.3030303030303,5,0.0,9.0,440,1,3,1,5,🟠 At Risk
+700,WarpOps,Technology,0,professional,49.17,43,2025-05-23 00:11:14,1482.1470588235295,4,0.0,5.0,314,1,3,4,8,🟠 At Risk
+701,Cloud IO,Media,1,professional,49.17,51,2025-09-09 16:27:49,1943.2272727272727,3,0.0,0.0,205,3,4,4,11,🟢 Champions
+702,RiftOps,Media,0,free,0.0,37,2025-10-12 16:58:46,1780.3333333333333,1,0.0,8.0,172,4,2,1,7,🟡 New/Promising
+703,WaveSoftware,Telecommunications,1,free,0.0,32,2025-08-26 02:00:22,1588.0,3,0.0,6.0,219,3,1,1,5,🟡 New/Promising
+704,DataDigital,Education,0,enterprise,99.0,29,2025-07-26 17:10:50,1758.32,5,0.0,8.0,250,2,1,4,7,🔴 High-Value Sleepers
+705,IrisSoftware,Legal,0,professional,59.0,45,2025-08-11 16:29:18,1902.6486486486488,8,0.0,6.0,234,2,4,4,10,🟢 Champions
+706,TrekGroup,Healthcare,0,free,0.0,38,2025-10-13 14:56:32,2015.967741935484,1,0.0,9.0,171,4,2,1,7,🟡 New/Promising
+707,PeakHub,Healthcare,1,starter,10.0,43,2025-10-24 02:21:26,1765.0526315789473,4,0.0,7.0,160,4,3,2,9,🔵 Loyal Customers
+708,Luna Ops,Manufacturing,0,professional,29.25,41,2025-01-11 12:15:01,1974.4857142857143,3,0.0,9.0,446,1,3,3,7,🟠 At Risk
+709,UnitGroup,Manufacturing,0,starter,19.0,44,2025-07-25 08:49:08,1664.5135135135135,8,0.0,9.0,251,2,3,3,8,🟠 At Risk
+710,BeamVentures,Insurance,0,starter,19.0,46,2025-08-10 09:08:11,1986.121951219512,4,0.0,9.0,235,2,4,3,9,🟠 At Risk
+711,FlowPlatform,Education,0,professional,39.0,32,2025-10-24 01:33:50,1930.5,7,0.0,8.0,160,4,1,3,8,🟡 New/Promising
+712,Cloud Studio,Consulting,0,enterprise,99.0,27,2025-04-11 21:21:18,2177.3636363636365,5,0.0,6.0,356,1,1,4,6,🔴 High-Value Sleepers
+713,Onyx Solutions,Finance,0,professional,39.0,35,2025-07-03 08:42:52,1624.923076923077,4,0.0,4.0,273,2,1,3,6,🔴 High-Value Sleepers
+714,DataNet,Education,0,starter,10.2,39,2025-05-29 00:52:01,1828.3235294117646,2,0.0,5.0,308,1,2,2,5,⚪ Dormant/Lost
+715,Beam Cloud,Finance,0,professional,49.17,35,2025-08-13 23:46:58,1771.392857142857,4,0.0,5.0,231,2,1,4,7,🔴 High-Value Sleepers
+716,Mist Software,Insurance,0,professional,39.0,36,2025-05-17 11:09:31,1911.0,3,0.0,6.0,320,1,1,3,5,🔴 High-Value Sleepers
+717,Edge Platform,Real Estate,0,professional,59.0,44,2025-02-18 06:37:01,1790.0344827586207,6,0.0,10.0,408,1,3,4,8,🟠 At Risk
+718,Keen Cloud,Telecommunications,1,enterprise,82.5,51,2025-06-12 18:39:57,1763.0,5,0.0,7.0,294,1,4,4,9,🟠 At Risk
+719,GlowTech,Logistics,0,starter,12.0,56,2025-10-13 22:56:33,1884.3720930232557,5,0.0,6.0,171,4,4,2,10,🟢 Champions
+720,MistAnalytics,Marketing,0,free,0.0,49,2025-10-06 12:44:28,1792.3255813953488,1,0.0,8.0,178,4,4,1,9,🔵 Loyal Customers
+721,Quark Hub,Media,0,enterprise,199.0,35,2025-08-08 19:05:35,1974.344827586207,2,0.0,7.0,237,2,1,4,7,🔴 High-Value Sleepers
+722,Sage Dynamics,E-commerce,0,professional,32.5,52,2025-04-11 17:17:36,1664.5681818181818,8,0.0,7.0,356,1,4,3,8,🟠 At Risk
+723,CoreCorp,Legal,0,enterprise,99.0,44,2025-07-20 22:18:53,1781.8709677419354,7,0.0,8.0,256,2,3,4,9,🟠 At Risk
+724,JetLabs,Marketing,1,professional,59.0,55,2024-12-21 03:43:40,1824.0227272727273,7,0.0,7.0,467,1,4,4,9,🟠 At Risk
+725,SyncWorks,Insurance,0,free,0.0,46,2025-08-25 04:56:22,1972.5135135135135,5,0.0,5.0,220,3,4,1,8,🔵 Loyal Customers
+726,Kite Cloud,Telecommunications,0,professional,59.0,54,2025-06-18 22:50:27,1575.439024390244,5,0.0,,288,2,4,4,10,🟢 Champions
+727,MistAI,Media,0,free,0.0,47,2025-09-15 00:53:43,1683.9444444444443,4,0.0,8.0,199,3,4,1,8,🔵 Loyal Customers
+728,HubHQ,Consulting,1,professional,39.33,41,2025-09-20 16:36:35,1807.6,9,0.0,6.0,194,3,3,3,9,🔵 Loyal Customers
+729,Sage Works,Telecommunications,0,starter,19.0,41,2025-10-18 16:38:44,1747.8181818181818,8,0.0,9.0,166,4,3,3,10,🟢 Champions
+730,Echo Digital,Consulting,0,starter,12.0,45,2025-07-12 11:46:52,1617.6944444444443,6,0.0,6.0,264,2,4,2,8,🟠 At Risk
+731,Yield Stack,Real Estate,0,enterprise,199.0,46,2025-10-09 23:50:50,1977.5428571428572,7,0.0,4.0,174,4,4,4,12,🟢 Champions
+732,SyncCorp,Marketing,0,free,0.0,47,2025-10-13 17:22:07,1655.974358974359,7,0.0,5.0,171,4,4,1,9,🔵 Loyal Customers
+733,FluxGroup,E-commerce,0,starter,10.8,35,2025-04-14 05:14:13,2036.090909090909,4,0.0,8.0,353,1,1,2,4,⚪ Dormant/Lost
+734,KeenSolutions,Insurance,0,professional,36.88,40,2025-09-13 14:06:44,1913.0588235294117,3,0.0,10.0,201,3,2,3,8,🟡 New/Promising
+735,ZealHub,Logistics,0,starter,10.0,42,2025-09-03 14:50:27,1750.2571428571428,3,0.0,10.0,211,3,3,2,8,🔵 Loyal Customers
+736,AcmeAI,Insurance,0,professional,59.0,42,2025-09-03 04:52:50,2003.65625,6,0.0,7.0,211,3,3,4,10,🟢 Champions
+737,ZenDigital,Telecommunications,0,enterprise,165.83,38,2025-01-23 04:34:15,1997.939393939394,2,0.0,7.0,434,1,2,4,7,🔴 High-Value Sleepers
+738,GridPro,Manufacturing,0,starter,12.0,46,2025-08-26 13:16:15,1866.6923076923076,6,0.0,4.0,219,3,4,2,9,🔵 Loyal Customers
+739,YieldCloud,E-commerce,0,starter,10.0,39,2025-08-02 15:06:51,1945.28125,4,0.0,7.0,243,2,2,2,6,🟤 Need Attention
+740,CorePlatform,Technology,0,enterprise,199.0,32,2025-08-22 08:55:05,1718.7272727272727,4,0.0,9.0,223,3,1,4,8,🟡 New/Promising
+741,Jet Logic,Real Estate,0,free,0.0,47,2025-06-15 08:11:53,1288.1290322580646,8,0.0,4.0,291,2,4,1,7,🟠 At Risk
+742,CloudWorks,Real Estate,0,professional,39.0,45,2025-09-30 02:01:46,1583.3333333333333,6,0.0,9.0,184,3,4,3,10,🟢 Champions
+743,GlowDynamics,Legal,1,free,0.0,36,2025-09-29 15:14:42,1995.2222222222222,5,0.0,8.0,185,3,1,1,5,🟡 New/Promising
+744,CloudCorp,Logistics,0,enterprise,89.1,40,2025-08-21 18:28:37,1727.1515151515152,5,0.0,1.0,224,3,2,4,9,🟡 New/Promising
+745,NovaGroup,Marketing,0,free,0.0,53,2025-10-16 05:19:47,1567.5121951219512,5,0.0,8.0,168,4,4,1,9,🔵 Loyal Customers
+746,EchoTech,Technology,0,starter,19.0,43,2025-09-23 17:09:04,1586.6486486486488,2,0.0,4.0,191,3,3,3,9,🔵 Loyal Customers
+747,Meta Analytics,Education,0,professional,33.15,41,2024-07-01 18:47:30,2177.5333333333333,4,0.0,8.0,640,1,3,3,7,🟠 At Risk
+748,Nova Analytics,Finance,0,starter,10.0,51,2025-09-08 13:54:51,2130.225,9,0.0,7.0,206,3,4,2,9,🔵 Loyal Customers
+749,Orbit Software,Healthcare,1,starter,19.0,52,2025-06-03 21:59:21,1795.8695652173913,7,0.0,8.0,303,1,4,3,8,🟠 At Risk
+750,TidalDev,E-commerce,0,free,0.0,44,2025-10-06 17:21:26,1883.235294117647,2,0.0,8.0,178,4,3,1,8,🔵 Loyal Customers
+751,Xenon HQ,Insurance,0,starter,19.0,44,2025-09-09 04:36:39,1839.1351351351352,6,0.0,6.0,205,3,3,3,9,🔵 Loyal Customers
+752,AcmeVentures,Healthcare,1,professional,39.0,37,2025-07-11 05:34:01,2041.8,5,0.0,5.0,265,2,2,3,7,🔴 High-Value Sleepers
+753,TrekIO,Logistics,0,starter,12.0,25,2025-01-31 07:10:41,2242.2631578947367,5,0.0,,426,1,1,2,4,⚪ Dormant/Lost
+754,Ion Tech,Manufacturing,0,free,0.0,34,2025-05-28 13:57:19,1873.2307692307693,5,0.0,8.0,309,1,1,1,3,⚪ Dormant/Lost
+755,VertexOps,Marketing,0,free,0.0,39,2025-08-28 03:41:40,1592.2,2,0.0,7.0,217,3,2,1,6,🟡 New/Promising
+756,Core AI,Education,0,free,0.0,35,2025-07-04 20:20:33,1632.4,7,0.0,5.0,272,2,1,1,4,⚪ Dormant/Lost
+757,Link Stack,Technology,0,professional,49.17,39,2025-09-01 14:09:57,1576.5925925925926,5,0.0,6.0,213,3,2,4,9,🟡 New/Promising
+758,VineHub,Education,1,professional,49.17,36,2025-05-28 11:33:13,1820.6896551724137,5,0.0,7.0,309,1,1,4,6,🔴 High-Value Sleepers
+759,LinkStudio,Logistics,0,free,0.0,33,2024-11-03 22:57:08,1889.5,4,0.0,7.0,515,1,1,1,3,⚪ Dormant/Lost
+760,SyncSoftware,Media,1,starter,19.0,35,2025-09-24 16:49:51,1845.857142857143,2,0.0,6.0,190,3,1,3,7,🟡 New/Promising
+761,EchoDigital,Marketing,0,starter,12.0,41,2025-09-20 03:21:37,2090.5666666666666,3,0.0,5.0,194,3,3,2,8,🔵 Loyal Customers
+762,Wave Cloud,Finance,0,starter,19.0,42,2025-06-09 17:11:55,1816.5428571428572,6,0.0,10.0,297,1,3,3,7,🟠 At Risk
+763,CloudPlatform,Telecommunications,0,enterprise,99.0,33,2025-10-16 02:09:28,1473.75,2,0.0,7.0,168,4,1,4,9,🟡 New/Promising
+764,Quest Works,Insurance,1,professional,53.1,31,2025-06-03 06:41:53,1995.6190476190477,2,0.0,8.0,303,1,1,4,6,🔴 High-Value Sleepers
+765,Nova Corp,Healthcare,1,free,0.0,45,2025-10-22 13:31:38,1738.6923076923076,5,0.0,8.0,162,4,4,1,9,🔵 Loyal Customers
+766,QuestLogic,Legal,0,professional,59.0,31,2025-08-30 00:39:35,1621.8846153846155,6,0.0,4.0,215,3,1,4,8,🟡 New/Promising
+767,Mist Solutions,Insurance,0,enterprise,199.0,43,2025-10-30 08:07:49,2164.21875,6,0.0,8.0,154,4,3,4,11,🟢 Champions
+768,BeamTech,Logistics,0,starter,15.83,30,2025-04-10 12:32:43,2030.36,3,0.0,9.0,357,1,1,2,4,⚪ Dormant/Lost
+769,UnitSystems,Manufacturing,0,enterprise,89.1,56,2025-10-07 05:20:56,1805.7692307692307,8,0.0,10.0,177,4,4,4,12,🟢 Champions
+770,BeamAnalytics,Healthcare,0,professional,39.0,24,2025-10-30 11:48:06,1607.952380952381,3,0.0,,154,4,1,3,8,🟡 New/Promising
+771,Vertex Net,Real Estate,1,professional,59.0,46,2025-06-17 23:50:36,1821.923076923077,4,0.0,6.0,288,2,4,4,10,🟢 Champions
+772,SyncHub,Media,1,free,0.0,46,2024-12-04 22:34:06,1864.3076923076924,7,0.0,5.0,484,1,4,1,6,🟠 At Risk
+773,Flux Corp,Telecommunications,1,starter,10.0,47,2024-11-03 16:27:12,1911.0,1,0.0,8.0,515,1,4,2,7,🟠 At Risk
+774,YieldDev,Healthcare,0,free,0.0,37,2025-07-16 20:55:51,1707.1379310344828,4,0.0,1.0,260,2,2,1,5,⚪ Dormant/Lost
+775,HubSoftware,Education,0,starter,12.0,42,2025-09-14 22:52:30,1680.3,5,0.0,6.0,200,3,3,2,8,🔵 Loyal Customers
+776,Arc Software,Technology,1,starter,12.0,39,2025-09-03 13:23:25,1572.878787878788,1,0.0,5.0,211,3,2,2,7,🟡 New/Promising
+777,LinkCorp,Marketing,0,starter,12.0,34,2025-10-22 02:16:12,1663.2692307692307,2,0.0,5.0,162,4,1,2,7,🟡 New/Promising
+778,Yield Analytics,Manufacturing,0,starter,19.0,47,2025-10-07 13:06:46,1647.6923076923076,4,0.0,2.0,177,4,4,3,11,🟢 Champions
+779,TidalCloud,Consulting,0,enterprise,89.1,47,2025-03-28 19:11:05,1643.325,5,0.0,5.0,370,1,4,4,9,🟠 At Risk
+780,IonLogic,Retail,0,starter,10.8,46,2025-09-02 09:02:20,1648.842105263158,6,0.0,5.0,212,3,4,2,9,🔵 Loyal Customers
+781,JadeCorp,E-commerce,0,starter,15.83,35,2025-09-08 05:20:57,1985.46875,7,0.0,8.0,206,3,1,2,6,🟡 New/Promising
+782,Core Solutions,Telecommunications,0,free,0.0,41,2025-10-23 08:15:42,1694.4411764705883,5,0.0,,161,4,3,1,8,🔵 Loyal Customers
+783,Nexus Dev,Healthcare,0,free,0.0,41,2024-10-31 19:24:40,1917.9142857142858,2,0.0,8.0,518,1,3,1,5,🟠 At Risk
+784,TrekSoftware,Education,0,starter,16.15,40,2025-10-13 03:30:00,1931.0645161290322,6,0.0,8.0,171,4,2,3,9,🟡 New/Promising
+785,MistWorks,Telecommunications,0,professional,39.0,36,2025-07-01 03:36:47,1913.6333333333334,5,0.0,5.0,275,2,1,3,6,🔴 High-Value Sleepers
+786,Zeal Group,Logistics,0,starter,14.25,47,2025-01-30 00:21:48,1932.7692307692307,7,0.0,7.0,427,1,4,2,7,🟠 At Risk
+787,UnitSolutions,Logistics,0,starter,10.0,35,2025-10-02 14:55:11,1727.2962962962963,5,0.0,1.0,182,4,1,2,7,🟡 New/Promising
+788,WarpAnalytics,Legal,1,free,0.0,39,2025-10-01 03:13:24,1914.1290322580646,2,0.0,8.0,183,3,2,1,6,🟡 New/Promising
+789,TrekSolutions,Education,0,professional,39.0,31,2025-09-06 09:22:46,1761.76,2,0.0,9.0,208,3,1,3,7,🟡 New/Promising
+790,Acme Analytics,Marketing,1,starter,12.0,39,2025-07-11 21:01:22,1752.0666666666666,5,0.0,,265,2,2,2,6,🟤 Need Attention
+791,EchoSolutions,Manufacturing,0,professional,32.5,52,2025-10-17 23:04:35,1745.0652173913043,9,0.0,5.0,167,4,4,3,11,🟢 Champions
+792,Onyx Systems,Marketing,0,professional,32.5,43,2025-09-15 10:14:06,1557.235294117647,8,0.0,9.0,199,3,3,3,9,🔵 Loyal Customers
+793,Peak Platform,E-commerce,1,enterprise,82.5,30,2024-12-13 13:49:00,1874.423076923077,5,0.0,8.0,475,1,1,4,6,🔴 High-Value Sleepers
+794,PulseVentures,Consulting,0,professional,49.17,39,2025-09-10 16:37:47,1966.3428571428572,6,0.0,9.0,204,3,2,4,9,🟡 New/Promising
+795,Acme Ventures,Manufacturing,0,professional,49.17,50,2025-10-28 22:21:14,1538.75,5,0.0,7.0,156,4,4,4,12,🟢 Champions
+796,Iris Platform,Marketing,0,free,0.0,43,2025-05-24 21:30:05,1820.5294117647059,5,0.0,9.0,313,1,3,1,5,🟠 At Risk
+797,EdgeHub,Education,0,starter,12.0,43,2025-03-29 16:01:31,2018.2571428571428,5,0.0,6.0,369,1,3,2,6,🟠 At Risk
+798,NexusSoftware,Finance,0,starter,19.0,36,2025-07-14 11:24:42,1936.4242424242425,2,0.0,7.0,262,2,1,3,6,🔴 High-Value Sleepers
+799,Quark IO,Telecommunications,0,professional,49.17,38,2025-09-16 18:32:18,1452.375,4,0.0,7.0,198,3,2,4,9,🟡 New/Promising
+800,Arc Studio,Logistics,0,professional,59.0,40,2025-10-19 05:31:04,1476.3125,6,0.0,8.0,165,4,2,4,10,🟢 Champions
+801,UltraCorp,Marketing,1,professional,59.0,39,2025-04-07 21:52:00,2050.1290322580644,5,0.0,10.0,360,1,2,4,7,🔴 High-Value Sleepers
+802,CloudHub,Legal,0,professional,32.5,48,2025-10-04 21:50:04,1771.25,5,0.0,10.0,180,4,4,3,11,🟢 Champions
+803,Vine Tech,Marketing,1,professional,32.5,36,2025-09-12 05:11:28,1924.2068965517242,2,0.0,8.0,202,3,1,3,7,🟡 New/Promising
+804,Zeal Tech,Retail,1,free,0.0,31,2024-05-05 14:49:55,1757.0434782608695,5,0.0,7.0,697,1,1,1,3,⚪ Dormant/Lost
+805,Arc Corp,Manufacturing,0,professional,32.5,48,2025-04-08 12:51:11,2085.878787878788,8,0.0,8.0,359,1,4,3,8,🟠 At Risk
+806,Vertex Stack,Healthcare,0,starter,19.0,43,2025-07-18 06:59:24,1924.6470588235295,3,0.0,8.0,258,2,3,3,8,🟠 At Risk
+807,WarpTech,Manufacturing,1,enterprise,84.15,43,2025-08-23 18:00:58,2030.5277777777778,8,0.0,5.0,222,3,3,4,10,🟢 Champions
+808,BoltLogic,Technology,0,starter,15.83,49,2025-06-26 20:55:20,1883.6904761904761,5,0.0,7.0,280,2,4,2,8,🟠 At Risk
+809,Zeal Digital,E-commerce,0,professional,39.0,37,2025-02-16 18:44:13,1994.3,4,0.0,7.0,410,1,2,3,6,🔴 High-Value Sleepers
+810,Kite Corp,Education,0,professional,32.5,41,2025-09-15 22:05:12,2130.6944444444443,6,0.0,4.0,199,3,3,3,9,🔵 Loyal Customers
+811,Yield Ventures,Retail,1,free,0.0,39,2025-06-30 01:03:53,1599.5806451612902,5,0.0,,276,2,2,1,5,⚪ Dormant/Lost
+812,BoltLabs,Manufacturing,0,professional,33.15,44,2025-10-02 18:23:32,1848.9142857142858,5,0.0,8.0,182,4,3,3,10,🟢 Champions
+813,EchoLabs,Education,1,starter,12.0,40,2025-10-06 20:14:52,1741.2903225806451,4,0.0,2.0,178,4,2,2,8,🟡 New/Promising
+814,Nexus Corp,Retail,1,free,0.0,28,2025-10-15 12:17:24,1598.111111111111,3,0.0,10.0,169,4,1,1,6,🟡 New/Promising
+815,Echo AI,Legal,1,starter,9.0,57,2025-10-19 18:12:24,1599.0454545454545,6,0.0,0.0,165,4,4,2,10,🟢 Champions
+816,Mist Stack,Technology,0,professional,39.0,34,2025-10-11 13:37:34,1618.7692307692307,4,0.0,7.0,173,4,1,3,8,🟡 New/Promising
+817,IonPlatform,Insurance,0,starter,12.0,46,2025-10-22 06:31:16,1762.7567567567567,7,0.0,8.0,162,4,4,2,10,🟢 Champions
+818,KeenAnalytics,Finance,0,starter,9.0,31,2025-01-08 21:25:11,1772.5925925925926,5,0.0,4.0,449,1,1,2,4,⚪ Dormant/Lost
+819,AcmeDigital,Retail,0,professional,39.0,35,2025-08-08 09:09:48,1963.1875,2,0.0,6.0,237,2,1,3,6,🔴 High-Value Sleepers
+820,CoreSoftware,Education,1,professional,39.0,39,2025-07-12 12:38:37,1848.5333333333333,4,0.0,7.0,264,2,2,3,7,🔴 High-Value Sleepers
+821,VertexHub,Healthcare,0,professional,32.5,42,2025-08-07 03:06:22,1855.0,4,0.0,0.0,238,2,3,3,8,🟠 At Risk
+822,GlowSolutions,Telecommunications,0,starter,10.0,31,2025-08-09 22:39:21,2046.85,4,0.0,6.0,236,2,1,2,5,⚪ Dormant/Lost
+823,IrisStudio,Legal,0,professional,49.17,40,2025-01-29 06:32:12,2030.142857142857,5,0.0,9.0,428,1,2,4,7,🔴 High-Value Sleepers
+824,Zen Cloud,Manufacturing,0,enterprise,82.5,52,2025-03-27 02:01:11,1901.921052631579,5,0.0,5.0,371,1,4,4,9,🟠 At Risk
+825,KiteHub,E-commerce,0,enterprise,82.5,57,2025-08-04 18:36:34,2180.0,4,0.0,6.0,241,2,4,4,10,🟢 Champions
+826,UltraLabs,Media,0,professional,49.17,31,2025-09-09 12:05:14,1854.6,6,0.0,8.0,205,3,1,4,8,🟡 New/Promising
+827,VertexAnalytics,Technology,0,starter,10.0,61,2025-08-21 22:24:41,2053.586956521739,5,0.0,8.0,224,3,4,2,9,🔵 Loyal Customers
+828,OnyxSystems,Education,0,free,0.0,39,2025-08-17 01:05:21,1887.6470588235295,3,0.0,8.0,228,2,2,1,5,⚪ Dormant/Lost
+829,Grid Ventures,Retail,0,starter,15.83,46,2025-05-08 23:19:05,1733.6764705882354,6,0.0,3.0,329,1,4,2,7,🟠 At Risk
+830,Peak HQ,Retail,0,free,0.0,44,2025-07-07 09:27:53,1783.5,3,0.0,2.0,269,2,3,1,6,🟠 At Risk
+831,BoltPro,Telecommunications,1,free,0.0,53,2025-06-18 20:47:01,2078.5777777777776,6,0.0,6.0,288,2,4,1,7,🟠 At Risk
+832,WarpStudio,Finance,1,professional,39.0,36,2025-09-04 12:31:51,1544.0833333333333,6,0.0,4.0,210,3,1,3,7,🟡 New/Promising
+833,NexusIO,Insurance,1,starter,10.0,45,2025-09-17 10:23:34,1973.078947368421,6,0.0,7.0,197,3,4,2,9,🔵 Loyal Customers
+834,Trek Group,Telecommunications,0,starter,12.0,39,2025-08-20 15:20:10,1769.2068965517242,5,0.0,10.0,225,3,2,2,7,🟡 New/Promising
+835,Orbit Net,E-commerce,0,professional,39.0,42,2025-08-06 11:54:26,1891.6176470588234,3,0.0,9.0,239,2,3,3,8,🟠 At Risk
+836,Xenon Analytics,Manufacturing,0,professional,49.17,49,2025-09-22 00:32:51,1420.4358974358975,5,0.0,,192,3,4,4,11,🟢 Champions
+837,Mist Platform,Legal,0,free,0.0,39,2025-07-06 10:37:45,1876.448275862069,6,0.0,,270,2,2,1,5,⚪ Dormant/Lost
+838,Core Dynamics,Logistics,0,professional,29.25,37,2025-06-07 00:33:53,1841.6206896551723,4,0.0,,299,1,2,3,6,🔴 High-Value Sleepers
+839,TrekHub,Manufacturing,0,starter,19.0,42,2025-08-25 17:24:05,2099.909090909091,6,0.0,7.0,220,3,3,3,9,🔵 Loyal Customers
+840,ZealDynamics,Real Estate,0,starter,15.83,45,2025-04-19 01:42:31,1723.1891891891892,6,0.0,7.0,348,1,4,2,7,🟠 At Risk
+841,PulseGroup,Finance,0,professional,59.0,41,2025-07-27 07:43:21,1619.21875,5,0.0,6.0,249,2,3,4,9,🟠 At Risk
+842,Tidal Studio,Finance,0,professional,39.0,38,2025-10-16 18:28:40,1877.7096774193549,3,0.0,9.0,168,4,2,3,9,🟡 New/Promising
+843,Jade AI,Logistics,1,professional,33.15,37,2025-07-30 21:44:08,1582.6363636363637,2,0.0,7.0,246,2,2,3,7,🔴 High-Value Sleepers
+844,MetaStack,Finance,0,starter,10.0,43,2025-04-20 22:46:06,1821.258064516129,2,0.0,4.0,347,1,3,2,6,🟠 At Risk
+845,CoreLabs,Telecommunications,0,starter,19.0,40,2025-07-25 19:21:00,2023.1875,5,0.0,8.0,251,2,2,3,7,🔴 High-Value Sleepers
+846,YieldHQ,Logistics,1,professional,32.5,46,2025-08-28 07:27:31,1678.9444444444443,8,0.0,10.0,217,3,4,3,10,🟢 Champions
+847,HiveTech,Marketing,0,starter,12.0,35,2025-10-30 07:30:47,1648.4074074074074,1,0.0,7.0,154,4,1,2,7,🟡 New/Promising
+848,ZenCorp,Consulting,0,starter,12.0,31,2025-06-29 16:33:31,1854.5,6,0.0,,277,2,1,2,5,⚪ Dormant/Lost
+849,Flow Cloud,Telecommunications,0,enterprise,99.0,37,2024-11-20 22:30:39,1927.607142857143,5,0.0,9.0,498,1,2,4,7,🔴 High-Value Sleepers
+850,RiftCorp,Media,1,starter,15.83,42,2025-10-27 21:35:59,1616.4594594594594,7,0.0,8.0,157,4,3,2,9,🔵 Loyal Customers
+851,NovaVentures,Technology,0,starter,12.0,40,2025-10-28 12:18:09,1946.5666666666666,3,0.0,10.0,156,4,2,2,8,🟡 New/Promising
+852,OrbitStudio,Manufacturing,0,professional,59.0,38,2025-08-23 06:48:40,1995.5625,3,0.0,4.0,222,3,2,4,9,🟡 New/Promising
+853,PeakPro,Manufacturing,0,starter,12.0,32,2025-09-24 17:58:45,1618.5714285714287,3,0.0,7.0,190,3,1,2,6,🟡 New/Promising
+854,VineAnalytics,Legal,0,professional,59.0,38,2025-07-04 04:59:09,1754.4545454545455,8,0.0,10.0,272,2,2,4,8,🔴 High-Value Sleepers
+855,FlowDynamics,E-commerce,1,starter,12.0,40,2025-08-03 19:49:23,2038.939393939394,3,0.0,9.0,242,2,2,2,6,🟤 Need Attention
+856,QuestDev,E-commerce,0,free,0.0,44,2025-08-18 11:19:11,1682.5,7,0.0,7.0,227,2,3,1,6,🟠 At Risk
+857,Sync Dev,Healthcare,0,professional,47.2,39,2025-08-05 04:48:37,1854.65625,6,0.0,10.0,240,2,2,3,7,🔴 High-Value Sleepers
+858,Ultra AI,Healthcare,0,starter,10.0,40,2025-05-04 11:50:53,1762.375,5,0.0,6.0,333,1,2,2,5,⚪ Dormant/Lost
+859,Orbit Hub,Logistics,0,starter,19.0,43,2025-06-09 01:28:06,1526.9444444444443,4,0.0,7.0,297,1,3,3,7,🟠 At Risk
+860,Flux Group,Education,1,professional,32.5,51,2025-08-06 13:04:10,1636.7441860465117,8,0.0,7.0,239,2,4,3,9,🟠 At Risk
+861,KiteStudio,Manufacturing,1,starter,10.0,30,2025-08-24 14:27:08,1691.16,1,0.0,7.0,221,3,1,2,6,🟡 New/Promising
+862,Nova Net,E-commerce,0,free,0.0,50,2025-06-12 14:53:51,1661.357142857143,7,0.0,9.0,294,1,4,1,6,🟠 At Risk
+863,TidalHub,Manufacturing,1,professional,32.5,47,2025-10-12 12:35:20,1853.7058823529412,4,0.0,10.0,172,4,4,3,11,🟢 Champions
+864,Zen Ventures,Insurance,0,starter,9.0,39,2025-08-04 00:36:20,1584.962962962963,6,0.0,8.0,241,2,2,2,6,🟤 Need Attention
+865,FlowWorks,Marketing,0,starter,15.83,44,2025-09-10 14:52:47,1944.5714285714287,5,0.0,10.0,204,3,3,2,8,🔵 Loyal Customers
+866,Jade Solutions,Telecommunications,0,professional,59.0,46,2025-08-14 00:52:19,1750.0857142857142,9,0.0,,231,2,4,4,10,🟢 Champions
+867,HubOps,Telecommunications,1,professional,24.38,46,2025-09-17 13:44:19,2020.3333333333333,9,0.0,,197,3,4,3,10,🟢 Champions
+868,Tidal Ops,Manufacturing,0,professional,39.0,34,2025-09-14 17:34:15,1689.3333333333333,4,0.0,9.0,200,3,1,3,7,🟡 New/Promising
+869,BoltGroup,Manufacturing,0,starter,15.83,40,2025-03-28 06:53:37,1746.78125,6,0.0,8.0,370,1,2,2,5,⚪ Dormant/Lost
+870,QuarkHQ,Marketing,0,professional,39.0,42,2025-10-21 10:06:26,1743.4545454545455,6,0.0,4.0,163,4,3,3,10,🟢 Champions
+871,Yield Software,Telecommunications,0,starter,9.0,29,2025-10-30 12:59:38,1873.0434782608695,3,0.0,8.0,154,4,1,2,7,🟡 New/Promising
+872,Meta IO,Education,1,enterprise,165.83,47,2025-09-18 03:50:45,1730.9512195121952,5,0.0,8.0,196,3,4,4,11,🟢 Champions
+873,EdgeLabs,Legal,0,free,0.0,43,2024-09-30 23:28:21,1754.4516129032259,5,0.0,,549,1,3,1,5,🟠 At Risk
+874,MetaPro,Finance,0,starter,12.0,37,2025-06-23 08:32:48,2122.25,1,0.0,5.0,283,2,2,2,6,🟤 Need Attention
+875,JetDynamics,E-commerce,1,professional,59.0,33,2025-04-12 05:11:55,1915.2631578947369,4,0.0,10.0,355,1,1,4,6,🔴 High-Value Sleepers
+876,Wave Pro,E-commerce,0,starter,8.0,43,2025-09-01 02:57:54,1574.5675675675675,5,0.0,7.0,213,3,3,1,7,🔵 Loyal Customers
+877,FlowOps,Legal,0,enterprise,61.88,39,2025-02-13 08:38:55,2107.8214285714284,6,0.0,,413,1,2,4,7,🔴 High-Value Sleepers
+878,EchoStudio,Insurance,0,starter,12.0,41,2025-08-14 12:30:53,1721.5454545454545,4,0.0,7.0,231,2,3,2,7,🟠 At Risk
+879,DriftHQ,Finance,1,free,0.0,39,2025-02-19 04:30:04,1781.9375,1,0.0,8.0,407,1,2,1,4,⚪ Dormant/Lost
+880,JetVentures,E-commerce,0,free,0.0,53,2025-10-30 14:58:35,2162.95,7,0.0,7.0,154,4,4,1,9,🔵 Loyal Customers
+881,OrbitSoftware,Legal,0,free,0.0,50,2025-02-20 13:24:29,2005.4871794871794,6,0.0,8.0,406,1,4,1,6,🟠 At Risk
+882,JetPlatform,Consulting,0,professional,49.17,34,2025-10-06 23:02:58,2103.3571428571427,3,0.0,8.0,178,4,1,4,9,🟡 New/Promising
+883,OrbitWorks,Telecommunications,0,enterprise,199.0,38,2025-10-26 21:44:36,1626.735294117647,3,0.0,7.0,158,4,2,4,10,🟢 Champions
+884,PulseIO,Telecommunications,0,free,0.0,35,2025-02-12 06:16:33,1280.2333333333333,7,0.0,8.0,414,1,1,1,3,⚪ Dormant/Lost
+885,Jet Studio,Retail,0,free,0.0,49,2025-05-28 06:39:02,1685.8333333333333,3,0.0,3.0,309,1,4,1,6,🟠 At Risk
+886,Mist Group,Healthcare,0,starter,14.25,48,2025-10-28 07:09:19,1955.3170731707316,6,0.0,8.0,156,4,4,2,10,🟢 Champions
+887,Sync Labs,Technology,0,starter,15.83,43,2025-03-05 10:06:57,1803.037037037037,5,0.0,3.0,393,1,3,2,6,🟠 At Risk
+888,Ultra Dynamics,Consulting,1,professional,59.0,28,2025-10-05 10:46:23,1969.047619047619,3,0.0,9.0,179,4,1,4,9,🟡 New/Promising
+889,GlowAI,Legal,1,free,0.0,41,2025-10-24 02:06:25,1944.3333333333333,5,0.0,2.0,160,4,3,1,8,🔵 Loyal Customers
+890,Flow Software,Consulting,0,professional,35.1,42,2025-08-03 14:11:40,2031.2424242424242,5,0.0,8.0,242,2,3,3,8,🟠 At Risk
+891,WarpPlatform,Retail,0,starter,19.0,41,2025-07-21 19:11:02,1953.5,6,0.0,8.0,255,2,3,3,8,🟠 At Risk
+892,Link AI,E-commerce,1,starter,15.83,38,2025-08-10 14:32:29,1695.90625,7,0.0,4.0,235,2,2,2,6,🟤 Need Attention
+893,RushDynamics,Manufacturing,0,professional,39.0,36,2025-05-01 06:42:31,1497.65625,3,0.0,10.0,336,1,1,3,5,🔴 High-Value Sleepers
+894,Yield Systems,Legal,0,professional,39.0,42,2025-10-23 15:59:09,1607.1724137931035,4,0.0,8.0,161,4,3,3,10,🟢 Champions
+895,Bolt Cloud,Technology,0,starter,12.0,38,2025-08-12 17:34:09,1794.483870967742,4,0.0,5.0,233,2,2,2,6,🟤 Need Attention
+896,FluxIO,Education,1,enterprise,99.0,36,2025-10-03 23:19:34,1629.0,5,0.0,0.0,181,4,1,4,9,🟡 New/Promising
+897,CoreLogic,Finance,0,free,0.0,47,2025-06-28 14:49:05,1618.1666666666667,6,0.0,10.0,278,2,4,1,7,🟠 At Risk
+898,Nova Systems,Telecommunications,1,professional,32.5,41,2025-05-31 05:38:01,1835.7666666666667,5,0.0,7.0,306,1,3,3,7,🟠 At Risk
+899,Rift Logic,Technology,0,free,0.0,38,2025-06-06 16:29:51,1890.857142857143,3,0.0,6.0,300,1,2,1,4,⚪ Dormant/Lost
+900,Rush Software,E-commerce,0,starter,10.0,51,2025-06-17 11:27:44,1875.404761904762,6,0.0,7.0,289,2,4,2,8,🟠 At Risk
+901,Xenon Tech,Real Estate,1,starter,12.0,33,2025-02-15 06:32:53,1767.0,7,0.0,0.0,411,1,1,2,4,⚪ Dormant/Lost
+902,Rift Hub,Telecommunications,0,starter,19.0,45,2025-08-06 06:52:29,1741.235294117647,6,0.0,9.0,239,2,4,3,9,🟠 At Risk
+903,OnyxDigital,Media,1,starter,10.0,40,2025-10-01 22:55:59,1637.121212121212,5,0.0,8.0,183,3,2,2,7,🟡 New/Promising
+904,QuarkDynamics,Finance,0,starter,19.0,38,2025-08-13 17:17:59,1657.21875,3,0.0,8.0,232,2,2,3,7,🔴 High-Value Sleepers
+905,OrbitVentures,Manufacturing,0,professional,39.0,27,2025-08-14 08:34:32,1534.7826086956522,5,0.0,9.0,231,2,1,3,6,🔴 High-Value Sleepers
+906,EdgeNet,E-commerce,0,professional,59.0,58,2025-09-07 21:06:24,1916.7446808510638,5,0.0,7.0,207,3,4,4,11,🟢 Champions
+907,EdgeAnalytics,Healthcare,0,professional,59.0,35,2025-10-25 21:33:15,1993.8620689655172,7,0.0,7.0,159,4,1,4,9,🟡 New/Promising
+908,OnyxGroup,Logistics,0,professional,39.0,44,2024-12-24 16:40:11,2066.6,4,0.0,7.0,464,1,3,3,7,🟠 At Risk
+909,SageVentures,Marketing,1,enterprise,199.0,27,2025-09-24 18:18:21,1628.608695652174,5,0.0,4.0,190,3,1,4,8,🟡 New/Promising
+910,DriftLogic,E-commerce,1,free,0.0,37,2025-10-13 09:55:02,1681.0,6,0.0,3.0,171,4,2,1,7,🟡 New/Promising
+911,Luna HQ,Education,0,professional,39.0,33,2025-02-07 08:50:29,1518.7142857142858,4,0.0,6.0,419,1,1,3,5,🔴 High-Value Sleepers
+912,Vertex Corp,Healthcare,0,free,0.0,53,2025-07-01 18:22:39,1494.5555555555557,7,0.0,4.0,275,2,4,1,7,🟠 At Risk
+913,Vertex Ops,Real Estate,1,professional,59.0,43,2025-10-21 12:47:44,1809.8055555555557,6,0.0,9.0,163,4,3,4,11,🟢 Champions
+914,RushCorp,Manufacturing,0,free,0.0,52,2025-08-31 14:46:30,1866.8648648648648,5,0.0,9.0,214,3,4,1,8,🔵 Loyal Customers
+915,Keen Solutions,Logistics,1,free,0.0,38,2025-07-12 06:11:35,2009.5625,6,0.0,8.0,264,2,2,1,5,⚪ Dormant/Lost
+916,TidalDigital,Manufacturing,0,free,0.0,33,2025-09-01 04:51:55,1681.4333333333334,5,0.0,2.0,213,3,1,1,5,🟡 New/Promising
+917,MetaOps,Consulting,0,enterprise,99.0,40,2025-08-13 00:32:00,1933.6774193548388,4,0.0,2.0,232,2,2,4,8,🔴 High-Value Sleepers
+918,PulseStack,Retail,0,professional,39.0,48,2025-04-25 18:59:12,1818.088888888889,5,0.0,8.0,342,1,4,3,8,🟠 At Risk
+919,OrbitPro,Consulting,0,enterprise,79.2,39,2025-10-18 20:51:08,1817.4,3,0.0,1.0,166,4,2,4,10,🟢 Champions
+920,Rush Logic,Education,0,professional,59.0,42,2025-08-19 09:17:43,1841.7333333333333,5,0.0,7.0,226,2,3,4,9,🟠 At Risk
+921,Flux Works,Media,0,starter,19.0,41,2025-05-01 23:32:20,1630.0357142857142,4,0.0,8.0,336,1,3,3,7,🟠 At Risk
+922,HiveOps,Education,0,free,0.0,41,2025-03-18 16:14:46,1955.138888888889,3,0.0,2.0,380,1,3,1,5,🟠 At Risk
+923,TrekDynamics,E-commerce,0,professional,35.1,41,2025-04-27 11:36:59,1941.878787878788,5,0.0,7.0,340,1,3,3,7,🟠 At Risk
+924,LunaStack,Marketing,0,free,0.0,53,2025-10-19 05:14:18,1825.8139534883721,7,0.0,9.0,165,4,4,1,9,🔵 Loyal Customers
+925,DriftDynamics,Education,0,free,0.0,50,2025-10-08 20:05:23,1759.95,6,0.0,9.0,176,4,4,1,9,🔵 Loyal Customers
+926,XenonHub,Technology,0,free,0.0,37,2025-09-07 23:05:34,1656.2727272727273,6,0.0,,207,3,2,1,6,🟡 New/Promising
+927,Beam Platform,E-commerce,1,professional,59.0,43,2025-10-21 04:43:29,1699.5263157894738,6,0.0,5.0,163,4,3,4,11,🟢 Champions
+928,KiteTech,Real Estate,0,professional,49.17,31,2025-03-13 14:02:37,2004.2307692307693,4,0.0,9.0,385,1,1,4,6,🔴 High-Value Sleepers
+929,Tidal Corp,Real Estate,0,professional,59.0,43,2025-09-28 13:03:42,1852.34375,2,0.0,9.0,186,3,3,4,10,🟢 Champions
+930,Rift IO,Manufacturing,0,free,0.0,43,2025-08-24 05:22:39,1972.4117647058824,5,0.0,2.0,221,3,3,1,7,🔵 Loyal Customers
+931,Ultra Studio,Manufacturing,0,free,0.0,52,2025-08-22 17:49:45,1987.5128205128206,7,0.0,7.0,223,3,4,1,8,🔵 Loyal Customers
+932,TrekLabs,Marketing,0,free,0.0,45,2025-10-02 15:06:21,1709.3589743589744,6,0.0,10.0,182,4,4,1,9,🔵 Loyal Customers
+933,HiveGroup,E-commerce,0,starter,12.0,43,2025-09-24 21:00:46,1754.2432432432433,7,0.0,9.0,190,3,3,2,8,🔵 Loyal Customers
+934,Beam Analytics,Retail,0,enterprise,61.88,57,2025-08-20 05:25:17,1796.3061224489795,6,0.0,9.0,225,3,4,4,11,🟢 Champions
+935,SyncDynamics,Manufacturing,0,professional,32.5,48,2025-08-20 00:20:31,1706.8918918918919,3,0.0,8.0,225,3,4,3,10,🟢 Champions
+936,ZealHQ,Marketing,0,free,0.0,45,2025-09-24 17:17:10,2133.846153846154,4,0.0,5.0,190,3,4,1,8,🔵 Loyal Customers
+937,DriftPlatform,Legal,1,free,0.0,48,2025-07-03 12:18:13,1907.3,5,0.0,8.0,273,2,4,1,7,🟠 At Risk
+938,JadeDynamics,Telecommunications,0,professional,35.1,39,2025-06-16 08:40:11,1688.2162162162163,6,0.0,7.0,290,2,2,3,7,🔴 High-Value Sleepers
+939,HubGroup,Manufacturing,0,free,0.0,44,2025-10-25 13:50:13,1803.9142857142858,6,0.0,9.0,159,4,3,1,8,🔵 Loyal Customers
+940,PeakCloud,Finance,0,starter,12.0,27,2025-08-21 04:33:12,1924.8695652173913,5,0.0,3.0,224,3,1,2,6,🟡 New/Promising
+941,Data Studio,Consulting,0,free,0.0,48,2025-10-29 09:05:45,1850.5135135135135,6,0.0,10.0,155,4,4,1,9,🔵 Loyal Customers
+942,EdgeStudio,Education,0,professional,59.0,36,2025-10-08 05:48:35,1942.6296296296296,3,0.0,,176,4,1,4,9,🟡 New/Promising
+943,VertexGroup,Real Estate,0,professional,35.1,47,2025-09-25 15:19:09,1903.4736842105262,5,0.0,9.0,189,3,4,3,10,🟢 Champions
+944,TrekHQ,Logistics,1,free,0.0,35,2025-08-04 06:50:41,1650.40625,4,0.0,6.0,241,2,1,1,4,⚪ Dormant/Lost
+945,Jet Corp,Media,0,professional,49.17,32,2025-10-20 00:49:49,1581.8846153846155,4,0.0,,164,4,1,4,9,🟡 New/Promising
+946,XenonIO,Education,0,professional,36.88,40,2025-09-01 13:01:10,1832.5806451612902,6,0.0,7.0,213,3,2,3,8,🟡 New/Promising
+947,OrbitLabs,Education,0,professional,49.17,34,2025-10-22 19:05:18,2522.2608695652175,5,0.0,3.0,162,4,1,4,9,🟡 New/Promising
+948,OrbitPlatform,Finance,1,enterprise,99.0,47,2025-10-15 22:36:16,1961.0975609756097,6,0.0,8.0,169,4,4,4,12,🟢 Champions
+949,ZealWorks,Technology,1,professional,49.17,42,2025-10-21 14:29:17,2018.75,3,0.0,,163,4,3,4,11,🟢 Champions
+950,Ultra Ventures,Manufacturing,0,professional,32.5,47,2025-10-30 18:09:58,1839.175,5,0.0,8.0,154,4,4,3,11,🟢 Champions
+951,DataLabs,Technology,1,professional,29.25,38,2025-03-09 23:09:14,1816.6666666666667,8,0.0,4.0,389,1,2,3,6,🔴 High-Value Sleepers
+952,Link Cloud,Real Estate,1,enterprise,70.12,36,2025-08-20 09:46:49,2239.076923076923,4,0.0,6.0,225,3,1,4,8,🟡 New/Promising
+953,KiteNet,Consulting,0,enterprise,199.0,33,2025-10-25 06:29:28,1895.0434782608695,4,0.0,0.0,159,4,1,4,9,🟡 New/Promising
+954,Data Ventures,Telecommunications,0,free,0.0,48,2025-06-09 06:55:36,1922.4594594594594,9,0.0,10.0,297,1,4,1,6,🟠 At Risk
+955,HubStack,Logistics,1,free,0.0,48,2025-07-06 22:54:35,1677.657894736842,4,0.0,8.0,270,2,4,1,7,🟠 At Risk
+956,YieldSolutions,Consulting,0,starter,8.5,45,2025-08-20 18:45:27,1669.4358974358975,6,0.0,9.0,225,3,4,2,9,🔵 Loyal Customers
+957,ArcTech,Marketing,1,enterprise,99.0,39,2025-09-15 13:19:36,1514.7777777777778,4,0.0,,199,3,2,4,9,🟡 New/Promising
+958,GridIO,Media,0,professional,59.0,49,2025-09-08 18:40:06,1898.0,5,0.0,9.0,206,3,4,4,11,🟢 Champions
+959,BeamHub,Insurance,1,professional,39.0,34,2025-08-25 17:39:40,1783.625,4,0.0,3.0,220,3,1,3,7,🟡 New/Promising
+960,Peak AI,Retail,0,enterprise,70.12,36,2025-10-28 16:55:58,2170.9666666666667,3,0.0,6.0,156,4,1,4,9,🟡 New/Promising
+961,Unit Hub,Logistics,0,starter,9.6,37,2025-09-19 14:19:33,1756.774193548387,2,0.0,10.0,195,3,2,2,7,🟡 New/Promising
+962,YieldDynamics,Finance,1,professional,50.15,42,2025-02-27 08:30:24,1836.9411764705883,6,0.0,8.0,399,1,3,4,8,🟠 At Risk
+963,Grid Hub,Telecommunications,0,professional,39.0,42,2025-09-22 13:24:26,1639.896551724138,6,0.0,6.0,192,3,3,3,9,🔵 Loyal Customers
+964,Core Works,Healthcare,0,starter,19.0,43,2025-10-10 18:19:21,1519.4054054054054,7,0.0,10.0,174,4,3,3,10,🟢 Champions
+965,IrisAnalytics,Telecommunications,0,professional,27.62,42,2025-10-29 18:45:00,1686.5,3,0.0,6.0,155,4,3,3,10,🟢 Champions
+966,Glow Hub,Insurance,0,free,0.0,39,2025-10-11 10:14:17,1350.8666666666666,4,0.0,8.0,173,4,2,1,7,🟡 New/Promising
+967,JadeHub,Marketing,0,enterprise,99.0,41,2025-05-26 04:45:17,1690.0294117647059,5,0.0,8.0,311,1,3,4,8,🟠 At Risk
+968,Grid Group,Media,1,professional,39.0,45,2025-10-19 08:56:26,1776.2,4,0.0,,165,4,4,3,11,🟢 Champions
+969,PulseCloud,Manufacturing,0,professional,32.5,53,2025-02-17 16:30:30,2073.2045454545455,5,0.0,6.0,409,1,4,3,8,🟠 At Risk
+970,Ion Dev,Real Estate,1,starter,12.0,48,2025-10-12 21:07:39,1555.5263157894738,4,0.0,8.0,172,4,4,2,10,🟢 Champions
+971,FlowNet,Real Estate,0,starter,12.0,41,2025-09-18 17:02:36,1558.138888888889,4,0.0,9.0,196,3,3,2,8,🔵 Loyal Customers
+972,Data Digital,Healthcare,0,free,0.0,41,2025-07-19 06:18:20,1730.8125,4,0.0,10.0,257,2,3,1,6,🟠 At Risk
+973,Peak Ventures,Legal,0,starter,15.83,39,2025-10-05 19:37:06,1758.0967741935483,6,0.0,7.0,179,4,2,2,8,🟡 New/Promising
+974,ArcLabs,Telecommunications,0,free,0.0,44,2025-08-22 00:32:01,1661.8285714285714,4,0.0,7.0,223,3,3,1,7,🔵 Loyal Customers
+975,Nexus Systems,Legal,0,starter,19.0,32,2025-08-06 15:28:45,1460.0,3,0.0,6.0,239,2,1,3,6,🔴 High-Value Sleepers
+976,Edge Ops,Manufacturing,0,starter,10.0,37,2025-09-16 12:01:38,2026.25,7,0.0,5.0,198,3,2,2,7,🟡 New/Promising
+977,YieldOps,Education,0,enterprise,99.0,29,2025-06-25 11:14:50,1815.0,5,0.0,5.0,281,2,1,4,7,🔴 High-Value Sleepers
+978,Beam HQ,Finance,0,professional,27.62,33,2025-10-28 00:54:08,2070.4074074074074,3,0.0,6.0,156,4,1,3,8,🟡 New/Promising
+979,Drift Studio,Education,1,starter,12.0,34,2025-07-05 08:23:59,1677.2333333333333,2,0.0,8.0,271,2,1,2,5,⚪ Dormant/Lost
+980,ZealPlatform,Manufacturing,1,professional,49.17,54,2025-06-21 09:29:44,1808.6530612244899,6,0.0,5.0,285,2,4,4,10,🟢 Champions
+981,QuarkPlatform,Logistics,1,enterprise,149.25,34,2025-08-29 18:16:23,2037.2592592592594,5,0.0,9.0,216,3,1,4,8,🟡 New/Promising
+982,Rush Ventures,E-commerce,0,enterprise,99.0,34,2025-03-23 01:10:21,1560.2413793103449,4,0.0,4.0,375,1,1,4,6,🔴 High-Value Sleepers
+983,OrbitCorp,E-commerce,0,professional,32.5,43,2025-06-14 13:06:43,1856.6451612903227,4,0.0,0.0,292,1,3,3,7,🟠 At Risk
+984,QuarkLabs,Manufacturing,0,professional,32.5,31,2025-08-02 17:08:18,1445.0833333333333,3,0.0,4.0,243,2,1,3,6,🔴 High-Value Sleepers
+985,CloudIO,Media,0,starter,10.0,51,2025-08-22 20:35:56,1992.046511627907,9,0.0,7.0,223,3,4,2,9,🔵 Loyal Customers
+986,Sage Studio,Telecommunications,1,starter,19.0,34,2025-02-03 01:27:45,1797.25,4,0.0,10.0,423,1,1,3,5,🔴 High-Value Sleepers
+987,DataOps,Real Estate,1,starter,12.0,40,2025-03-26 18:56:37,1605.235294117647,6,0.0,6.0,372,1,2,2,5,⚪ Dormant/Lost
+988,Arc Systems,Healthcare,0,professional,32.5,50,2025-09-11 18:52:15,2034.6666666666667,3,0.0,8.0,203,3,4,3,10,🟢 Champions
+989,MistDynamics,E-commerce,0,starter,16.15,37,2025-02-19 09:16:33,1654.0,6,0.0,6.0,407,1,2,3,6,🔴 High-Value Sleepers
+990,Data Platform,Legal,1,enterprise,66.0,28,2025-06-11 07:43:15,1895.7826086956522,2,0.0,8.0,295,1,1,4,6,🔴 High-Value Sleepers
+991,PulseDynamics,Marketing,0,starter,9.0,51,2025-10-23 22:47:50,1689.2380952380952,7,0.0,9.0,161,4,4,2,10,🟢 Champions
+992,Jet Group,Consulting,0,free,0.0,44,2025-10-08 22:16:01,1779.4285714285713,4,0.0,8.0,176,4,3,1,8,🔵 Loyal Customers
+993,Bolt Hub,Logistics,0,professional,39.0,35,2025-02-19 10:34:41,1878.0714285714287,5,0.0,8.0,407,1,1,3,5,🔴 High-Value Sleepers
+994,OnyxPro,Technology,0,professional,59.0,41,2025-10-19 10:06:57,1835.0967741935483,7,0.0,7.0,165,4,3,4,11,🟢 Champions
+995,Warp Cloud,Media,1,starter,10.0,42,2025-08-20 16:09:13,2211.969696969697,6,0.0,7.0,225,3,3,2,8,🔵 Loyal Customers
+996,XenonPro,Media,0,starter,12.0,44,2025-10-29 23:19:26,1457.9166666666667,5,0.0,9.0,155,4,3,2,9,🔵 Loyal Customers
+997,Edge AI,Education,1,free,0.0,42,2025-08-16 01:54:49,2214.4594594594596,5,0.0,8.0,229,2,3,1,6,🟠 At Risk
+998,Trek Hub,E-commerce,0,starter,12.0,41,2025-09-04 04:41:06,1709.030303030303,5,0.0,8.0,210,3,3,2,8,🔵 Loyal Customers
+999,Pulse Corp,Insurance,0,free,0.0,44,2025-07-28 22:13:02,1652.4571428571428,3,0.0,8.0,248,2,3,1,6,🟠 At Risk
+1000,SyncStack,Marketing,0,free,0.0,36,2025-08-12 06:12:55,1689.0344827586207,5,0.0,7.0,233,2,2,1,5,⚪ Dormant/Lost
+1001,Flow IO,Manufacturing,1,professional,39.0,37,2025-10-18 16:18:59,2025.84375,3,0.0,9.0,166,4,2,3,9,🟡 New/Promising
+1002,RushWorks,Finance,1,professional,31.2,40,2025-10-05 08:06:01,1428.3714285714286,3,0.0,8.0,179,4,2,3,9,🟡 New/Promising
+1003,LinkWorks,Healthcare,0,starter,19.0,42,2025-09-22 07:34:48,1863.2894736842106,5,0.0,9.0,192,3,3,3,9,🔵 Loyal Customers
+1004,MetaPlatform,Logistics,0,professional,53.1,35,2024-04-13 12:23:54,2144.233333333333,4,0.0,2.0,719,1,1,4,6,🔴 High-Value Sleepers
+1005,WarpGroup,Consulting,0,enterprise,99.0,39,2025-06-28 08:30:44,1972.1724137931035,4,0.0,9.0,278,2,2,4,8,🔴 High-Value Sleepers
+1006,LunaSoftware,Insurance,0,professional,39.0,50,2025-09-22 11:08:27,1824.2051282051282,6,0.0,7.0,192,3,4,3,10,🟢 Champions
+1007,OnyxNet,Legal,0,starter,10.0,48,2025-10-05 00:55:45,1989.5,4,0.0,9.0,179,4,4,2,10,🟢 Champions
+1008,DataTech,Healthcare,0,free,0.0,48,2025-08-04 11:25:03,1847.0,7,0.0,9.0,241,2,4,1,7,🟠 At Risk
+1009,LinkDigital,Manufacturing,0,starter,10.2,46,2025-06-20 13:42:45,1878.081081081081,6,0.0,9.0,286,2,4,2,8,🟠 At Risk
+1010,FlowAnalytics,Legal,1,free,0.0,35,2025-06-27 11:07:05,1716.1379310344828,5,0.0,9.0,279,2,1,1,4,⚪ Dormant/Lost
+1011,Zeal Labs,Technology,0,free,0.0,37,2025-05-12 18:28:00,2011.3225806451612,2,0.0,7.0,325,1,2,1,4,⚪ Dormant/Lost
+1012,Luna Hub,E-commerce,0,professional,49.17,48,2025-08-14 10:44:41,1927.1538461538462,4,0.0,0.0,231,2,4,4,10,🟢 Champions
+1013,SyncPro,Healthcare,0,professional,59.0,30,2025-10-12 06:05:55,1503.9583333333333,5,0.0,8.0,172,4,1,4,9,🟡 New/Promising
+1014,Peak Studio,Real Estate,0,free,0.0,41,2025-05-16 01:24:37,1996.78125,4,0.0,1.0,321,1,3,1,5,🟠 At Risk
+1015,QuarkVentures,Manufacturing,0,starter,19.0,54,2025-08-21 14:41:23,1688.7826086956522,7,0.0,7.0,224,3,4,3,10,🟢 Champions
+1016,Iris Studio,Real Estate,0,professional,53.1,41,2025-03-26 04:17:27,1912.5333333333333,4,0.0,9.0,372,1,3,4,8,🟠 At Risk
+1017,Zeal Platform,Education,1,professional,39.0,45,2025-10-30 00:26:39,1812.2432432432433,4,0.0,8.0,154,4,4,3,11,🟢 Champions
+1018,BoltStack,Legal,0,starter,10.0,48,2025-10-10 10:07:52,1884.75,7,0.0,7.0,174,4,4,2,10,🟢 Champions
+1019,Jet Net,Real Estate,0,starter,15.83,36,2025-07-14 23:10:44,1400.7333333333333,5,0.0,8.0,262,2,2,2,6,🟤 Need Attention
+1020,Jade Logic,Real Estate,0,professional,49.17,44,2025-08-18 23:21:09,1717.9166666666667,7,0.0,3.0,227,2,3,4,9,🟠 At Risk
+1021,ZealSoftware,Marketing,0,professional,39.0,48,2025-09-25 01:54:27,1967.9285714285713,4,0.0,1.0,189,3,4,3,10,🟢 Champions
+1022,GlowAnalytics,Technology,0,free,0.0,36,2025-10-09 22:47:27,1724.2,7,0.0,4.0,175,4,2,1,7,🟡 New/Promising
+1023,DataSystems,Insurance,0,enterprise,99.0,45,2024-11-19 23:36:27,1811.4285714285713,5,0.0,10.0,499,1,4,4,9,🟠 At Risk
+1024,Arc Hub,Finance,0,free,0.0,49,2025-10-18 23:19:06,1855.0833333333333,5,0.0,4.0,166,4,4,1,9,🔵 Loyal Customers
+1025,FluxHQ,Education,0,professional,49.17,58,2025-10-21 17:13:22,1846.2340425531916,6,0.0,6.0,163,4,4,4,12,🟢 Champions
+1026,VineIO,Retail,1,free,0.0,37,2025-08-08 18:38:29,1687.4848484848485,6,0.0,9.0,237,2,2,1,5,⚪ Dormant/Lost
+1027,Drift Platform,Healthcare,0,enterprise,74.25,45,2025-04-06 06:50:10,1679.764705882353,5,0.0,4.0,361,1,4,4,9,🟠 At Risk
+1028,GlowOps,Consulting,0,starter,15.83,43,2025-03-11 22:53:33,1798.3142857142857,4,0.0,10.0,387,1,3,3,7,🟠 At Risk
+1029,GridLogic,Healthcare,1,professional,59.0,34,2025-10-24 08:50:46,1666.32,5,0.0,8.0,160,4,1,4,9,🟡 New/Promising
+1030,Hive Corp,Finance,0,professional,49.17,32,2025-05-08 19:39:32,1530.4782608695652,4,0.0,8.0,329,1,1,4,6,🔴 High-Value Sleepers
+1031,Rift Works,Manufacturing,0,starter,12.0,46,2025-04-12 13:21:51,1797.9473684210527,5,0.0,9.0,355,1,4,2,7,🟠 At Risk
+1032,ZenOps,Healthcare,0,free,0.0,37,2025-06-06 04:09:52,1593.12,1,0.0,7.0,300,1,2,1,4,⚪ Dormant/Lost
+1033,WarpLabs,Finance,0,professional,32.5,48,2025-09-29 01:51:32,1777.775,5,0.0,5.0,185,3,4,3,10,🟢 Champions
+1034,CoreSystems,Manufacturing,1,free,0.0,32,2025-09-09 13:31:45,1819.391304347826,2,0.0,,205,3,1,1,5,🟡 New/Promising
+1035,JadeVentures,Logistics,1,enterprise,74.25,32,2025-10-02 22:39:52,1640.6785714285713,3,0.0,10.0,182,4,1,4,9,🟡 New/Promising
+1036,Mist Works,Retail,0,professional,59.0,36,2025-08-25 09:57:21,1791.7575757575758,1,0.0,,220,3,2,4,9,🟡 New/Promising
+1037,SageStack,Marketing,1,starter,13.46,42,2025-09-18 21:33:12,1793.5151515151515,2,0.0,10.0,196,3,3,2,8,🔵 Loyal Customers
+1038,DriftIO,Consulting,0,free,0.0,42,2025-10-06 18:02:56,2089.4166666666665,2,0.0,5.0,178,4,3,1,8,🔵 Loyal Customers
+1039,Peak Dynamics,Marketing,0,starter,19.0,46,2025-06-07 20:13:58,2011.0487804878048,4,0.0,,299,1,4,3,8,🟠 At Risk
+1040,Vine Works,Retail,0,starter,19.0,41,2025-07-10 04:58:27,1566.9705882352941,5,0.0,8.0,266,2,3,3,8,🟠 At Risk
+1041,Ion Ops,Media,0,free,0.0,32,2025-08-17 00:59:42,1628.4074074074074,4,0.0,7.0,228,2,1,1,4,⚪ Dormant/Lost
+1042,Warp Works,Legal,0,professional,47.2,29,2025-09-30 12:57:31,1660.7272727272727,3,0.0,8.0,184,3,1,3,7,🟡 New/Promising
+1043,NexusSystems,Telecommunications,0,free,0.0,31,2025-10-13 06:22:52,1907.5,4,0.0,0.0,171,4,1,1,6,🟡 New/Promising
+1044,Xenon Software,Manufacturing,0,starter,19.0,40,2025-04-23 06:47:10,1485.7931034482758,3,0.0,10.0,344,1,2,3,6,🔴 High-Value Sleepers
+1045,Nexus Analytics,Retail,1,starter,10.0,46,2025-10-07 09:30:21,1856.9756097560976,7,0.0,10.0,177,4,4,2,10,🟢 Champions
+1046,JadeAI,Retail,0,free,0.0,25,2025-07-20 17:27:46,1901.8,2,0.0,7.0,256,2,1,1,4,⚪ Dormant/Lost
+1047,DataWorks,Real Estate,0,professional,59.0,40,2025-10-13 18:42:17,1708.4545454545455,7,0.0,10.0,171,4,2,4,10,🟢 Champions
+1048,UltraNet,Education,0,free,0.0,31,2025-05-01 22:01:51,1949.1904761904761,3,0.0,3.0,336,1,1,1,3,⚪ Dormant/Lost
+1049,OnyxPlatform,Telecommunications,0,starter,10.0,39,2025-07-23 06:07:08,1746.78125,3,0.0,10.0,253,2,2,2,6,🟤 Need Attention
+1050,Grid Cloud,Education,0,professional,47.2,34,2024-12-19 03:11:15,1921.857142857143,4,0.0,,469,1,1,3,5,🔴 High-Value Sleepers
+1051,BeamHQ,Insurance,0,enterprise,82.5,34,2025-07-21 11:05:47,1945.0,5,0.0,10.0,255,2,1,4,7,🔴 High-Value Sleepers
+1052,Luna Net,Media,0,free,0.0,39,2025-10-14 20:06:40,1693.235294117647,3,0.0,0.0,170,4,2,1,7,🟡 New/Promising
+1053,Kite Hub,Consulting,0,starter,17.1,39,2025-05-17 12:13:18,2085.0857142857144,3,0.0,2.0,320,1,2,3,6,🔴 High-Value Sleepers
+1054,NexusTech,Insurance,1,starter,12.0,46,2025-10-28 09:25:17,2225.4285714285716,5,0.0,,156,4,4,2,10,🟢 Champions
+1055,NovaSoftware,Legal,1,free,0.0,32,2025-03-09 14:10:46,2112.259259259259,3,0.0,6.0,389,1,1,1,3,⚪ Dormant/Lost
+1056,UnitCorp,Logistics,0,enterprise,82.5,39,2024-09-18 21:40:14,1696.3214285714287,5,0.0,5.0,561,1,2,4,7,🔴 High-Value Sleepers
+1057,UltraDynamics,Education,0,starter,12.67,39,2025-06-22 09:06:48,1501.1290322580646,6,0.0,8.0,284,2,2,2,6,🟤 Need Attention
+1058,QuarkAnalytics,Insurance,0,free,0.0,49,2025-10-09 03:01:13,1917.5128205128206,4,0.0,5.0,175,4,4,1,9,🔵 Loyal Customers
+1059,Pulse Ops,Telecommunications,0,professional,26.0,42,2025-09-16 18:39:26,1594.7777777777778,3,0.0,10.0,198,3,3,3,9,🔵 Loyal Customers
+1060,ZenPro,Retail,0,free,0.0,32,2025-06-09 00:38:00,1898.3333333333333,5,0.0,8.0,297,1,1,1,3,⚪ Dormant/Lost
+1061,Vine Pro,Legal,0,starter,12.0,44,2025-06-21 18:35:50,1849.0263157894738,6,0.0,7.0,285,2,3,2,7,🟠 At Risk
+1062,WaveSolutions,Retail,0,enterprise,70.12,45,2025-04-21 14:12:31,1285.3030303030303,5,0.0,6.0,346,1,4,4,9,🟠 At Risk
+1063,Rush Stack,Retail,1,free,0.0,45,2025-07-10 18:37:35,1973.157894736842,6,0.0,4.0,266,2,4,1,7,🟠 At Risk
+1064,ZenAI,Legal,0,free,0.0,29,2025-10-26 02:59:05,2210.8260869565215,2,0.0,4.0,158,4,1,1,6,🟡 New/Promising
+1065,HubSystems,Healthcare,0,starter,15.83,40,2025-08-15 00:54:02,1763.03125,7,0.0,6.0,230,2,2,3,7,🔴 High-Value Sleepers
+1066,MetaGroup,E-commerce,0,starter,12.0,36,2025-06-18 19:08:51,1529.3103448275863,3,0.0,1.0,288,2,2,2,6,🟤 Need Attention
+1067,RiftLogic,Finance,1,free,0.0,37,2025-10-26 04:24:58,1942.642857142857,4,0.0,9.0,158,4,2,1,7,🟡 New/Promising
+1068,KeenGroup,Insurance,1,professional,31.2,49,2025-09-02 05:06:24,1833.0238095238096,5,0.0,6.0,212,3,4,3,10,🟢 Champions
+1069,Bolt Analytics,Healthcare,1,professional,35.1,47,2025-06-25 07:11:03,1928.4146341463415,4,0.0,8.0,281,2,4,3,9,🟠 At Risk
+1070,CorePro,Healthcare,0,enterprise,99.0,44,2025-09-25 09:48:52,2083.470588235294,6,0.0,8.0,189,3,3,4,10,🟢 Champions
+1071,UltraAnalytics,Finance,1,starter,10.0,41,2025-06-20 05:03:48,1943.7857142857142,3,0.0,7.0,286,2,3,2,7,🟠 At Risk
+1072,XenonCorp,Education,0,free,0.0,36,2024-12-23 11:14:19,1565.3,6,0.0,3.0,465,1,2,1,4,⚪ Dormant/Lost
+1073,Quark HQ,Manufacturing,1,free,0.0,35,2025-09-08 23:58:31,1854.7666666666667,3,0.0,8.0,205,3,1,1,5,🟡 New/Promising
+1074,Acme Dev,Healthcare,0,professional,32.5,40,2025-08-22 23:31:43,1702.8285714285714,5,0.0,7.0,223,3,2,3,8,🟡 New/Promising
+1075,FlowSoftware,Manufacturing,0,starter,10.2,42,2025-09-21 03:27:29,1918.8620689655172,8,0.0,8.0,193,3,3,2,8,🔵 Loyal Customers
+1076,Zen Solutions,Healthcare,0,professional,32.5,41,2025-10-16 19:09:54,1757.3030303030303,5,0.0,10.0,168,4,3,3,10,🟢 Champions
+1077,Jade Labs,Marketing,0,enterprise,84.15,44,2025-10-28 23:01:26,1839.9142857142858,3,0.0,9.0,156,4,3,4,11,🟢 Champions
+1078,Pulse Digital,Legal,0,free,0.0,38,2025-09-11 05:32:04,1888.7241379310344,5,0.0,3.0,203,3,2,1,6,🟡 New/Promising
+1079,Quark AI,Technology,0,enterprise,99.0,40,2025-10-11 15:22:28,1862.1351351351352,8,0.0,3.0,173,4,2,4,10,🟢 Champions
+1080,KeenLabs,Logistics,0,free,0.0,39,2025-07-15 09:41:50,1883.4117647058824,5,0.0,8.0,261,2,2,1,5,⚪ Dormant/Lost
+1081,Edge Software,Consulting,0,starter,19.0,35,2025-05-27 01:07:14,2009.4516129032259,5,0.0,9.0,310,1,1,3,5,🔴 High-Value Sleepers
+1082,WarpWorks,E-commerce,0,starter,12.0,42,2024-12-23 13:13:08,1895.3142857142857,6,0.0,7.0,465,1,3,2,6,🟠 At Risk
+1083,KiteCorp,Logistics,1,professional,49.17,45,2025-06-19 15:32:13,1664.5128205128206,8,0.0,6.0,287,2,4,4,10,🟢 Champions
+1084,GlowGroup,Insurance,0,starter,12.0,55,2025-09-17 21:39:56,1851.7045454545455,5,0.0,7.0,197,3,4,2,9,🔵 Loyal Customers
+1085,EdgeDynamics,Telecommunications,0,professional,59.0,34,2025-10-21 08:25:07,1952.2222222222222,6,0.0,7.0,163,4,1,4,9,🟡 New/Promising
+1086,Cloud Corp,Consulting,0,professional,39.0,36,2025-09-15 12:37:26,2019.59375,5,0.0,,199,3,2,3,8,🟡 New/Promising
+1087,Kite Group,Logistics,0,professional,49.17,43,2025-08-22 04:07:13,2017.5151515151515,5,0.0,,223,3,3,4,10,🟢 Champions
+1088,CloudVentures,Legal,0,starter,15.83,38,2025-10-24 20:47:40,1695.7666666666667,3,0.0,9.0,160,4,2,3,9,🟡 New/Promising
+1089,LinkOps,Manufacturing,0,enterprise,132.67,44,2025-10-06 11:19:23,1861.7297297297298,6,0.0,6.0,178,4,3,4,11,🟢 Champions
+1090,Acme Digital,Media,0,professional,39.0,43,2025-05-29 14:32:38,2296.9032258064517,6,0.0,6.0,308,1,3,3,7,🟠 At Risk
+1091,GlowVentures,Insurance,1,professional,39.0,28,2025-03-11 14:38:28,1959.2272727272727,3,0.0,6.0,387,1,1,3,5,🔴 High-Value Sleepers
+1092,PulseStudio,Real Estate,0,starter,12.0,42,2025-05-19 17:16:33,1888.5454545454545,4,0.0,7.0,318,1,3,2,6,🟠 At Risk
+1093,QuarkWorks,Healthcare,0,starter,9.6,40,2025-06-20 12:51:47,2076.967741935484,4,0.0,8.0,286,2,2,2,6,🟤 Need Attention
+1094,BeamWorks,Retail,0,professional,39.0,52,2025-10-23 16:06:30,1932.7391304347825,7,0.0,10.0,161,4,4,3,11,🟢 Champions
+1095,Quark Group,Media,0,professional,49.17,43,2025-09-23 15:57:45,1893.0833333333333,7,0.0,7.0,191,3,3,4,10,🟢 Champions
+1096,OnyxLogic,Media,0,starter,19.0,43,2025-10-07 08:43:40,1958.5,4,0.0,8.0,177,4,3,3,10,🟢 Champions
+1097,LinkAnalytics,Insurance,0,professional,59.0,39,2025-01-28 21:05:48,2267.3,6,0.0,8.0,429,1,2,4,7,🔴 High-Value Sleepers
+1098,SageLogic,Technology,0,starter,15.83,34,2025-09-06 23:57:47,2263.0714285714284,2,0.0,8.0,207,3,1,3,7,🟡 New/Promising
+1099,NovaCorp,Manufacturing,0,free,0.0,33,2025-06-14 20:10:24,1722.84,5,0.0,10.0,292,1,1,1,3,⚪ Dormant/Lost
+1100,Sync Logic,Manufacturing,0,professional,49.17,38,2025-10-16 07:10:35,1813.1875,2,0.0,5.0,168,4,2,4,10,🟢 Champions
+1101,FluxHub,Media,0,professional,39.0,43,2025-08-15 03:39:58,1525.75,5,0.0,7.0,230,2,3,3,8,🟠 At Risk
+1102,QuarkLogic,Insurance,0,starter,12.0,53,2025-10-20 03:05:06,1540.4722222222222,4,0.0,9.0,164,4,4,2,10,🟢 Champions
+1103,Luna Systems,Finance,0,starter,12.0,37,2025-10-16 04:11:59,2118.3870967741937,4,0.0,7.0,168,4,2,2,8,🟡 New/Promising
+1104,Luna Analytics,Legal,1,starter,10.0,53,2025-10-19 14:48:51,1632.1162790697674,4,0.0,5.0,165,4,4,2,10,🟢 Champions
+1105,EchoNet,Media,0,professional,39.0,34,2025-10-06 20:08:34,1743.6296296296296,5,0.0,2.0,178,4,1,3,8,🟡 New/Promising
+1106,ArcAnalytics,Logistics,0,professional,35.1,40,2025-09-24 15:54:26,2002.2758620689656,6,0.0,8.0,190,3,2,3,8,🟡 New/Promising
+1107,VertexPlatform,Legal,1,professional,59.0,48,2025-08-01 04:50:42,1784.34375,2,0.0,6.0,244,2,4,4,10,🟢 Champions
+1108,GlowWorks,Marketing,0,free,0.0,43,2025-08-19 19:50:53,1798.8947368421052,5,0.0,8.0,226,2,3,1,6,🟠 At Risk
+1109,Iris Group,Insurance,0,free,0.0,37,2025-02-03 14:06:20,1783.5185185185185,2,0.0,10.0,423,1,2,1,4,⚪ Dormant/Lost
+1110,QuestCloud,Logistics,1,starter,10.0,42,2025-07-18 04:54:22,1861.6,7,0.0,9.0,258,2,3,2,7,🟠 At Risk
+1111,EdgeGroup,E-commerce,0,professional,49.17,36,2025-07-25 12:25:45,1505.6923076923076,3,0.0,8.0,251,2,2,4,8,🔴 High-Value Sleepers
+1112,SyncDev,Retail,1,free,0.0,41,2025-05-24 07:12:07,1942.1,5,0.0,8.0,313,1,3,1,5,🟠 At Risk
+1113,Rift Stack,Insurance,0,starter,12.0,43,2025-08-02 23:36:00,1757.4545454545455,1,0.0,7.0,243,2,3,2,7,🟠 At Risk
+1114,LinkDev,Finance,0,free,0.0,41,2025-09-16 17:41:26,2184.3055555555557,2,0.0,6.0,198,3,3,1,7,🔵 Loyal Customers
+1115,Flow Pro,Real Estate,0,enterprise,82.5,44,2025-06-05 12:38:47,1949.4411764705883,4,0.0,6.0,301,1,3,4,8,🟠 At Risk
+1116,Hub Stack,Logistics,0,free,0.0,48,2025-07-30 03:35:30,1911.175,6,0.0,,246,2,4,1,7,🟠 At Risk
+1117,Acme Labs,Healthcare,0,professional,39.0,38,2025-07-28 06:23:02,1620.0967741935483,3,0.0,10.0,248,2,2,3,7,🔴 High-Value Sleepers
+1118,JadeCloud,Logistics,0,free,0.0,49,2025-10-01 14:17:56,1851.0,7,0.0,8.0,183,3,4,1,8,🔵 Loyal Customers
+1119,BoltHQ,Manufacturing,1,free,0.0,35,2025-05-19 04:07:49,1598.24,2,0.0,2.0,318,1,1,1,3,⚪ Dormant/Lost
+1120,Acme Stack,Manufacturing,0,starter,10.0,29,2025-08-03 00:55:48,1883.0,6,0.0,10.0,242,2,1,2,5,⚪ Dormant/Lost
+1121,ZealGroup,Media,0,enterprise,199.0,33,2025-08-10 18:14:22,1947.6923076923076,3,0.0,5.0,235,2,1,4,7,🔴 High-Value Sleepers
+1122,KiteLogic,Insurance,0,professional,59.0,39,2025-10-06 16:16:53,1642.8064516129032,5,0.0,5.0,178,4,2,4,10,🟢 Champions
+1123,IonLabs,Finance,0,professional,59.0,44,2025-08-05 11:28:35,1804.6666666666667,4,0.0,10.0,240,2,3,4,9,🟠 At Risk
+1124,KeenStudio,Healthcare,0,professional,49.17,39,2025-08-26 11:43:24,1982.2222222222222,4,0.0,9.0,219,3,2,4,9,🟡 New/Promising
+1125,SyncLogic,Insurance,0,starter,19.0,46,2025-08-12 14:49:01,1793.35,2,0.0,7.0,233,2,4,3,9,🟠 At Risk
+1126,Echo Works,Media,0,starter,10.0,37,2025-09-16 20:58:36,1826.0,5,0.0,8.0,198,3,2,2,7,🟡 New/Promising
+1127,RiftCloud,Retail,0,free,0.0,37,2025-10-06 15:32:11,1874.4137931034484,8,0.0,5.0,178,4,2,1,7,🟡 New/Promising
+1128,Zen Platform,Telecommunications,0,professional,59.0,42,2025-01-12 12:20:59,1699.9444444444443,4,0.0,5.0,445,1,3,4,8,🟠 At Risk
+1129,JadeGroup,Legal,0,starter,15.83,40,2025-07-04 00:21:33,1695.939393939394,3,0.0,5.0,272,2,2,3,7,🔴 High-Value Sleepers
+1130,EdgeLogic,Media,0,professional,39.0,37,2025-07-24 02:24:22,1352.6296296296296,6,0.0,8.0,252,2,2,3,7,🔴 High-Value Sleepers
+1131,Luna Corp,Healthcare,1,starter,8.5,42,2025-08-27 11:53:03,1871.6,7,0.0,5.0,218,3,3,2,8,🔵 Loyal Customers
+1132,Echo Analytics,Telecommunications,0,starter,19.0,34,2025-08-16 15:38:00,1937.0,4,0.0,8.0,229,2,1,3,6,🔴 High-Value Sleepers
+1133,HubCorp,Healthcare,0,starter,15.83,51,2025-10-13 16:06:07,1927.7317073170732,5,0.0,6.0,171,4,4,3,11,🟢 Champions
+1134,CloudAnalytics,Finance,0,free,0.0,41,2025-08-24 12:47:36,1939.4722222222222,4,0.0,10.0,221,3,3,1,7,🔵 Loyal Customers
+1135,CoreAnalytics,Telecommunications,1,free,0.0,49,2025-09-11 00:37:16,1848.8372093023256,1,0.0,9.0,203,3,4,1,8,🔵 Loyal Customers
+1136,TidalDynamics,Media,0,starter,12.0,41,2025-09-15 20:00:58,1646.2058823529412,5,0.0,5.0,199,3,3,2,8,🔵 Loyal Customers
+1137,UnitLabs,Media,1,enterprise,199.0,35,2025-10-12 10:35:10,1857.9310344827586,6,0.0,5.0,172,4,1,4,9,🟡 New/Promising
+1138,Onyx Labs,Manufacturing,0,professional,32.5,43,2025-07-03 13:13:38,1749.8064516129032,1,0.0,9.0,273,2,3,3,8,🟠 At Risk
+1139,Hub Works,E-commerce,0,starter,12.0,53,2025-09-28 21:21:02,1530.3255813953488,4,0.0,6.0,186,3,4,2,9,🔵 Loyal Customers
+1140,WaveNet,Logistics,0,free,0.0,31,2025-06-24 15:46:02,1925.962962962963,3,0.0,,282,2,1,1,4,⚪ Dormant/Lost
+1141,NovaNet,Healthcare,0,starter,15.83,42,2025-10-30 11:36:04,1534.2857142857142,4,0.0,8.0,154,4,3,3,10,🟢 Champions
+1142,OrbitStack,Real Estate,1,professional,59.0,39,2025-09-04 04:42:04,1764.40625,4,0.0,7.0,210,3,2,4,9,🟡 New/Promising
+1143,Bolt Logic,Real Estate,0,professional,59.0,39,2024-11-16 17:11:31,1913.969696969697,5,0.0,6.0,502,1,2,4,7,🔴 High-Value Sleepers
+1144,Zen IO,Consulting,0,professional,49.17,39,2025-09-01 17:40:05,1682.516129032258,1,0.0,10.0,213,3,2,4,9,🟡 New/Promising
+1145,QuarkDigital,Finance,0,professional,39.0,46,2025-10-01 01:17:41,1384.9117647058824,3,0.0,8.0,183,3,4,3,10,🟢 Champions
+1146,Vine AI,Real Estate,0,starter,19.0,41,2025-09-02 19:07:13,1835.1875,5,0.0,9.0,212,3,3,3,9,🔵 Loyal Customers
+1147,Hub Tech,Manufacturing,0,starter,19.0,37,2025-09-21 16:09:44,1915.21875,5,0.0,8.0,193,3,2,3,8,🟡 New/Promising
+1148,KeenDynamics,Media,0,starter,12.0,48,2025-08-20 06:31:14,1907.2432432432433,4,0.0,10.0,225,3,4,2,9,🔵 Loyal Customers
+1149,ArcOps,Finance,0,free,0.0,40,2025-08-26 11:55:09,1709.5151515151515,4,0.0,,219,3,2,1,6,🟡 New/Promising
+1150,Wave Solutions,E-commerce,0,enterprise,99.0,51,2025-06-25 00:20:33,1815.5555555555557,4,0.0,7.0,281,2,4,4,10,🟢 Champions
+1151,WaveDev,Media,0,starter,12.0,37,2025-05-15 09:07:53,1992.967741935484,4,0.0,,322,1,2,2,5,⚪ Dormant/Lost
+1152,UnitVentures,Real Estate,0,starter,12.0,35,2025-02-25 23:08:34,1893.037037037037,6,0.0,9.0,401,1,1,2,4,⚪ Dormant/Lost
+1153,MistDigital,Real Estate,1,free,0.0,45,2024-11-29 15:31:27,2003.225806451613,5,0.0,7.0,489,1,4,1,6,🟠 At Risk
+1154,Nova Group,Education,0,starter,12.0,47,2025-07-02 01:14:56,1967.8461538461538,5,0.0,8.0,274,2,4,2,8,🟠 At Risk
+1155,UnitDigital,Retail,1,starter,15.83,33,2025-04-04 06:00:35,1769.875,1,0.0,6.0,363,1,1,3,5,🔴 High-Value Sleepers
+1156,Ion Digital,Legal,0,free,0.0,43,2025-09-02 23:53:13,1700.0555555555557,6,0.0,3.0,211,3,3,1,7,🔵 Loyal Customers
+1157,AcmeOps,Technology,0,enterprise,99.0,40,2025-10-21 12:13:19,1783.2,5,0.0,,163,4,2,4,10,🟢 Champions
+1158,ZealTech,Logistics,0,professional,29.25,41,2025-07-07 02:20:02,2002.2941176470588,4,0.0,7.0,269,2,3,3,8,🟠 At Risk
+1159,Vine Dynamics,Retail,0,starter,12.67,43,2025-02-23 14:41:07,1838.5714285714287,7,0.0,2.0,403,1,3,2,6,🟠 At Risk
+1160,Zen Digital,Healthcare,0,professional,49.17,40,2025-09-15 16:36:31,1809.7096774193549,4,0.0,9.0,199,3,2,4,9,🟡 New/Promising
+1161,ZenSoftware,Real Estate,1,professional,59.0,42,2025-01-25 23:11:19,1601.625,6,0.0,,432,1,3,4,8,🟠 At Risk
+1162,Jet Analytics,E-commerce,0,starter,14.25,48,2025-10-13 13:23:59,2262.3333333333335,5,0.0,10.0,171,4,4,2,10,🟢 Champions
+1163,IrisPro,Real Estate,0,professional,39.0,36,2025-09-12 23:22:15,1978.142857142857,5,0.0,9.0,202,3,2,3,8,🟡 New/Promising
+1164,Vertex Platform,Telecommunications,0,starter,10.8,41,2025-10-13 08:35:32,2001.6896551724137,5,0.0,,171,4,3,2,9,🔵 Loyal Customers
+1165,Flow Net,Retail,0,starter,10.0,39,2025-06-19 08:17:01,1898.8181818181818,6,0.0,7.0,287,2,2,2,6,🟤 Need Attention
+1166,FluxWorks,Manufacturing,0,free,0.0,45,2025-07-22 06:23:14,1658.0277777777778,6,0.0,7.0,254,2,4,1,7,🟠 At Risk
+1167,XenonLabs,Telecommunications,0,starter,12.0,36,2024-09-09 22:26:32,1948.4285714285713,3,0.0,5.0,570,1,2,2,5,⚪ Dormant/Lost
+1168,ZenCloud,Finance,0,professional,39.0,42,2025-10-21 04:55:35,1825.3235294117646,4,0.0,7.0,163,4,3,3,10,🟢 Champions
+1169,SyncAI,Education,0,starter,12.0,43,2025-05-18 11:49:49,1622.0,6,0.0,5.0,319,1,3,2,6,🟠 At Risk
+1170,Rift Labs,Technology,0,professional,32.5,50,2025-06-17 12:03:01,1592.7317073170732,6,0.0,5.0,289,2,4,3,9,🟠 At Risk
+1171,Kite Software,Marketing,0,free,0.0,38,2025-09-26 21:37:37,1874.0285714285715,4,0.0,6.0,188,3,2,1,6,🟡 New/Promising
+1172,RiftLabs,Manufacturing,0,professional,32.5,46,2025-09-18 05:13:08,1431.8333333333333,3,0.0,7.0,196,3,4,3,10,🟢 Champions
+1173,PeakAI,Logistics,0,professional,59.0,40,2025-06-18 09:25:40,1956.1176470588234,7,0.0,7.0,288,2,2,4,8,🔴 High-Value Sleepers
+1174,TidalSolutions,Logistics,0,enterprise,82.5,41,2025-09-27 12:21:54,1420.030303030303,8,0.0,3.0,187,3,3,4,10,🟢 Champions
+1175,Nexus Studio,Marketing,0,enterprise,199.0,37,2025-10-13 14:58:34,1878.2857142857142,3,0.0,5.0,171,4,2,4,10,🟢 Champions
+1176,Xenon Group,Marketing,0,professional,49.17,48,2025-08-14 13:41:43,1749.2894736842106,2,0.0,7.0,231,2,4,4,10,🟢 Champions
+1177,AcmeCloud,Consulting,0,enterprise,82.5,49,2025-06-13 05:08:19,1762.3333333333333,6,0.0,9.0,293,1,4,4,9,🟠 At Risk
+1178,ZenTech,Media,1,free,0.0,41,2025-03-11 22:53:16,1675.5945945945946,7,0.0,5.0,387,1,3,1,5,🟠 At Risk
+1179,HubDigital,Marketing,0,professional,59.0,36,2025-10-02 04:20:47,1590.5625,5,0.0,7.0,182,4,2,4,10,🟢 Champions
+1180,Core Hub,Education,0,free,0.0,34,2025-08-07 13:13:39,1868.5,2,0.0,1.0,238,2,1,1,4,⚪ Dormant/Lost
+1181,QuestPro,Legal,1,starter,10.0,56,2025-04-07 05:13:25,1855.7021276595744,5,0.0,10.0,360,1,4,2,7,🟠 At Risk
+1182,RushSystems,Technology,1,starter,8.5,31,2025-09-14 16:05:41,1950.0434782608695,5,0.0,9.0,200,3,1,2,6,🟡 New/Promising
+1183,QuestAI,Education,0,professional,44.25,39,2025-07-26 06:34:17,1740.4375,6,0.0,8.0,250,2,2,3,7,🔴 High-Value Sleepers
+1184,Edge Solutions,Telecommunications,0,starter,8.0,39,2025-03-12 21:46:49,1931.7777777777778,4,0.0,10.0,386,1,2,1,4,⚪ Dormant/Lost
+1185,LunaAI,Technology,0,starter,15.83,28,2025-05-08 18:57:10,1272.7727272727273,7,0.0,5.0,329,1,1,3,5,🔴 High-Value Sleepers
+1186,Meta Ventures,E-commerce,0,starter,19.0,35,2025-05-05 21:27:10,1721.103448275862,2,0.0,8.0,332,1,1,3,5,🔴 High-Value Sleepers
+1187,Mist Hub,Finance,0,starter,10.0,49,2025-10-11 09:06:29,1771.9714285714285,3,0.0,8.0,173,4,4,2,10,🟢 Champions
+1188,WavePlatform,Telecommunications,1,starter,19.0,43,2025-10-23 02:42:37,1899.0,5,0.0,8.0,161,4,3,3,10,🟢 Champions
+1189,Cloud Solutions,Healthcare,0,professional,59.0,46,2025-09-22 23:39:26,2130.9375,4,0.0,7.0,192,3,4,4,11,🟢 Champions
+1190,Ion Corp,Media,0,enterprise,74.25,39,2025-10-24 09:54:53,1441.9285714285713,3,0.0,7.0,160,4,2,4,10,🟢 Champions
+1191,WaveWorks,Consulting,0,starter,8.5,44,2025-06-11 21:19:47,2051.55,7,0.0,5.0,295,1,3,2,6,🟠 At Risk
+1192,LinkHQ,Finance,0,starter,12.0,28,2025-09-07 04:41:07,1707.3,2,0.0,,207,3,1,2,6,🟡 New/Promising
+1193,KeenHub,Manufacturing,0,starter,15.83,40,2025-10-09 04:39:44,2061.0,2,0.0,8.0,175,4,2,3,9,🟡 New/Promising
+1194,Edge Cloud,Real Estate,0,starter,12.0,41,2025-09-06 00:27:54,1891.2903225806451,2,0.0,6.0,208,3,3,2,8,🔵 Loyal Customers
+1195,Link Works,Media,0,free,0.0,40,2025-09-08 15:07:30,1659.7096774193549,1,0.0,9.0,206,3,2,1,6,🟡 New/Promising
+1196,Acme Hub,Real Estate,0,professional,59.0,36,2025-07-20 23:35:52,2077.9615384615386,4,0.0,5.0,256,2,2,4,8,🔴 High-Value Sleepers
+1197,Cloud Cloud,Education,0,starter,12.0,47,2025-06-08 05:13:36,1396.9722222222222,5,0.0,9.0,298,1,4,2,7,🟠 At Risk
+1198,NovaPro,Marketing,0,free,0.0,43,2025-09-07 09:28:11,1735.560975609756,4,0.0,,207,3,3,1,7,🔵 Loyal Customers
+1199,FlowVentures,Healthcare,1,starter,15.83,40,2025-09-15 01:51:24,1874.3030303030303,4,0.0,9.0,199,3,2,3,8,🟡 New/Promising
+1200,Arc Solutions,Telecommunications,0,starter,19.0,35,2025-07-22 05:30:05,1848.923076923077,3,0.0,5.0,254,2,1,3,6,🔴 High-Value Sleepers
+1201,Acme Labs,Technology,0,,0.0,32,2025-06-27 14:19:28,2056.6521739130435,4,0.0,6.0,279,2,1,1,4,⚪ Dormant/Lost
+1202,AcmeLabs,Technology,0,,0.0,43,2024-12-11 06:04:40,1836.4857142857143,6,0.0,7.0,477,1,3,1,5,🟠 At Risk
+1203,Unknown Corp,,0,,0.0,42,2025-09-17 21:25:49,1887.0,5,0.0,6.0,197,3,3,1,7,🔵 Loyal Customers
+1204,,,0,,0.0,47,2025-08-18 20:40:42,1759.8333333333333,3,0.0,8.0,227,2,4,1,7,🟠 At Risk

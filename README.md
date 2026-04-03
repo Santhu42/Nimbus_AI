@@ -173,7 +173,10 @@ Script: `task3_analysis.py`
 
 ## 🎨 6. Task 4 — Power BI Dashboard
 
-File: `Roado Project.pbix`
+### 📥 Download & Open
+1. **Download** the Power BI file: [Roado Project.pbix](https://drive.google.com/file/d/1eNvTYbFNoYN30MoyGfPr05jYvlVDf26x/view?usp=sharing)
+2. Ensure **Power BI Desktop** is installed on your machine ([free download](https://powerbi.microsoft.com/desktop/))
+3. Open the downloaded `.pbix` file — the dashboard will load with all visuals, filters, and data pre-configured
 
 ### KPI Summary
 
